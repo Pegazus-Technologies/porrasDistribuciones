@@ -943,9 +943,6 @@ a:hover {
   }
 }
 #fh5co-single-content {
-  z-index: 10000;
-  background: white;
-
   p,
   ul li {
     font-size: 1.05rem;
@@ -962,8 +959,7 @@ a:hover {
       margin: 0;
     }
     .imgContainer {
-      width: 468px;
-      height: 350px;
+      height: 468px;
       img {
        object-fit: cover;
        height: 100%;

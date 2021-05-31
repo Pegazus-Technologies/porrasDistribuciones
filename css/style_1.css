@@ -1031,11 +1031,6 @@ a:hover {
   border-radius: 50%;
 }
 
-#fh5co-single-content {
-  z-index: 10000;
-  background: white;
-}
-
 #fh5co-single-content p,
 #fh5co-single-content ul li {
   font-size: 1.05rem;
@@ -1056,8 +1051,7 @@ a:hover {
 }
 
 .topModal .modal-content .imgContainer {
-  width: 468px;
-  height: 350px;
+  height: 468px;
 }
 
 .topModal .modal-content .imgContainer img {
