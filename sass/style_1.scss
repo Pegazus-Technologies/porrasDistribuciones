@@ -1,5 +1,9 @@
 /* Scss Document */
 
+html {
+  scroll-behavior: smooth;
+}
+
 $yellow: #f5bc04;
 
 @mixin border-radius($radius) {
