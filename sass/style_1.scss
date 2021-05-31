@@ -851,7 +851,7 @@ a:hover {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  z-index: 999;
+  //z-index: 999;
   opacity: 0;
   visibility: hidden;
   @include transition(0.5s);
@@ -952,16 +952,29 @@ a:hover {
   }
 }
 
-.topModal .modal-content {
-  background-color: #ffffff;
+.topModal {
+  z-index: 100000000000;
+  .modal-content {
+    background-color: #ffffff;
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .imgContainer {
+      width: 468px;
+      height: 468px;
+      img {
+       object-fit: cover;
+       height: 100%;
+      }
+    }
+  }
+  
 }
 
 
-.topModal .modal-content ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+
 
 // .topModal .modal-header {
 //   border-bottom: 0;

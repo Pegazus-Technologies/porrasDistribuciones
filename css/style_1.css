@@ -934,7 +934,6 @@ a:hover {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  z-index: 999;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.5s ease;
@@ -1042,6 +1041,10 @@ a:hover {
   font-size: 1.05rem;
 }
 
+.topModal {
+  z-index: 100000000000;
+}
+
 .topModal .modal-content {
   background-color: #ffffff;
 }
@@ -1050,6 +1053,17 @@ a:hover {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+.topModal .modal-content .imgContainer {
+  width: 468px;
+  height: 468px;
+}
+
+.topModal .modal-content .imgContainer img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
 }
 
 @media only screen and (max-width: 972px) {
