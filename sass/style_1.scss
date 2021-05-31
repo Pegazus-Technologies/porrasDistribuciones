@@ -951,6 +951,12 @@ a:hover {
 
 .topModal {
   z-index: 100000000000;
+  .modal-header {
+    background-color: $yellow;
+    h5 {
+      font-weight: 500;
+    }
+  }
   .modal-content {
     background-color: #ffffff;
     ul {
@@ -963,6 +969,12 @@ a:hover {
       img {
        object-fit: cover;
        height: 100%;
+      }
+    }
+    .modal-footer {
+      button {
+        background-color: #000000;
+        color: #ffffff;
       }
     }
   }

@@ -1040,6 +1040,14 @@ a:hover {
   z-index: 100000000000;
 }
 
+.topModal .modal-header {
+  background-color: #f5bc04;
+}
+
+.topModal .modal-header h5 {
+  font-weight: 500;
+}
+
 .topModal .modal-content {
   background-color: #ffffff;
 }
@@ -1058,6 +1066,11 @@ a:hover {
   -o-object-fit: cover;
      object-fit: cover;
   height: 100%;
+}
+
+.topModal .modal-content .modal-footer button {
+  background-color: #000000;
+  color: #ffffff;
 }
 
 @media only screen and (max-width: 972px) {
