@@ -1063,6 +1063,16 @@ a:hover {
   margin: 0;
 }
 
+.topModal .modal-content .imgContainer {
+  height: 468px;
+}
+
+.topModal .modal-content .imgContainer img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
+}
+
 .topModal .modal-content .modal-footer button {
   background-color: #000000;
   color: #ffffff;

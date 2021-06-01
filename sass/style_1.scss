@@ -969,13 +969,13 @@ a:hover {
       padding: 0;
       margin: 0;
     }
-    // .imgContainer {
-    //   height: 468px;
-    //   img {
-    //    object-fit: cover;
-    //    height: 100%;
-    //   }
-    // }
+    .imgContainer {
+      height: 468px;
+      img {
+       object-fit: cover;
+       height: 100%;
+      }
+    }
     .modal-footer {
       button {
         background-color: #000000;
