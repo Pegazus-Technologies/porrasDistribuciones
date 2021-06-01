@@ -2,6 +2,7 @@ const topSlider = document.getElementById('slider');
 
 const sliderSoacha = ['../../images/soacha1.jpg', '../../images/soacha2.jpg', '../../images/soacha3.jpg'];
 const sliderBosa = ['../../images/bosa1.jpg', '../../images/bosa2.jpg', '../../images/bosa3.jpg'];
+const sliderla12 = ['../../images/la121.jpg', '../../images/la122.jpg', '../../images/la123.jpg']
 
 
 const actualHref = window.location.href;
@@ -33,18 +34,17 @@ const showSlide = (imageUrl) => {
     </div>
     `
     const carouselImageContainer = document.getElementsByClassName('carouselImageContainer');
-    
     carouselImageContainer[0].classList.add('active');
-    
 }
 
 
 buildingSlide(actualHref, sliderSoacha, 'sucursales/bogota/Soacha.html');
 buildingSlide(actualHref,  sliderBosa, 'sucursales/bogota/Bosa.html');
+buildingSlide(actualHref,   sliderla12, 'sucursales/bogota/la12.html');
 
 
 //Mapping images when resizing
-imageMapResize();
+//imageMapResize();
 $(document).ready(function() {
     $('map').imageMapResize();
 });
