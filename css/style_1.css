@@ -3,6 +3,11 @@ html {
   scroll-behavior: smooth;
 }
 
+#slider {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
 a,
 a:hover {
   color: #f5bc04;
@@ -1056,16 +1061,6 @@ a:hover {
   list-style: none;
   padding: 0;
   margin: 0;
-}
-
-.topModal .modal-content .imgContainer {
-  height: 468px;
-}
-
-.topModal .modal-content .imgContainer img {
-  -o-object-fit: cover;
-     object-fit: cover;
-  height: 100%;
 }
 
 .topModal .modal-content .modal-footer button {
