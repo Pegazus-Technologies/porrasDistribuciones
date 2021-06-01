@@ -6,6 +6,7 @@ const sliderla12 = ['../../images/la121.jpg', '../../images/la122.jpg', '../../i
 const sliderla36 = ['../../images/la361.jpg', '../../images/la362.jpg', '../../images/la363.jpg'];
 const sliderGiron = ['../../images/giron1.jpg', '../../images/giron2.jpg', '../../images/giron3.jpg'];
 const slideLaIsla =  ['../../images/laisla1.jpg', '../../images/laisla2.jpg', '../../images/laisla3.jpg'];
+const slideFloridaBlanca =  ['../../images/florida1.jpg', '../../images/florida2.jpg', '../../images/florida3.jpg'];
 
 
 const actualHref = window.location.href;
@@ -47,7 +48,7 @@ buildingSlide(actualHref,   sliderla12, 'sucursales/bogota/la12.html');
 buildingSlide(actualHref, sliderla36, 'sucursales/bogota/La%2036.html');
 buildingSlide(actualHref, sliderGiron, 'sucursales/bucaramanga/Giron.html');
 buildingSlide(actualHref, slideLaIsla, 'sucursales/bucaramanga/Laisla.html');
-
+buildingSlide(actualHref, slideFloridaBlanca, 'bucaramanga/FloridaBlanca.html');
 
 //Mapping images when resizing
 //imageMapResize();
