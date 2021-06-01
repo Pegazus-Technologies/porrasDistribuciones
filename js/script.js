@@ -2,7 +2,10 @@ const topSlider = document.getElementById('slider');
 
 const sliderSoacha = ['../../images/soacha1.jpg', '../../images/soacha2.jpg', '../../images/soacha3.jpg'];
 const sliderBosa = ['../../images/bosa1.jpg', '../../images/bosa2.jpg', '../../images/bosa3.jpg'];
-const sliderla12 = ['../../images/la121.jpg', '../../images/la122.jpg', '../../images/la123.jpg']
+const sliderla12 = ['../../images/la121.jpg', '../../images/la122.jpg', '../../images/la123.jpg'];
+const sliderla36 = ['../../images/la361.jpg', '../../images/la362.jpg', '../../images/la363.jpg'];
+const sliderGiron = ['../../images/giron1.jpg', '../../images/giron2.jpg', '../../images/giron3.jpg'];
+const slideLaIsla =  ['../../images/laisla1.jpg', '../../images/laisla2.jpg', '../../images/laisla3.jpg'];
 
 
 const actualHref = window.location.href;
@@ -41,6 +44,9 @@ const showSlide = (imageUrl) => {
 buildingSlide(actualHref, sliderSoacha, 'sucursales/bogota/Soacha.html');
 buildingSlide(actualHref,  sliderBosa, 'sucursales/bogota/Bosa.html');
 buildingSlide(actualHref,   sliderla12, 'sucursales/bogota/la12.html');
+buildingSlide(actualHref, sliderla36, 'sucursales/bogota/La%2036.html');
+buildingSlide(actualHref, sliderGiron, 'sucursales/bucaramanga/Giron.html');
+buildingSlide(actualHref, slideLaIsla, 'sucursales/bucaramanga/Laisla.html');
 
 
 //Mapping images when resizing
