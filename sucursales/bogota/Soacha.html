@@ -99,31 +99,10 @@
     </div>
   </div>
 
-  <!-- <div id="fh5co-title-box" style="background-image: url(../../images/Soacha.jpg); background-position: 50% 90.5px;"
-    data-stellar-background-ratio="0.5"> -->
-  <!-- style="object-fit: cover;" -->
-  <div id="fh5co-title-box">
-    <img src="../../images/Soacha.jpg" alt="sucursal Soacha" border="0" usemap="#Map" class="w-100 h-100 mainBanner">
+  <div class="container" id="slider">
 
-    <map name="Map">
-    <!--========================================
-       soacha1
-     ===========================================-->
-      <area id="selectedArea" shape="rect" coords="1376,111,1797,316" href="#" data-toggle="modal" data-target="#soacha1">
-    <!--========================================
-       soacha2
-     ===========================================-->
-    <area shape="rect" coords="1336,433,1608,694" href="#" data-toggle="modal" data-target="#soacha2">
-     <!--========================================
-       soacha3 logo
-     ===========================================-->
-    <area shape="rect" coords="908,33,1308,279" href="#contact"></map>
-    <!-- <div class="overlay"></div> -->
-    <div class="page-title">
-      <img src="https://i.ibb.co/0q4mCp4/Icono-Distribuciones-Porras-La-18-3.png" alt="Free HTML5 by FreeHTMl5.co">
-      <h2>Sucursal de Soacha</h2>
-    </div>
-</div>
+  </div>
+
   <div id="fh5co-single-content" class="container-fluid pb-4 pt-4 paddding">
     <div class="container paddding">
       <div class="row mx-0">
@@ -176,10 +155,37 @@
               </form>
             </div>
           </div>
-
         </div>
       </div>
     </div>
+
+    <!-- ************************************************************************************* -->
+    <!-- ************************************************************************************* -->
+    <!-- ************************************************************************************* -->
+
+    <div class="container">
+      <h3 class="mt-5 mb-5">Obtenga mas información haciendo click sobre la imagen</h3>
+      <div id="fh5co-title-box">
+        <div class="col-12">
+        <img src="../../images/Soacha.jpg" alt="sucursal Soacha" border="0" usemap="#Map" class="mainBanner img-fluid p-0">
+        <map name="Map">
+          <area shape="rect" coords="825,129,1009,303" href="#" data-toggle="modal" data-target="#soacha1">
+          <area shape="rect" coords="523,12,777,225" href="#contact">
+          <area shape="rect" coords="778,357,953,598" href="#" data-toggle="modal" data-target="#soacha2">
+        </map>
+      </div>
+
+
+        <!-- <div class="overlay"></div> -->
+      <!-- <div class="page-title">
+          <img src="https://i.ibb.co/0q4mCp4/Icono-Distribuciones-Porras-La-18-3.png" alt="Free HTML5 by FreeHTMl5.co">
+          <img src="Soacha.jpg" usemap="#image_map">
+          
+
+        Sucursal de Soacha</div> -->
+      </div>
+    </div>
+    
     <div class="container-fluid fh5co_footer_bg pb-3">
       <div class="container animate-box">
         <div class="row">
@@ -410,6 +416,7 @@
     <script src="../../js/jquery.stellar.min.js"></script>
     <!-- Main -->
     <script src="../../js/main.js"></script>
+    <script src="../../js/imageMapResizer.min.js"></script>
     <script src="../../js/script.js"></script>
     <script>if (!navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) { $(window).stellar(); }</script>
 
