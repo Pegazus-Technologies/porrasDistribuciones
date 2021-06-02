@@ -103,36 +103,6 @@ const showAlert = (state, alertMessage) => {
         `
 
         topSlider.parentNode.insertBefore(alert, topSlider);
-        //single.appendChild(alert);
-
-
-            //         // create new element
-            // const elem = document.createElement('p');
-
-            // // add text
-            // elem.innerText = 'Personal Details';
-
-            // // grab target element reference
-            // const target = document.querySelector('#intro');
-
-            // // insert the element before target element
-            // target.parentNode.insertBefore(elem, target);
-
-
-        // alert.setAttribute('class', 'position-absolute alertContainer');
-        // alert.setAttribute('id', 'alertContainer');
-        // alert.innerHTML = `${alertMessage}`;
-        // single.insertBefore(alert, topSlider)
-      
-        // setTimeout(()=>{
-        //     alert.classList.add('showAlert');
-        // },1500);
-        // setTimeout(()=>{
-        //     alert.classList.remove('showAlert');
-        //     alert.style.transition='.8s'
-        //     alert.style.display='none'
-        // },7000);
-     
     }
 }
 
