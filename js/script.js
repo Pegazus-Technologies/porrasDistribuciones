@@ -76,28 +76,71 @@ buildingSlide(actualHref, slideFloridaBlanca, floridaBlancaUrl);
     ALERTS FOR PAGES
 ==============================================================================================*/
 
-const soachaMessage = 'Hola soacha';
-const bosaMessage = 'Hola bosa';
-const La12Message = 'hola la 12';
-const la36Message = 'Hola la 36';
-const gironMessage = 'Hola giron';
-const laIslaMessage = 'Hola la isla';
-const floridaBlancaMessage = 'Hola floridaBlanca';
+const soachaMessage = 'Soacha Realizamos envios a xxxx xxx xxxx ....';
+const bosaMessage = 'Bosa Realizamos envios a xxxx xxx xxxx ....';
+const La12Message = 'La 12 Realizamos envios a xxxx xxx xxxx ....';
+const la36Message = 'La 36 Realizamos envios a xxxx xxx xxxx ....';
+const gironMessage = 'Girón Realizammos envios a xxxx xxx xxxx ....';
+const laIslaMessage = 'La Isla Realizamos envios a xxxx xxx xxxx ....';
+const floridaBlancaMessage = 'Florida Blanca Realizamos envios a xxxx xxx xxxx ....';
 
 
 
 const showAlert = (state, alertMessage) => {
     if(state === true){
         const alert = document.createElement('div');
-        alert.setAttribute('class', 'position-absolute alertContainer');
-        alert.setAttribute('id', 'alertContainer');
-        alert.innerHTML = `${alertMessage}`;
-        single.appendChild(alert);
-        alert.style.opacity='1';
-        alert.style.transition = "all 2s";
-        
+        alert.setAttribute('class', 'container')
+        alert.innerHTML = `
+        <div class="d-flex align-items-center justify-content-between alert alert-info border-0 rounded-0 alert-dismissible fade show alertContainer mt-5" role="alert">
+            <div class="d-inline">
+                <h3 class='d-inline'><i class="fa fa-map-marker pr-2" aria-hidden="true"></i></h3>
+                <span class="font-weight-bold">${alertMessage}</span>
+            </div>
+            <button type="button" class="close mt-1 p-0" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        `
+
+        topSlider.parentNode.insertBefore(alert, topSlider);
+        //single.appendChild(alert);
+
+
+            //         // create new element
+            // const elem = document.createElement('p');
+
+            // // add text
+            // elem.innerText = 'Personal Details';
+
+            // // grab target element reference
+            // const target = document.querySelector('#intro');
+
+            // // insert the element before target element
+            // target.parentNode.insertBefore(elem, target);
+
+
+        // alert.setAttribute('class', 'position-absolute alertContainer');
+        // alert.setAttribute('id', 'alertContainer');
+        // alert.innerHTML = `${alertMessage}`;
+        // single.insertBefore(alert, topSlider)
+      
+        // setTimeout(()=>{
+        //     alert.classList.add('showAlert');
+        // },1500);
+        // setTimeout(()=>{
+        //     alert.classList.remove('showAlert');
+        //     alert.style.transition='.8s'
+        //     alert.style.display='none'
+        // },7000);
+     
     }
 }
+
+
+var list = document.getElementById("myList");    // Get the <ul> element to insert a new node
+// list.insertBefore(newItem, list.childNodes[0]); 
+
+
 
 //showAlert();
 
@@ -116,31 +159,6 @@ buildingSlide(actualHref, null, floridaBlancaUrl, floridaBlancaMessage);
 $(document).ready(function() {
     $('map').imageMapResize();
 });
-
-
-// const alerts = (actualHref, compareUrl) => {
-
-// }
-
-// const buildingSlide = (actualHref, imagesArray, compareUrl) => {
-//     if(actualHref.includes(compareUrl)){
-//         showSlide(imagesArray);
-//     }
-// }
-
-
-
-
-
-
-
-
-
-// const selectedArea = document.getElementById('selectedArea');
-// selectedArea.addEventListener('click', function(){
-//     this.parentElement.parentElement.children[0].src = '../../images/bebidas.jpg';
-//     this.style.opacity = '0';
-// })
 
 
 //https://as01.epimg.net/meristation/imagenes/2020/07/15/avances/1594795396_861858_1594801711_portada_normal.jpg

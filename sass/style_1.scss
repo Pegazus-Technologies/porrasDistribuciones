@@ -1001,14 +1001,23 @@ a:hover {
 
 //Alerts
 .alertContainer {
-  position: absolute;
-  color: #000;
-  background-color: $yellow;
+  //position: absolute;
+  display: block;
+  //color: #000;
+  //background-color: $yellow;
   padding: 20px 70px;
-  top: 20px;
-  right: 50px;
-  border-radius: 10px;
-  opacity: 0;
+  // top: 20px;
+  // right: 50px;
+  // border-radius: 5px;
+  // opacity: 0;
+  // transition: 5s;
+}
+
+.showAlert {
+  transition: .8s;
+  color: #000000;
+  opacity: 1;
+  display: block;
 }
 
 
