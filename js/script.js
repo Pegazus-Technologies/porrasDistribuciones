@@ -65,16 +65,12 @@ const floridaBlancaUrl = 'bucaramanga/FloridaBlanca.html';
 
 buildingSlide(actualHref, sliderSoacha, soachaSucursalUrl);
 buildingSlide(actualHref,  sliderBosa, bosaSucursalUrl);
-buildingSlide(actualHref,   sliderla12, la12SucursalUrl); 
+buildingSlide(actualHref,   sliderla12, la12SucursalUrl);
 buildingSlide(actualHref, sliderla36, la36SucursalUrl);
 buildingSlide(actualHref, sliderGiron, gironSucursalUrl);
 buildingSlide(actualHref, slideLaIsla, laIslaSucursalUrl);
 buildingSlide(actualHref, slideFloridaBlanca, floridaBlancaUrl);
 
-//Mapping images when resizing
-$(document).ready(function() {
-    $('map').imageMapResize();
-});
 
 /*============================================================================================
     ALERTS FOR PAGES
@@ -92,9 +88,17 @@ const floridaBlancaMessage = 'Hola floridaBlanca';
 
 const showAlert = (state, alertMessage) => {
     if(state === true){
-        console.log(alertMessage)
+        const alert = document.createElement('div');
+        alert.setAttribute('class', 'position-absolute alertContainer');
+        alert.setAttribute('id', 'alertContainer');
+        alert.innerHTML = `${alertMessage}`;
+        single.appendChild(alert);
+       
+        
     }
 }
+
+//showAlert();
 
 
 buildingSlide(actualHref, null, soachaSucursalUrl, soachaMessage);
@@ -107,6 +111,10 @@ buildingSlide(actualHref, null, floridaBlancaUrl, floridaBlancaMessage);
 
 
 
+//Mapping images when resizing
+$(document).ready(function() {
+    $('map').imageMapResize();
+});
 
 
 // const alerts = (actualHref, compareUrl) => {

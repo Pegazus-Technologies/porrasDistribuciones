@@ -999,16 +999,17 @@ a:hover {
   }
 }
 
-
-
-
-// .topModal .modal-header {
-//   border-bottom: 0;
-// }
-
-// .topModal .modal-footer {
-//   border-top: 0;
-// }
+//Alerts
+.alertContainer {
+  position: absolute;
+  color: #000;
+  background-color: $yellow;
+  padding: 20px 70px;
+  top: 20px;
+  right: 50px;
+  border-radius: 10px;
+  opacity: 0;
+}
 
 
 @media only screen and (max-width: 972px){
