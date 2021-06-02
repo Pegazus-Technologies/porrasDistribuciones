@@ -11,6 +11,7 @@ html {
 a,
 a:hover {
   color: #f5bc04;
+  text-decoration: none;
 }
 
 .fh5co_header_bg {
@@ -886,6 +887,7 @@ a:hover {
 }
 
 .contact_btn {
+  border: none;
   background: #f5bc04 !important;
   border-radius: 0 !important;
   color: #fff !important;
@@ -894,10 +896,8 @@ a:hover {
 
 .contact_btn:hover,
 .contact_btn:focus {
-  background: none !important;
-  border: 1px solid #f5bc04 !important;
+  background: #000000 !important;
   border-radius: 0 !important;
-  color: #f5bc04 !important;
   padding: 10px 50px !important;
 }
 
@@ -1076,6 +1076,18 @@ a:hover {
 .topModal .modal-content .modal-footer button {
   background-color: #000000;
   color: #ffffff;
+}
+
+.signUpContainer {
+  height: 100vh !important;
+}
+
+.signUpContainer img {
+  width: 55px;
+}
+
+.signUpContainer h3 {
+  text-align: center;
 }
 
 @media only screen and (max-width: 972px) {
