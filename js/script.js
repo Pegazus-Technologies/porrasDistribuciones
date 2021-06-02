@@ -1,4 +1,11 @@
 const topSlider = document.getElementById('slider');
+const single = document.getElementById('single');
+
+
+
+/*============================================================================================
+    SLIDERS FORM PAGES
+==============================================================================================*/
 
 const sliderSoacha = ['../../images/soacha1.jpg', '../../images/soacha2.jpg', '../../images/soacha3.jpg'];
 const sliderBosa = ['../../images/bosa1.jpg', '../../images/bosa2.jpg', '../../images/bosa3.jpg'];
@@ -11,9 +18,14 @@ const slideFloridaBlanca =  ['../../images/florida1.jpg', '../../images/florida2
 
 const actualHref = window.location.href;
 
-const buildingSlide = (actualHref, imagesArray, compareUrl) => {
+const buildingSlide = (actualHref, imagesArray, compareUrl, alertMessage) => {
     if(actualHref.includes(compareUrl)){
-        showSlide(imagesArray);
+        if(imagesArray !== null && alertMessage === undefined){
+            showSlide(imagesArray);
+        }else{
+            showAlert(true, alertMessage);
+        }
+        
     }
 }
 
@@ -41,24 +53,71 @@ const showSlide = (imageUrl) => {
     carouselImageContainer[0].classList.add('active');
 }
 
+const soachaSucursalUrl =  'sucursales/bogota/Soacha.html';
+const bosaSucursalUrl = 'sucursales/bogota/Bosa.html';
+const la12SucursalUrl = 'sucursales/bogota/la12.html';
+const la36SucursalUrl = 'sucursales/bogota/La%2036.html';
+const gironSucursalUrl = 'sucursales/bucaramanga/Giron.html';
+const laIslaSucursalUrl = 'sucursales/bucaramanga/Laisla.html'
+const floridaBlancaUrl = 'bucaramanga/FloridaBlanca.html';
 
-buildingSlide(actualHref, sliderSoacha, 'sucursales/bogota/Soacha.html');
-buildingSlide(actualHref,  sliderBosa, 'sucursales/bogota/Bosa.html');
-buildingSlide(actualHref,   sliderla12, 'sucursales/bogota/la12.html');
-buildingSlide(actualHref, sliderla36, 'sucursales/bogota/La%2036.html');
-buildingSlide(actualHref, sliderGiron, 'sucursales/bucaramanga/Giron.html');
-buildingSlide(actualHref, slideLaIsla, 'sucursales/bucaramanga/Laisla.html');
-buildingSlide(actualHref, slideFloridaBlanca, 'bucaramanga/FloridaBlanca.html');
+
+
+buildingSlide(actualHref, sliderSoacha, soachaSucursalUrl);
+buildingSlide(actualHref,  sliderBosa, bosaSucursalUrl);
+buildingSlide(actualHref,   sliderla12, la12SucursalUrl); 
+buildingSlide(actualHref, sliderla36, la36SucursalUrl);
+buildingSlide(actualHref, sliderGiron, gironSucursalUrl);
+buildingSlide(actualHref, slideLaIsla, laIslaSucursalUrl);
+buildingSlide(actualHref, slideFloridaBlanca, floridaBlancaUrl);
 
 //Mapping images when resizing
-//imageMapResize();
 $(document).ready(function() {
     $('map').imageMapResize();
 });
 
+/*============================================================================================
+    ALERTS FOR PAGES
+==============================================================================================*/
+
+const soachaMessage = 'Hola soacha';
+const bosaMessage = 'Hola bosa';
+const La12Message = 'hola la 12';
+const la36Message = 'Hola la 36';
+const gironMessage = 'Hola giron';
+const laIslaMessage = 'Hola la isla';
+const floridaBlancaMessage = 'Hola floridaBlanca';
 
 
 
+const showAlert = (state, alertMessage) => {
+    if(state === true){
+        console.log(alertMessage)
+    }
+}
+
+
+buildingSlide(actualHref, null, soachaSucursalUrl, soachaMessage);
+buildingSlide(actualHref,  null, bosaSucursalUrl, bosaMessage);
+buildingSlide(actualHref,  null, la12SucursalUrl, La12Message);
+buildingSlide(actualHref, null, la36SucursalUrl, la36Message);
+buildingSlide(actualHref, null, gironSucursalUrl, gironMessage);
+buildingSlide(actualHref, null, laIslaSucursalUrl, laIslaMessage);
+buildingSlide(actualHref, null, floridaBlancaUrl, floridaBlancaMessage);
+
+
+
+
+
+// const alerts = (actualHref, compareUrl) => {
+
+// }
+
+// const buildingSlide = (actualHref, imagesArray, compareUrl) => {
+//     if(actualHref.includes(compareUrl)){
+//         showSlide(imagesArray);
+//     }
+// }
 
 
 
