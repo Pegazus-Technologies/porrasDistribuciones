@@ -93,7 +93,8 @@ const showAlert = (state, alertMessage) => {
         alert.setAttribute('id', 'alertContainer');
         alert.innerHTML = `${alertMessage}`;
         single.appendChild(alert);
-       
+        alert.style.opacity='1';
+        alert.style.transition = "all 2s";
         
     }
 }
