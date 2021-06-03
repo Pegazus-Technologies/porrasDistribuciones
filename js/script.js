@@ -103,16 +103,9 @@ const showAlert = (state, alertMessage) => {
         `
 
         topSlider.parentNode.insertBefore(alert, topSlider);
+
     }
 }
-
-
-var list = document.getElementById("myList");    // Get the <ul> element to insert a new node
-// list.insertBefore(newItem, list.childNodes[0]); 
-
-
-
-//showAlert();
 
 
 buildingSlide(actualHref, null, soachaSucursalUrl, soachaMessage);
@@ -129,6 +122,27 @@ buildingSlide(actualHref, null, floridaBlancaUrl, floridaBlancaMessage);
 $(document).ready(function() {
     $('map').imageMapResize();
 });
+
+/*============================================================================================
+    CONTACT FORMS
+==============================================================================================*/
+
+// const name = document.getElementById('name');
+// const email = document.getElementById('email');
+// const subject = document.getElementById('subject');
+// const message = document.getElementById('message');
+// const send = document.getElementById('send');
+// const contactForm = document.getElementById('fh5co_contact_form');
+
+// contactForm.addEventListener('submit', validateForms);
+
+// function validateForms(e){
+//     e.preventDefault();
+// }
+
+
+
+// validateForms(name.value, email.value, subject.value, message.value)
 
 
 //https://as01.epimg.net/meristation/imagenes/2020/07/15/avances/1594795396_861858_1594801711_portada_normal.jpg
