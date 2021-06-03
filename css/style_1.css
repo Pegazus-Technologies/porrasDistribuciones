@@ -3,6 +3,17 @@ html {
   scroll-behavior: smooth;
 }
 
+.titulo >h1 {
+  font-size: 24px;
+  color: #FDC403;
+  font-weight: 700;
+}
+
+.nombre{
+  color: #FDC403;
+  font-weight: 600;
+}
+
 #slider {
   margin-top: 40px;
   margin-bottom: 20px;
@@ -18,6 +29,12 @@ a:hover {
   background: #222;
   color: #fff;
 }
+
+.text_info {
+  font-size: 18px;
+  color: #070403;
+}
+
 
 .color_fff {
   color: #fff !important;
@@ -88,9 +105,10 @@ a:hover {
   border-radius: 50%;
 }
 
-.fh5co_verticle_middle {
-  vertical-align: middle;
-  display: table-cell;
+.fh5co_verticle_middle{
+  vertical-align:middle;
+  color: #997719;
+  display:table-cell;
 }
 
 .fh5co_country_width {
@@ -103,6 +121,19 @@ a:hover {
   margin: 0 10px;
   position: relative;
   top: -10px;
+}
+
+.nav-link{
+  font-weight: 400;
+  font-size: 20px;
+}
+
+
+.subtitulo {
+  font-size: 20px;
+  color: #997719 !important;
+  font-weight: 800;
+  text-align: justify;
 }
 
 .navbar-light .navbar-nav .open > .nav-link,
@@ -251,9 +282,10 @@ a:hover {
   padding: 0 10px;
 }
 
-.fh5co_heading {
-  font-size: 20px;
-  color: #424040;
+.titulo{
+  font-size:30px;
+  font-weight: 300;
+  color:#fabc12;
 }
 
 .fh5co_heading_border_bottom {
@@ -381,8 +413,8 @@ a:hover {
 }
 
 .fh5co_news_img > img {
-  height: 260px;
-  min-width: 100%;
+  height: 250px;
+  min-width: 110%;
 }
 
 .c_b {
@@ -397,9 +429,13 @@ a:hover {
   color: #f5bc04;
 }
 
+.title{
+  color: #FDC403;
+}
+
 .fh5co_small_post_heading {
   font-size: 17px;
-  color: #424040;
+  color: #FDC403;
   -webkit-transition: all all 0.5s ease;
   transition: all all 0.5s ease;
 }
@@ -502,13 +538,15 @@ a:hover {
 
 .fh5co_mini_time {
   font-size: 14px;
-  color: #222;
+  color: #070403;
   display: inline-block;
+  font-weight: 300;
 }
 
 .fh5co_consectetur {
-  font-size: 14px;
-  color: #777;
+  font-size: 16px;
+  color: #070403;
+  font-weight: 700;
 }
 
 .fh5co_gaming_topikk {
@@ -522,9 +560,9 @@ a:hover {
 }
 
 .fh5co_tagg {
-  background: #f1f1f1;
+  background: #070403;
   padding: 10px 15px;
-  color: #222;
+  color: #fff;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
   margin-right: 8px;
@@ -535,7 +573,7 @@ a:hover {
 
 .fh5co_tagg:hover,
 .fh5co_tagg:focus {
-  background: #f5bc04;
+  background: #997719;
   color: #fff;
   text-decoration: none;
 }
@@ -543,17 +581,25 @@ a:hover {
 .fh5co_most_trading {
   height: 60px;
   width: 100%;
+  font-size: 16px;
+  color: #070403;
+}
+
+.most_fh5co_treding_font{
+  font-size: 14px;
+  color: #997719 !important;
+  font-weight: 400;
 }
 
 .most_fh5co_treding_font_123 {
   font-size: 12px;
-  color: #777;
+  color: #070403;
 }
 
 .btn_mange_pagging {
-  background: #f1f1f1;
+  background: #FDC403;
   padding: 12px 20px;
-  color: #222 !important;
+  color: #fff !important;
   font-weight: 800;
   margin: 0 10px;
   -webkit-transition: all 0.5s ease;
@@ -561,8 +607,8 @@ a:hover {
 }
 
 .btn_pagging {
-  background: #f1f1f1 !important;
-  color: #222;
+  background: #FDC403 !important;
+  color: #fff;
   padding: 12px 20px !important;
   font-weight: 800;
   margin: 0 10px;
@@ -595,14 +641,15 @@ a:hover {
 }
 
 .footer_main_title {
-  color: #fff;
+  color: #FDC403;
   font-weight: 800;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .footer_sub_about {
-  color: #c9c8c8;
+  color: #fffefe;
   font-size: 14px;
+  font-weight: 300px;
 }
 
 .fh5co_display_table_footer {
@@ -656,9 +703,10 @@ a:hover {
 }
 
 .footer_makes_sub_font {
-  font-size: 12px;
-  color: #777;
+  font-size: 14px;
+  color: #997719;
 }
+
 
 .position_footer_relative {
   position: relative;
@@ -668,6 +716,10 @@ a:hover {
   position: absolute;
   top: 60px;
   left: -5px;
+}
+
+.footer_position_absolute > img {
+  width: 10px;
 }
 
 .footer_img_post_6 {
@@ -774,7 +826,8 @@ a:hover {
 
 .fh5co_heading {
   font-size: 24px;
-  color: #222;
+  color: #FDC403;
+  font-weight: 700;
 }
 
 .fh5co_contact_us_no_icon_div {
