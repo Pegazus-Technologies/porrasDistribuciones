@@ -76,13 +76,13 @@ buildingSlide(actualHref, slideFloridaBlanca, floridaBlancaUrl);
     ALERTS FOR PAGES
 ==============================================================================================*/
 
-const soachaMessage = 'Soacha Realizamos envios a xxxx xxx xxxx ....';
-const bosaMessage = 'Bosa Realizamos envios a xxxx xxx xxxx ....';
-const La12Message = 'La 12 Realizamos envios a xxxx xxx xxxx ....';
-const la36Message = 'La 36 Realizamos envios a xxxx xxx xxxx ....';
-const gironMessage = 'Girón Realizammos envios a xxxx xxx xxxx ....';
-const laIslaMessage = 'La Isla Realizamos envios a xxxx xxx xxxx ....';
-const floridaBlancaMessage = 'Florida Blanca Realizamos envios a xxxx xxx xxxx ....';
+const soachaMessage = 'Esta sede no realiza domicilios.';
+const bosaMessage = 'Realizamos domicilios a toda la localidad de Bosa y alrededores';
+const La12Message = 'Realizamos domicilios a parqueaderos cercanos, envios a otras partes generan costo adicional, contactenos para mayor información';
+const la36Message = 'Realizamos envios por el area de San andresíto de la 38, la 8 y alrededores';
+const gironMessage = 'Envios a toda la ciudad';
+const laIslaMessage = 'Envios a toda la ciudad';
+const floridaBlancaMessage = 'Envios a toda la ciudad.';
 
 
 
@@ -92,11 +92,11 @@ const showAlert = (state, alertMessage) => {
         alert.setAttribute('class', 'container')
         alert.innerHTML = `
         <div class="d-flex align-items-center justify-content-between alert alert-info border-0 rounded-0 alert-dismissible fade show alertContainer mt-5" role="alert">
-            <div class="d-inline">
-                <h3 class='d-inline'><i class="fa fa-map-marker pr-2" aria-hidden="true"></i></h3>
-                <span class="font-weight-bold">${alertMessage}</span>
+            <div class="d-flex mr-2 align-items-center">
+                <h3><i class="fa fa-map-marker pr-2" aria-hidden="true"></i></h3>
+                <span class="font-weight-bold text-justify">${alertMessage}</span>
             </div>
-            <button type="button" class="close mt-1 p-0" data-dismiss="alert" aria-label="Close">
+            <button type="button" class="close d-none d-md-block" data-dismiss="alert" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
             </button>
         </div>
@@ -140,6 +140,10 @@ $(document).ready(function() {
 //     e.preventDefault();
 // }
 
+
+/*============================================================================================
+    DATA BASE PRODUCTS PRICES
+==============================================================================================*/
 
 
 // validateForms(name.value, email.value, subject.value, message.value)
