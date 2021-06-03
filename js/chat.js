@@ -33,7 +33,6 @@ function getTime() {
     return time;
 }
 
-// Gets the first message
 function firstBotMessage() {
     let firstMessage = "Como te podemos ayudar?"
     document.getElementById("botStarterMessage").innerHTML = '<p class="botText"><span>' + firstMessage + '</span></p>';
@@ -46,7 +45,7 @@ function firstBotMessage() {
 
 firstBotMessage();
 
-// Retrieves the response
+
 function getHardResponse(userText) {
     let botResponse = getBotResponse(userText);
     let botHtml = '<p class="botText"><span>' + botResponse + '</span></p>';
@@ -55,12 +54,12 @@ function getHardResponse(userText) {
     document.getElementById("chat-bar-bottom").scrollIntoView(true);
 }
 
-//Gets the text text from the input box and processes it
+
 function getResponse() {
     let userText = $("#textInput").val();
 
     if (userText == "") {
-        userText = "I love Code Palace!";
+        userText = "Buenos dias";
     }
 
     let userHtml = '<p class="userText"><span>' + userText + '</span></p>';
@@ -83,21 +82,14 @@ function buttonSendText(sampleText) {
     $("#chatbox").append(userHtml);
     document.getElementById("chat-bar-bottom").scrollIntoView(true);
 
-    //Uncomment this if you want the bot to respond to this buttonSendText event
-    // setTimeout(() => {
-    //     getHardResponse(sampleText);
-    // }, 1000)
 }
 
 function sendButton() {
     getResponse();
 }
 
-function heartButton() {
-    buttonSendText("Heart clicked!")
-}
 
-// Press enter to send a message
+
 $("#textInput").keypress(function (e) {
     if (e.which == 13) {
         getResponse();

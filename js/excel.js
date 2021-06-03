@@ -1,14 +1,11 @@
-// function descargarExcel(){
-//     var tmpElemento = document.createElement('a');
-//     var data_type = 'data:application/vnd.ms-excel';
-//     var tabla_div = document.getElementById('dato');
-//     var tabla_html = tabla_div.outerHTML.replace(/ /g, '%20');
-//     tmpElemento.href = data_type + ', ' + tabla_html;
-//     tmpElemento.download = 'Nombre_De_Mi_Excel.xls';
-//     tmpElemento.click();
-// }
-// descargarExcel();
 
-var dato = document.getElementById('dato');
-console.log(dato.value);
-
+function descargarExcel() {
+    var tmpElemento = document.createElement('a');
+    var data_type = 'data:application/vnd.ms-excel';
+    var tabla_div = document.getElementById('text');
+    var elemento = (tabla_div.value)
+    tmpElemento.href = data_type + ', ' + elemento;
+    tmpElemento.download = 'lead.xls';
+    tmpElemento.click();
+}
+descargarExcel();

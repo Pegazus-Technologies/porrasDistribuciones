@@ -17,7 +17,7 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
     integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link href="../../css/animate.css" rel="stylesheet" type="text/css" />
-  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"> -->
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
   <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
   <link href="../../css/owl.carousel.css" rel="stylesheet" type="text/css" />
@@ -32,26 +32,27 @@
 </head>
 
 <body class="single" id="single">
-  <div class="container-fluid fh5co_header_bg">
-    <div class="container">
-      <div class="row">
-        <a href="" class="color_fff fh5co_mediya_setting"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;
-          <script>
-            var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
-            var f=new Date();
-            document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
-          </script>
-        </a>
-          <!-- <a href="#" class="color_fff fh5co_mediya_setting"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;&nbsp;Sábado, 22 de Mayo del 2021</a> -->
-          <div class="d-inline-block fh5co_trading_posotion_relative"><a href="#" class="treding_btn">¡Promociones!</a>
+
+     <!-- CABECERA -->
+     <div class="container-fluid fh5co_header_bg">
+      <div class="container">
+        <div class="row">
+          <a href="" class="color_fff fh5co_mediya_setting p-3"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;
+            <script>
+              var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
+              var f=new Date();
+              document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
+            </script>
+          </a>
+            <!-- <a href="#" class="color_fff fh5co_mediya_setting"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;&nbsp;Sábado, 22 de Mayo del 2021</a> -->
+            <div class="d-inline-block fh5co_trading_posotion_relative"><a href="#" class="treding_btn">¡Promociones!</a>
             <div class="fh5co_treding_position_absolute"></div>
+               <a href="#" class="color_fff fh5co_mediya_setting">Llega la nueva línea de productos de aseo</a>
+            </div>
           </div>
-          <a href="#" class="color_fff fh5co_mediya_setting">Llega la nueva línea de productos de aseo</a>
         </div>
-      </div>
-    </div>
-  </div>
-  <!-- FIN CABECERA -->
+     </div>
+  <!-- FIN CABECERA --> 
 
   <!-- REDES SOCIALES -->
   <div class="container-fluid">
@@ -148,7 +149,19 @@
               </div>
             </li> -->
             <li class="nav-item ">
-              <a class="nav-link" href="Contact_us.html">Contactanos <span class="sr-only">(current)</span></a></li>
+              <a class="nav-link" href="#">Pagos en linea <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link" href="../../Contact_us.html">Contactanos <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> <span class="sr-only">(current)</span></a>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
+                <a class="dropdown-item" href="../../sign_up.html">Registrarse</a>
+                <a class="dropdown-item" href="../../log_in.html">Iniciar sesión</a>
+              </div>
+            </li>
           </ul>
         </div>
       </nav>
@@ -168,14 +181,14 @@
         <div class="col-md-8 animate-box" data-animate-effect="fadeInLeft">
           <h1 class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4 font-weight-bold text-uppercase text-center f-800">Sucursal De Bosa</h1>
           <p class="fh5co_consectetur text-justify">
-            Nos encontramos ubicados en la Calle 63 sur # 88-21 aqui puedes encontras productos como
+            Nos encontramos ubicados en la Calle 63 sur #88-21, aqui puedes encontras productos como
             licores, elementos de aseo, gaseosas al por mayor y detal asi como algunos abarrotes tales como
             aceite, leche, pasta, arroz, café, salchichas.
           </p>
           <h3 class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4">Contactanos</h3>
           <p class="fh5co_consectetur text-justify">
             puedes contactarnos llamando a siguente numero <strong><a href="tel:+573225922915">322-592-2915</a>
-            </strong> y llevaremos tu pedido a domicilio O escribenos a nuestro whatsapp para atenderte.
+            </strong> y llevaremos tu pedido a domicilio o escribenos a nuestro whatsapp para atenderte.
           </p>
 
           </script>
@@ -185,9 +198,9 @@
           </div>
         </div>
 
-        <div class="col-md-4 animate-box" data-animate-effect="fadeInRight" id="contact">
-          <div class="col-12 text-center contact_margin_svnit ">
-            <div class="text-center fh5co_heading py-2">Contactanos</div>
+        <!-- FORMUALARIO DE CONTACTO -->
+        <div id="contact" class="col-md-4 animate-box" data-animate-effect="fadeInRight">
+          <div class="col-12 fh5co_heading fh5co_heading_border_bottom py-1 mb-4">Contactanos
           </div>
           <div class="row">
             <div class="col-12 ">
@@ -202,22 +215,21 @@
                   <input id="subject" type="text" class="form-control fh5co_contact_text_box" placeholder="Asunto" />
                 </div>
                 <div class="col-12 py-2">
-                  <textarea id="message" class="form-control fh5co_contacts_message" placeholder="Mensage"></textarea>
+                  <textarea id="message" class="form-control fh5co_contacts_message" placeholder="Mensaje"></textarea>
                 </div>
                 <div class="col-12 py-2 text-center">
-                  <button id="send" type="submit" class="btn contact_btn w-100">Enviar mensage</button>
+                  <button id="send" type="submit" class="btn contact_btn w-100">Enviar mensaje</button>
                 </div>
               </form>
             </div>
           </div>
-          <!-- FIN FORMULARIO CONTACTO -->
-
-      </div>
+        </div>
+        <!-- FIN FORMULARIO CONTACTO -->
       
       <div class="col-12">
-        <h3 class="mt-5 mb-5">Obtenga mas información haciendo click sobre la imagen</h3>
+        <h3 class="fh5co_heading  pt-4 mb-4 text-left">Obtenga mas información haciendo click sobre la imagen</h3>
         <div id="fh5co-title-box">
-          <img src="../../images/Bosa.jpg" alt="sucursal Bosa" border="0" usemap="#Map" class="w-100 mainBanner">
+          <img src="../../images/Bosa.jpg" width="730" alt="sucursal Bosa" border="0" usemap="#Map" class="mainBanner img-fluid p-0">
           <map name="Map">
             <area shape="poly" coords="308,3,301,241,1282,350,1345,150" href="#contact">
             <area shape="rect" coords="245,355,783,729" href="#" data-toggle="modal" data-target="#bosa1">
@@ -232,6 +244,7 @@
       </div>
      </div>
   </div>
+  
 
      <!-- PIE DE PAGINA -->
      <div class="container-fluid fh5co_footer_bg pb-3">
@@ -316,49 +329,85 @@
         </div>
       
       </div>
+    </div>
+    <!-- FIN PIE DE PAGINA -->
+  
+    <!-- CHAT -->
+    <div class="chat-bar-collapsible">
+      <button id="chat-button" type="button" class="collapsible">Chatea con nosotros!
+          <i id="chat-icon" style="color: #fff;" class="fa fa-fw fa-comments-o"></i>
+      </button>
+  
+      <div class="content">
+          <div class="full-chat-block">
+              <div class="outer-container">
+                  <div class="chat-container">
+                      <div id="chatbox">
+                          <h5 id="chat-timestamp"></h5>
+                          <p id="botStarterMessage" class="botText"><span>Cargando...</span></p>
+                      </div>
+                      <div class="chat-bar-input-block">
+                          <div id="userInput">
+                              <input id="textInput" class="input-box" type="text" name="msg"
+                                  placeholder="Enviar mensaje">
+                              <p></p>
+                          </div>
+                          <div class="chat-bar-icons">
+                              <i id="chat-icon" style="color: #333;" class="fa fa-fw fa-send"
+                                  onclick="sendButton()"></i>
+                          </div>
+                      </div>
+                      <div id="chat-bar-bottom">
+                          <p></p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  
   </div>
-    
-
-
-  <!-- MENU PIE DE PAGINA -->
-  <div class="container-fluid fh5co_footer_right_reserved">
-      <div class="container">
-        <div class="row  ">
-          <div class="col-12 col-md-6 py-4 Reserved"> © Copyright 2021, Todos los derechos reservados. Diseñado por <a
-              href="https://pegazustechnologies.com" title="Distribuciones Porras">Pegazustechnologies.com</a>. </div>
-          <div class="col-12 col-md-6 spdp_right py-4">
-            <a href="#" class="footer_last_part_menu">Inicio</a>
-            <a href="Contact_us.html" class="footer_last_part_menu">Sobre Nosotros</a>
-            <a href="Contact_us.html" class="footer_last_part_menu">Contactenos</a>
-            <a href="blog.html" class="footer_last_part_menu"> Blog</a>
+    <!-- FIN CHAT -->
+  
+  
+    <!-- MENU PIE DE PAGINA -->
+    <div class="container-fluid fh5co_footer_right_reserved">
+        <div class="container">
+          <div class="row  ">
+            <div class="col-12 col-md-6 py-4 Reserved"> © Copyright 2021, Todos los derechos reservados. Diseñado por <a
+                href="https://pegazustechnologies.com" title="Distribuciones Porras">Pegazustechnologies.com</a>. </div>
+            <div class="col-12 col-md-6 spdp_right py-4">
+              <!-- <a href="#" class="footer_last_part_menu">Inicio</a>
+              <a href="Contact_us.html" class="footer_last_part_menu">Sobre Nosotros</a>
+              <a href="Contact_us.html" class="footer_last_part_menu">Contactenos</a>
+              <a href="blog.html" class="footer_last_part_menu"> Blog</a> -->
+            </div>
           </div>
         </div>
-      </div>
-  </div>
-<!-- FIN MENU PIE DE PAGINA -->
+    </div>
+  <!-- FIN MENU PIE DE PAGINA -->
+  
+    <div class="gototop js-top">
+      <a href="#" class="js-gotop"><i class="fa fa-arrow-up"></i></a>
+    </div>
+  
+       <!-- Whats App -->
+       <script type="text/javascript">
+        (function () {
+          var options = {
+            whatsapp: "+573214308206", // WhatsApp number
+            call_to_action: "Escribenos", // Call to action
+            position: "left", // Position may be 'right' or 'left'
+            pre_filled_message: "Hola, Quisiera saber el precio de", // WhatsApp pre-filled message
+          };
+          var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+          var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+          s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+          var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        })();
+      </script>
+      <!--Whats App -->
 
-  <div class="gototop js-top">
-    <a href="#" class="js-gotop"><i class="fa fa-arrow-up"></i></a>
-  </div>
-
-     <!-- Whats App -->
-     <script type="text/javascript">
-      (function () {
-        var options = {
-          whatsapp: "+573214308206", // WhatsApp number
-          call_to_action: "Escribenos", // Call to action
-          position: "left", // Position may be 'right' or 'left'
-          pre_filled_message: "Hola, Quisiera saber el precio de", // WhatsApp pre-filled message
-        };
-        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
-        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
-        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
-        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-      })();
-    </script>
-    <!--Whats App -->
-
-
+    
 
     <!-- ============================================= 
     Modales
@@ -424,36 +473,18 @@
         </div>
       </div>
     </div>
+   
 
-
-
-
-
-
-
-
-    <!-- GetButton.io widget -->
-    <script type="text/javascript">
-      (function () {
-        var options = {
-          whatsapp: "+573225922915", // WhatsApp number
-          call_to_action: "Escribenos", // Call to action
-          position: "left", // Position may be 'right' or 'left'
-          pre_filled_message: "Hola, Quisiera saber el precio de", // WhatsApp pre-filled message
-        };
-        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
-        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
-        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
-        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-      })();
-    </script>
-    <!-- /GetButton.io widget -->
-    <script src="../../js/jquery.js"></script>
-    <script src="../../js/bootstrap.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="../../js/owl.carousel.min.js"></script>
+    <!--<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"
       integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
       crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
+      integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
+      crossorigin="anonymous"></script>
+      
     <!-- Waypoints -->
     <script src="../../js/jquery.waypoints.min.js"></script>
     <!-- Parallax -->
