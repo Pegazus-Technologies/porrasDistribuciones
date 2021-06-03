@@ -1,0 +1,4541 @@
+{
+    "data":[
+
+          {
+            "A": "1001",
+            "B": "CERVEZA AGUILA LIGHT SIX",
+            "C": "SIXPACK",
+            "D": "13000",
+            "E": "BEER"
+          },
+          {
+            "A": "1002",
+            "B": "CERVEZA AGUILA LIGHT BANDEJA",
+            "C": "BANDEJA",
+            "D": "46000",
+            "E": "BEER"
+          },
+          {
+            "A": "1003",
+            "B": "CERVEZA AGUILA ORIGINAL SIX",
+            "C": "SIXPACK",
+            "D": "12000",
+            "E": "BEER"
+          },
+          {
+            "A": "1004",
+            "B": "CERVEZA AGUILA ORIGINAL BANDEJA",
+            "C": "BANDEJA",
+            "D": "42000",
+            "E": "BEER"
+          },
+          {
+            "A": "1005",
+            "B": "CERVEZA ANDINA SIX",
+            "C": "SIXPACK",
+            "D": "10500",
+            "E": "BEER"
+          },
+          {
+            "A": "1006",
+            "B": "CERVEZA ANDINA BANDEJA",
+            "C": "BANDEJA",
+            "D": "31500",
+            "E": "BEER"
+          },
+          {
+            "A": "1007",
+            "B": "CERVEZA AZTECA SIX",
+            "C": "SIXPACK",
+            "D": "9500",
+            "E": "BEER"
+          },
+          {
+            "A": "1008",
+            "B": "CERVEZA AZTECA BANDEJA",
+            "C": "BANDEJA",
+            "D": "32500",
+            "E": "BEER"
+          },
+          {
+            "A": "1009",
+            "B": "CERVEZA BECKS SIX",
+            "C": "SIXPACK",
+            "D": "9500",
+            "E": "BEER"
+          },
+          {
+            "A": "1010",
+            "B": "CERVEZA BECKS CAJA",
+            "C": "CAJAS",
+            "D": "34000",
+            "E": "BEER"
+          },
+          {
+            "A": "1011",
+            "B": "CERVEZA BUDWEISER BT SIX",
+            "C": "SIXPACK",
+            "D": "9000",
+            "E": "BEER"
+          },
+          {
+            "A": "1012",
+            "B": "CERVEZA BUDWEISER BT CAJA",
+            "C": "CAJAS",
+            "D": "36000",
+            "E": "BEER"
+          },
+          {
+            "A": "1013",
+            "B": "CERVEZA BUDWEISER LATA X 24",
+            "C": "BANDEJA",
+            "D": "38000",
+            "E": "BEER"
+          },
+          {
+            "A": "1014",
+            "B": "CERVEZA BUDWEISER SIX",
+            "C": "SIXPACK",
+            "D": "12000",
+            "E": "BEER"
+          },
+          {
+            "A": "1015",
+            "B": "CERVEZA BUDWEISER SIX X 24",
+            "C": "BANDEJA",
+            "D": "39000",
+            "E": "BEER"
+          },
+          {
+            "A": "1016",
+            "B": "CERVEZA CLUB DORADA SIX",
+            "C": "SIXPACK",
+            "D": "14000",
+            "E": "BEER"
+          },
+          {
+            "A": "1017",
+            "B": "CERVEZA CLUB DORADA BANDEJA",
+            "C": "BANDEJA",
+            "D": "48000",
+            "E": "BEER"
+          },
+          {
+            "A": "1018",
+            "B": "CERVEZA CLUB NEGRA SIX",
+            "C": "SIXPACK",
+            "D": "14000",
+            "E": "BEER"
+          },
+          {
+            "A": "1019",
+            "B": "CERVEZA CLUB NEGRA BANDEJA",
+            "C": "BANDEJA",
+            "D": "48000",
+            "E": "BEER"
+          },
+          {
+            "A": "1020",
+            "B": "CERVEZA CLUB ROJA SIX",
+            "C": "SIXPACK",
+            "D": "14000",
+            "E": "BEER"
+          },
+          {
+            "A": "1021",
+            "B": "CERVEZA CLUB ROJA BANDEJA",
+            "C": "BANDEJA",
+            "D": "48000",
+            "E": "BEER"
+          },
+          {
+            "A": "1022",
+            "B": "CERVEZA CORONA NC SIX",
+            "C": "SIXPACK",
+            "D": "21000",
+            "E": "BEER"
+          },
+          {
+            "A": "1023",
+            "B": "CERVEZA CORONA NC CAJA",
+            "C": "CAJAS",
+            "D": "76000",
+            "E": "BEER"
+          },
+          {
+            "A": "1024",
+            "B": "CERVEZA CORONITA NC SIX",
+            "C": "SIXPACK",
+            "D": "14000",
+            "E": "BEER"
+          },
+          {
+            "A": "1025",
+            "B": "CERVEZA CORONITA NC CAJA",
+            "C": "CAJAS",
+            "D": "55000",
+            "E": "BEER"
+          },
+          {
+            "A": "1026",
+            "B": "CERVEZA COSTEÑITA BT SIX",
+            "C": "SIXPACK",
+            "D": "8400",
+            "E": "BEER"
+          },
+          {
+            "A": "1027",
+            "B": "CERVEZA COSTEÑITA BT CAJA",
+            "C": "CAJAS",
+            "D": "33500",
+            "E": "BEER"
+          },
+          {
+            "A": "1028",
+            "B": "CERVEZA COSTEÑITA SIX",
+            "C": "SIXPACK",
+            "D": "9200",
+            "E": "BEER"
+          },
+          {
+            "A": "1029",
+            "B": "CERVEZA COSTEÑITA BANDEJA",
+            "C": "BANDEJA",
+            "D": "36500",
+            "E": "BEER"
+          },
+          {
+            "A": "1030",
+            "B": "CERVEZA HEINEKEN BT SIX",
+            "C": "SIXPACK",
+            "D": "10000",
+            "E": "BEER"
+          },
+          {
+            "A": "1031",
+            "B": "CERVEZA HEINEKEN BT CAJA",
+            "C": "CAJAS",
+            "D": "34500",
+            "E": "BEER"
+          },
+          {
+            "A": "1032",
+            "B": "CERVEZA HEINEKEN LATA SIX",
+            "C": "SIXPACK",
+            "D": "10500",
+            "E": "BEER"
+          },
+          {
+            "A": "1033",
+            "B": "CERVEZA HEINEKEN LATA BANDEJA",
+            "C": "BANDEJA",
+            "D": "34500",
+            "E": "BEER"
+          },
+          {
+            "A": "1034",
+            "B": "CERVEZA KAUFMAN SIX",
+            "C": "SIXPACK",
+            "D": "7500",
+            "E": "BEER"
+          },
+          {
+            "A": "1035",
+            "B": "CERVEZA KAUFMAN X 24",
+            "C": "BANDEJA",
+            "D": "30000",
+            "E": "BEER"
+          },
+          {
+            "A": "1036",
+            "B": "CERVEZA POKER SIX",
+            "C": "SIXPACK",
+            "D": "13000",
+            "E": "BEER"
+          },
+          {
+            "A": "1037",
+            "B": "CERVEZA POKER BANDEJA",
+            "C": "BANDEJA",
+            "D": "46000",
+            "E": "BEER"
+          },
+          {
+            "A": "1038",
+            "B": "CERVEZA POKER ROJA SIX",
+            "C": "SIXPACK",
+            "D": "12500",
+            "E": "BEER"
+          },
+          {
+            "A": "1039",
+            "B": "CERVEZA POKER ROJA BANDEJA",
+            "C": "BANDEJA",
+            "D": "42000",
+            "E": "BEER"
+          },
+          {
+            "A": "1040",
+            "B": "CERVEZA RED'S SIX",
+            "C": "SIXPACK",
+            "D": "12000",
+            "E": "BEER"
+          },
+          {
+            "A": "1041",
+            "B": "CERVEZA RED'S BANDEJA",
+            "C": "CAJAS",
+            "D": "40000",
+            "E": "BEER"
+          },
+          {
+            "A": "1042",
+            "B": "CERVEZA STELLA ARTOIS SIX",
+            "C": "SIXPACK",
+            "D": "20000",
+            "E": "BEER"
+          },
+          {
+            "A": "1043",
+            "B": "CERVEZA STELLA ARTOIS BANDEJA",
+            "C": "CAJAS",
+            "D": "72000",
+            "E": "BEER"
+          },
+          {
+            "A": "1044",
+            "B": "CERVEZA TECATE SIX",
+            "C": "SIXPACK",
+            "D": "11000",
+            "E": "BEER"
+          },
+          {
+            "A": "1045",
+            "B": "CERVEZA TECATE BANDEJA",
+            "C": "BANDEJA",
+            "D": "34000",
+            "E": "BEER"
+          },
+          {
+            "A": "1046",
+            "B": "COLA Y POLA SIX",
+            "C": "SIXPACK",
+            "D": "8000",
+            "E": "BEER"
+          },
+          {
+            "A": "1047",
+            "B": "COLA Y POLA BANDEJA",
+            "C": "BANDEJA",
+            "D": "30000",
+            "E": "BEER"
+          },
+          {
+            "A": "1048",
+            "B": "CERVEZA ANDINA LATON",
+            "C": "BANDEJA",
+            "D": "21500",
+            "E": "BEER"
+          },
+          {
+            "A": "1049",
+            "B": "CERVEZA HEINEKEN 330 SIX",
+            "C": "SIXPACK",
+            "D": "17000",
+            "E": "BEER"
+          },
+          {
+            "A": "1050",
+            "B": "CERVEZA HEINEKEN 330 BANDEJA",
+            "C": "BANDEJA",
+            "D": "57000",
+            "E": "BEER"
+          },
+          {
+            "A": "1051",
+            "B": "CERVEZA POKERITA 269 BANDEJA",
+            "C": "BANDEJA",
+            "D": "39000",
+            "E": "BEER"
+          },
+          {
+            "A": "1052",
+            "B": "CERVEZA POKERITA 269 SIXPACK",
+            "C": "SIXPACK             ",
+            "D": "9800",
+            "E": "BEER"
+          },
+          {
+            "A": "1053",
+            "B": "CERVEZA BBC COTID BANDEJA",
+            "C": "BANDEJA",
+            "D": "34000",
+            "E": "BEER"
+          },
+          {
+            "A": "1054",
+            "B": "CERVEZA BBC COTID SIXPACK",
+            "C": "SIXPACK",
+            "D": "9000",
+            "E": "BEER"
+          },
+          {
+            "A": "1055",
+            "B": "CERVEZA BECKS LATA BANDEJA",
+            "C": "BANDEJA",
+            "D": "",
+            "E": "BEER"
+          },
+          {
+            "A": "1056",
+            "B": "CERVEZA BECKS LATA SIXPACK",
+            "C": "SIXPACK",
+            "D": "13000",
+            "E": "BEER"
+          },
+          {
+            "A": "1057",
+            "B": "CERVEZA ANDINA LIGHT BANDEJA",
+            "C": "BANDEJA",
+            "D": "",
+            "E": "BEER"
+          },
+          {
+            "A": "1058",
+            "B": "CEREZA ANDINA LIGHT SIXPACK",
+            "C": "SIXPACK",
+            "D": "13000",
+            "E": "BEER"
+          },
+          {
+            "A": "1059",
+            "B": "CERVEZA PILSEN 355 BANDEJA",
+            "C": "BANDEJA",
+            "D": "",
+            "E": "BEER"
+          },
+          {
+            "A": "1060",
+            "B": "CERVEZA PILSEN 355 SIXPACK",
+            "C": "SIXPACK",
+            "D": "14000",
+            "E": "BEER"
+          },
+          {
+            "A": "1061",
+            "B": "CERVEZA MILLER LIGHT BT CAJA",
+            "C": "CAJA X 24",
+            "D": "",
+            "E": "BEER"
+          },
+          {
+            "A": "1062",
+            "B": "CERVEZA STELLA LT 250 BANDEJA",
+            "C": "BANDEJA",
+            "D": "",
+            "E": "BEER"
+          },
+          {
+            "A": "1063",
+            "B": "CERVEZA STELLA LT 250 SIXPACK",
+            "C": "SIXPACK",
+            "D": "16000",
+            "E": "BEER"
+          },
+          {
+            "A": "1064",
+            "B": "CERVEZA STELLA LT SUELTA BANDEJ",
+            "C": "BANDEJA",
+            "D": "",
+            "E": "BEER"
+          },
+          {
+            "A": "1065",
+            "B": "CERVEZA COST-BAC 330 BANDEJA",
+            "C": "BANDEJA",
+            "D": "",
+            "E": "BEER"
+          },
+          {
+            "A": "1066",
+            "B": "CERVEZA COSTE-BAC 330 SIXPACK",
+            "C": "SIXPACK",
+            "D": "",
+            "E": "BEER"
+          },
+          {
+            "A": "2001",
+            "B": "1800 AÑEJO UND",
+            "C": "UNIDAD",
+            "D": "146500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2002",
+            "B": "1800 AÑEJO CAJA",
+            "C": "CAJA X 12",
+            "D": "1758000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2003",
+            "B": "1800 REPOSADO UND",
+            "C": "UNIDAD              ",
+            "D": "127000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2004",
+            "B": "1800 REPOSADO CAJA             ",
+            "C": "CAJA X 12           ",
+            "D": "1524000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2005",
+            "B": "AGUARD AMARILLO UND            ",
+            "C": "UNIDAD              ",
+            "D": "33600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2006",
+            "B": "AGUARD AMARILLO CAJA           ",
+            "C": "CAJA X 12           ",
+            "D": "402600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2007",
+            "B": "ANTIO AZUL 1/2 UND             ",
+            "C": "UNIDAD              ",
+            "D": "18200",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2008",
+            "B": "ANTIO AZUL 1/2 CAJA            ",
+            "C": "CAJA X 30           ",
+            "D": "546000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2009",
+            "B": "ANTIO AZUL BT UND              ",
+            "C": "UNIDAD              ",
+            "D": "33100",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2010",
+            "B": "ANTIO AZUL BT CAJA             ",
+            "C": "CAJA X 20           ",
+            "D": "662000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2011",
+            "B": "ANTIO AZUL LT UND              ",
+            "C": "UNIDAD              ",
+            "D": "45000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2012",
+            "B": "ANTIO AZUL LT CAJA             ",
+            "C": "CAJA X 12           ",
+            "D": "540000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2013",
+            "B": "ANTIO ROJO 1/2 UND             ",
+            "C": "UNIDAD              ",
+            "D": "18000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2014",
+            "B": "ANTIO ROJO 1/2 CAJA            ",
+            "C": "CAJA X 30           ",
+            "D": "540000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2015",
+            "B": "ANTIO ROJO BT UND              ",
+            "C": "UNIDAD              ",
+            "D": "32200",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2016",
+            "B": "ANTIO ROJO BT CAJA             ",
+            "C": "CAJA X 20           ",
+            "D": "644000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2017",
+            "B": "ANTIO ROJO LT UND              ",
+            "C": "UNIDAD              ",
+            "D": "41600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2018",
+            "B": "ANTIO ROJO LT CAJA                                          ",
+            "C": "CAJA X 12           ",
+            "D": "499200",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2019",
+            "B": "ANTIO VERDE 1/2 UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "15500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2020",
+            "B": "ANTIO VERDE 1/2 CAJA                                        ",
+            "C": "CAJA X 30           ",
+            "D": "465000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2021",
+            "B": "ANTIO VERDE BT UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "29800",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2022",
+            "B": "ANTIO VERDE BT CAJA                                         ",
+            "C": "CAJA X 20           ",
+            "D": "596000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2023",
+            "B": "ANTIO VERDE LT UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "38000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2024",
+            "B": "ANTIO VERDE LT CAJA                                         ",
+            "C": "CAJA X 12           ",
+            "D": "456000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2025",
+            "B": "BACARDI  BT UND                                             ",
+            "C": "UNIDAD              ",
+            "D": "36000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2026",
+            "B": "BACARDI  BT CAJA                                            ",
+            "C": "CAJA X 12           ",
+            "D": "432000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2027",
+            "B": "BAILEYS 1/2 UND                                             ",
+            "C": "UNIDAD              ",
+            "D": "30800",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2028",
+            "B": "BAILEYS 1/2 CAJA                                            ",
+            "C": "CAJA X 12           ",
+            "D": "369600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2029",
+            "B": "BAILEYS BT UND                                              ",
+            "C": "UNIDAD              ",
+            "D": "49000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2030",
+            "B": "BAILEYS BT CAJA                                             ",
+            "C": "CAJA X 12           ",
+            "D": "588000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2031",
+            "B": "BAILEYS ESTUCHE UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "48500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2032",
+            "B": "BAILEYS ESTUCHE CAJA                                        ",
+            "C": "CAJA X 6            ",
+            "D": "291000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2033",
+            "B": "BALLANTINE´S UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "39500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2034",
+            "B": "BALLANTINE´S CAJA                                           ",
+            "C": "CAJA X 12           ",
+            "D": "474000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2035",
+            "B": "BLACK & WHITE 1/2 UND                                       ",
+            "C": "UNIDAD              ",
+            "D": "20600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2036",
+            "B": "BLACK & WHITE 1/2 CAJA                                      ",
+            "C": "CAJA X 24           ",
+            "D": "494400",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2037",
+            "B": "BLACK & WHITE BT UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "37000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2038",
+            "B": "BLACK & WHITE BT CAJA                                       ",
+            "C": "CAJA X 12           ",
+            "D": "444000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2039",
+            "B": "BUCHANAN'S 12 +VASO UND                                     ",
+            "C": "UNIDAD              ",
+            "D": "102000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2040",
+            "B": "BUCHANAN'S 12 +VASO CAJA                                    ",
+            "C": "CAJA X 6            ",
+            "D": "612000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2041",
+            "B": "BUCHANAN'S 18 + VASO UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "198000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2042",
+            "B": "BUCHANAN'S 18 + VASO CAJA                                   ",
+            "C": "CAJA X 6            ",
+            "D": "1188000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2043",
+            "B": "BUCHANAN'S 18 BT UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "198000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2044",
+            "B": "BUCHANAN'S 18 BT CAJA                                       ",
+            "C": "CAJA X 6            ",
+            "D": "1188000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2045",
+            "B": "BUCHANANS BT UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "100000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2046",
+            "B": "BUCHANANS BT CAJA                                           ",
+            "C": "CAJA X 12           ",
+            "D": "1200000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2047",
+            "B": "BUCHANANS LT UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "125000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2048",
+            "B": "BUCHANANS LT CAJA                                           ",
+            "C": "CAJA X 12           ",
+            "D": "1500000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2049",
+            "B": "BUCHANANS MASTER BT UND                                     ",
+            "C": "UNIDAD              ",
+            "D": "113000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2050",
+            "B": "BUCHANANS MASTER BT CAJA                                    ",
+            "C": "CAJA X 12           ",
+            "D": "1356000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2051",
+            "B": "CHIVAS 12 + VASO UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "85000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2052",
+            "B": "CHIVAS 12 + VASO CAJA                                       ",
+            "C": "CAJA X 8            ",
+            "D": "680000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2053",
+            "B": "CHIVAS EXT + 1/2 UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "114000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2054",
+            "B": "CHIVAS EXT + 1/2 CAJA                                       ",
+            "C": "CAJA X 6            ",
+            "D": "684000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2055",
+            "B": "CHIVAS EXTRA BT UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "90000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2056",
+            "B": "CHIVAS EXTRA BT CAJA                                        ",
+            "C": "CAJA X 6            ",
+            "D": "540000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2057",
+            "B": "CHIVAS LT UND                                               ",
+            "C": "UNIDAD              ",
+            "D": "104000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2058",
+            "B": "CHIVAS LT CAJA                                              ",
+            "C": "CAJA X 12           ",
+            "D": "1248000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2059",
+            "B": "CHIVAS X 700 UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "82000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2060",
+            "B": "CHIVAS X 700 CAJA                                           ",
+            "C": "CAJA X 12           ",
+            "D": "984000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2061",
+            "B": "DON JULIO AÑEJO UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "175000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2062",
+            "B": "DON JULIO AÑEJO CAJA                                        ",
+            "C": "CAJA X 6            ",
+            "D": "1050000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2063",
+            "B": "DON JULIO REPOSADO UND                                      ",
+            "C": "UNIDAD              ",
+            "D": "153000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2064",
+            "B": "DON JULIO REPOSADO CAJA                                     ",
+            "C": "CAJA X 6            ",
+            "D": "918000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2065",
+            "B": "DOUBLE BLACK UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "110000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2066",
+            "B": "DOUBLE BLACK CAJA                                           ",
+            "C": "CAJA X 6            ",
+            "D": "660000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2067",
+            "B": "DUO SELLO ROJO UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "88000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2068",
+            "B": "DUO SELLO ROJO CAJA                                         ",
+            "C": "CAJA X 6            ",
+            "D": "528000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2069",
+            "B": "FOUR LOKO UND                                               ",
+            "C": "UNIDAD              ",
+            "D": "10000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2070",
+            "B": "FOUR LOKO BANDEJA                                           ",
+            "C": "CAJA                ",
+            "D": "240000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2071",
+            "B": "GLENFIDDICH 12A BT UND                                      ",
+            "C": "UNIDAD              ",
+            "D": "100000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2072",
+            "B": "GLENFIDDICH 12A BT CAJA                                     ",
+            "C": "CAJA X 12           ",
+            "D": "1200000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2073",
+            "B": "GLENFIDDICH 18A BT UND                                      ",
+            "C": "UNIDAD              ",
+            "D": "215000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2074",
+            "B": "GLENFIDDICH 18A BT CAJA                                     ",
+            "C": "CAJA X 12           ",
+            "D": "2580000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2075",
+            "B": "GRANT'S BT UND                                              ",
+            "C": "UNIDAD              ",
+            "D": "39000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2076",
+            "B": "GRANT'S BT CAJA                                             ",
+            "C": "CAJA X 12           ",
+            "D": "468000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2077",
+            "B": "JACK DANIELS HONEY UND                                      ",
+            "C": "UNIDAD              ",
+            "D": "91000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2078",
+            "B": "JACK DANIELS HONEY CAJA                                     ",
+            "C": "CAJA X 12           ",
+            "D": "1092000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2079",
+            "B": "JACK DANIELS ORIGINAL UND                                   ",
+            "C": "UNIDAD              ",
+            "D": "91000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2080",
+            "B": "JACK DANIELS ORIGINAL CAJA                                  ",
+            "C": "CAJA X 12           ",
+            "D": "1092000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2081",
+            "B": "JAMESON BT UND                                              ",
+            "C": "UNIDAD              ",
+            "D": "72000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2082",
+            "B": "JAMESON BT CAJA                                             ",
+            "C": "CAJA X 8            ",
+            "D": "576000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2083",
+            "B": "JOSE CUERVO 1/2 UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "34000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2084",
+            "B": "JOSE CUERVO 1/2 CAJA                                        ",
+            "C": "CAJA X 12           ",
+            "D": "408000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2085",
+            "B": "JOSE CUERVO BT UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "61500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2086",
+            "B": "JOSE CUERVO BT CAJA                                         ",
+            "C": "CAJA X 12           ",
+            "D": "738000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2087",
+            "B": "JOSE CUERVO BT BLANC UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "61500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2088",
+            "B": "JOSE CUERVO BT BLANC CAJA                                   ",
+            "C": "CAJA X 12           ",
+            "D": "738000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2089",
+            "B": "JP BT BLANCA UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "39500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2090",
+            "B": "JP BT BLANCA CAJA                                           ",
+            "C": "CAJA X 6            ",
+            "D": "237000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2091",
+            "B": "JP BT FUCSIA UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "39500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2092",
+            "B": "JP BT FUCSIA CAJA                                           ",
+            "C": "CAJA X 6            ",
+            "D": "237000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2093",
+            "B": "JP BT ROSADA UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "39500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2094",
+            "B": "JP BT ROSADA CAJA                                           ",
+            "C": "CAJA X 6            ",
+            "D": "237000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2095",
+            "B": "JP LATA ROSADA UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "8500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2096",
+            "B": "JP LATA ROSADA BANDEJA                                      ",
+            "C": "CAJA X 24           ",
+            "D": "204000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2097",
+            "B": "JP200 BLANCA UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "15000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2098",
+            "B": "JP200 BLANCA CAJA                                           ",
+            "C": "CAJA X 6            ",
+            "D": "90000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2099",
+            "B": "JP200 FUCSIA UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "15000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2100",
+            "B": "JP200 FUCSIA CAJA                                           ",
+            "C": "CAJA X 6            ",
+            "D": "90000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2101",
+            "B": "JP200 MORADA UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "15000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2102",
+            "B": "JP200 MORADA CAJA                                           ",
+            "C": "CAJA X 6            ",
+            "D": "90000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2103",
+            "B": "JP200 ROSADA UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "15000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2104",
+            "B": "JP200 ROSADA CAJA                                           ",
+            "C": "CAJA X 6            ",
+            "D": "90000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2105",
+            "B": "NECTAR 1/2 ROJO UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "13600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2106",
+            "B": "NECTAR 1/2 ROJO CAJA                                        ",
+            "C": "CAJA X 30           ",
+            "D": "408000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2107",
+            "B": "NECTAR 1/2 VERDE UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "13600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2108",
+            "B": "NECTAR 1/2 VERDE CAJA                                       ",
+            "C": "CAJA X 30           ",
+            "D": "408000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2109",
+            "B": "NECTAR 1/4 ROJO UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "8500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2110",
+            "B": "NECTAR 1/4 ROJO CAJA                                        ",
+            "C": "CAJA X 24           ",
+            "D": "204000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2111",
+            "B": "NECTAR 1/4 VERDE UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "8500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2112",
+            "B": "NECTAR 1/4 VERDE CAJA                                       ",
+            "C": "CAJA X 24           ",
+            "D": "204000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2113",
+            "B": "NECTAR BT ROJO UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "26500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2114",
+            "B": "NECTAR BT ROJO CAJA                                         ",
+            "C": "CAJA X 12           ",
+            "D": "318000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2115",
+            "B": "NECTAR BT VERDE UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "26700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2116",
+            "B": "NECTAR BT VERDE CAJA                                        ",
+            "C": "CAJA X 12           ",
+            "D": "320400",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2117",
+            "B": "NECTAR GARRAFA UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "62000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2118",
+            "B": "NECTAR GARRAFA CAJA                                         ",
+            "C": "CAJA X 6            ",
+            "D": "372000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2119",
+            "B": "NECTAR LT ROJO UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "32200",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2120",
+            "B": "NECTAR LT ROJO CAJA                                         ",
+            "C": "CAJA X 12           ",
+            "D": "386400",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2121",
+            "B": "NECTAR LT VERDE UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "32200",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2122",
+            "B": "NECTAR LT VERDE CAJA                                        ",
+            "C": "CAJA X 12           ",
+            "D": "386400",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2123",
+            "B": "NECTAR TETRA 1.5 UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "45000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2124",
+            "B": "NECTAR TETRA 1.5 CAJA                                       ",
+            "C": "CAJA X 8            ",
+            "D": "360000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2125",
+            "B": "OLD PARR BT UND                                             ",
+            "C": "UNIDAD              ",
+            "D": "91000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2126",
+            "B": "OLD PARR BT CAJA                                            ",
+            "C": "CAJA X 12           ",
+            "D": "1092000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2127",
+            "B": "OLD PARR ESTUCHE UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "135000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2128",
+            "B": "OLD PARR ESTUCHE CAJA                                       ",
+            "C": "CAJA X 6            ",
+            "D": "810000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2129",
+            "B": "OLD PARR LT UND                                             ",
+            "C": "UNIDAD              ",
+            "D": "118000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2130",
+            "B": "OLD PARR LT CAJA                                            ",
+            "C": "CAJA X 12           ",
+            "D": "1416000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2131",
+            "B": "PASSPORT SCOTCH UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "24000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2132",
+            "B": "PASSPORT SCOTCH CAJA                                        ",
+            "C": "CAJA X 12           ",
+            "D": "288000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2133",
+            "B": "RON CALDAS 1/2 UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "19500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2134",
+            "B": "RON CALDAS 1/2 CAJA                                         ",
+            "C": "CAJA X 24           ",
+            "D": "468000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2135",
+            "B": "RON CALDAS BT UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "36500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2136",
+            "B": "RON CALDAS BT CAJA                                          ",
+            "C": "CAJA X 12           ",
+            "D": "438000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2137",
+            "B": "RON DORADO 1/2 UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "18000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2138",
+            "B": "RON DORADO 1/2 CAJA                                         ",
+            "C": "CAJA X 30           ",
+            "D": "540000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2139",
+            "B": "RON DORADO BT UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "35100",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2140",
+            "B": "RON DORADO BT CAJA                                          ",
+            "C": "CAJA X 20           ",
+            "D": "701000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2141",
+            "B": "RON M/LLIN 3 AÑOS 1/2 UND                                   ",
+            "C": "UNIDAD              ",
+            "D": "20300",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2142",
+            "B": "RON M/LLIN 3 AÑOS 1/2 CAJA                                  ",
+            "C": "CAJA X 30           ",
+            "D": "609000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2143",
+            "B": "RON M/LLIN 3 AÑOS BT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "36000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2144",
+            "B": "RON M/LLIN 3 AÑOS BT CAJA                                   ",
+            "C": "CAJA X 20           ",
+            "D": "720000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2145",
+            "B": "RON SANTA FE 1/2 UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "20700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2146",
+            "B": "RON SANTA FE 1/2 CAJA                                       ",
+            "C": "CAJA X 24           ",
+            "D": "496800",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2147",
+            "B": "RON SANTA FE BT UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "36500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2148",
+            "B": "RON SANTA FE BT CAJA                                        ",
+            "C": "CAJA X 12           ",
+            "D": "438000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2149",
+            "B": "SELLO BLANCO BT UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "70000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2150",
+            "B": "SELLO BLANCO BT CAJA                                        ",
+            "C": "CAJA X 12           ",
+            "D": "840000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2151",
+            "B": "SELLO NEGRO BT UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "85000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2152",
+            "B": "SELLO NEGRO BT CAJA                                         ",
+            "C": "CAJA X 12           ",
+            "D": "1020000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2153",
+            "B": "SELLO ROJO  1/2 UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "28700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2154",
+            "B": "SELLO ROJO  1/2 CAJA                                        ",
+            "C": "CAJA X 24           ",
+            "D": "688800",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2155",
+            "B": "SELLO ROJO BT UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "44600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2156",
+            "B": "SELLO ROJO BT CAJA                                          ",
+            "C": "CAJA X 12           ",
+            "D": "534600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2157",
+            "B": "SIR EDWARDS UND                                             ",
+            "C": "UNIDAD              ",
+            "D": "28000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2158",
+            "B": "SIR EDWARDS CAJA                                            ",
+            "C": "CAJA X 6            ",
+            "D": "168000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2159",
+            "B": "SMIRNOFF ICE UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "4700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2160",
+            "B": "SMIRNOFF ICE CAJA                                           ",
+            "C": "CAJA X 24           ",
+            "D": "112000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2161",
+            "B": "SMIRNOFF LULO UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "30000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2162",
+            "B": "SMIRNOFF LULO CAJA                                          ",
+            "C": "CAJA X 15           ",
+            "D": "450000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2163",
+            "B": "SOMETHING UND                                               ",
+            "C": "UNIDAD              ",
+            "D": "45000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2163-1              ",
+            "B": "SMIRNOFF RED BT UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "57500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2163-2              ",
+            "B": "SMIRNOFF RED BT CAJA                                        ",
+            "C": "CAJA X 12           ",
+            "D": "690000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2164",
+            "B": "SOMETHING CAJA                                              ",
+            "C": "CAJA                ",
+            "D": "540000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2165",
+            "B": "SOMETHING + VASO UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "43500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2166",
+            "B": "SOMETHING + VASO CAJA                                       ",
+            "C": "CAJA                ",
+            "D": "348000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2166-1              ",
+            "B": "SOMETHING LT CAJA                                           ",
+            "C": "CAJA X 12           ",
+            "D": "624000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2166-2              ",
+            "B": "SOMETHING LT UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "52000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2167",
+            "B": "VINO CARIÑOSO UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "11000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2168",
+            "B": "VINO CARIÑOSO CAJA                                          ",
+            "C": "CAJA X 12           ",
+            "D": "132000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2169",
+            "B": "VINO GATO NEGRO BLANCO UND                                  ",
+            "C": "UNIDAD              ",
+            "D": "26000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2170",
+            "B": "VINO GATO NEGRO BLANCO CAJA                                 ",
+            "C": "CAJA X 12           ",
+            "D": "300000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2171",
+            "B": "VINO GATO NEGRO CABERNET UND                                ",
+            "C": "UNIDAD              ",
+            "D": "26000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2172",
+            "B": "VINO GATO NEGRO CABERNET CAJA                               ",
+            "C": "CAJA X 12           ",
+            "D": "300000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2173",
+            "B": "VINO GATO NEGRO MERLOT UND                                  ",
+            "C": "UNIDAD              ",
+            "D": "26000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2174",
+            "B": "VINO GATO NEGRO MERLOT CAJA                                 ",
+            "C": "CAJA X 12           ",
+            "D": "300000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2175",
+            "B": "VINO GATO NEGRO PICOLO UND                                  ",
+            "C": "UNIDAD              ",
+            "D": "8000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2176",
+            "B": "VINO GATO NEGRO PICOLO CAJA                                 ",
+            "C": "CAJA X 24           ",
+            "D": "192000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2177",
+            "B": "VINO SANSON UND                                             ",
+            "C": "UNIDAD              ",
+            "D": "14600",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2178",
+            "B": "VINO SANSON CAJA                                            ",
+            "C": "CAJA X 12           ",
+            "D": "175200",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2179",
+            "B": "VINO SANTA RITA BLANCO UND                                  ",
+            "C": "UNIDAD              ",
+            "D": "29000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2180",
+            "B": "VINO SANTA RITA BLANCO CAJA                                 ",
+            "C": "CAJA X 12           ",
+            "D": "348000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2181",
+            "B": "VINO SANTA RITA CABERNET UND                                ",
+            "C": "UNIDAD              ",
+            "D": "29000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2182",
+            "B": "VINO SANTA RITA CABERNET CAJA                               ",
+            "C": "CAJA X 12           ",
+            "D": "348000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2183",
+            "B": "VINO SANTA RITA MERLOT UND                                  ",
+            "C": "UNIDAD              ",
+            "D": "29000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2184",
+            "B": "VINO SANTA RITA MERLOT CAJA                                 ",
+            "C": "CAJA X 12           ",
+            "D": "348000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2185",
+            "B": "VODKA ABSOLUT UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "55000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2186",
+            "B": "VODKA ABSOLUT CAJA                                          ",
+            "C": "CAJA X 12           ",
+            "D": "660000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2187",
+            "B": "BACARDI 1/2 CAJA                                            ",
+            "C": "CAJA X 24           ",
+            "D": "528000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2188",
+            "B": "BACARDI 1/2 UND                                             ",
+            "C": "UNIDAD              ",
+            "D": "22000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2189",
+            "B": "RON CALDAS 1/4 CAJA                                         ",
+            "C": "CAJA X 24           ",
+            "D": "292800",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2190",
+            "B": "RON CALDAS 1/4 UND                                          ",
+            "C": "UNIDAD              ",
+            "D": "12200",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2191",
+            "B": "BUCHANANS 1/2 CAJA                                          ",
+            "C": "CAJA X 24           ",
+            "D": "1404000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2192",
+            "B": "BUCHANANS 1/2 UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "58500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2193",
+            "B": "SMIRNOFF ICE LATA CAJA                                      ",
+            "C": "CAJA X 24           ",
+            "D": "112000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2193-1              ",
+            "B": "SMIRNOFF LATA UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "4700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2194",
+            "B": "SMIRNOFF ICE LATA MANZ                                      ",
+            "C": "CAJA X 24           ",
+            "D": "112000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2194-1              ",
+            "B": "SMIRNOFF LATA MANZ UND                                      ",
+            "C": "UNIDAD              ",
+            "D": "4700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2195",
+            "B": "SMIRNOFF ICE MANZ BT CAJA                                   ",
+            "C": "CAJA X 24           ",
+            "D": "112000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2196",
+            "B": "VINO FRONTERA CABERNET CAJA                                 ",
+            "C": "CAJA X 12           ",
+            "D": "270000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2197",
+            "B": "VINO FRONTERA CABERNET UND                                  ",
+            "C": "UNIDAD              ",
+            "D": "24500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2198",
+            "B": "VINO FRONTERA MERLOT CAJA                                   ",
+            "C": "CAJA X 12           ",
+            "D": "270000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2199",
+            "B": "VINO FRONTERA MERLOT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "24500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2200",
+            "B": "SMIRNOFF ICE MANZ BT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "4700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2201",
+            "B": "CERVEZA POKERON                                             ",
+            "C": "CAJA X 18           ",
+            "D": "40000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2202",
+            "B": "SMIRNOFF LULO 1/2 UND                                       ",
+            "C": "UNIDAD              ",
+            "D": "18800",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2203",
+            "B": "SELLO ROJO LT UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "54900",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2204",
+            "B": "SELLO ROJO LT CAJA                                          ",
+            "C": "CAJA X 12           ",
+            "D": "658800",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2205",
+            "B": "RON CALDAS LT CAJA                                          ",
+            "C": "CAJA X 12           ",
+            "D": "524400",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2206",
+            "B": "RON CALDAS LT UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "43700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2207",
+            "B": "JAGERMEISTER LT CAJA                                        ",
+            "C": "CAJA X 6            ",
+            "D": "570000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2208",
+            "B": "JAGERMEISTER LT UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "95000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2209",
+            "B": "JAGERMEISTER BT CAJA                                        ",
+            "C": "CAJA X 6            ",
+            "D": "450000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2210",
+            "B": "JAGERMEISTER BT UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "75000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2211",
+            "B": "VINO MOSCATO PASSITO LT CAJA                                ",
+            "C": "CAJA X 12           ",
+            "D": "150000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2212",
+            "B": "VINO MOSCATO PASSITO LT UND                                 ",
+            "C": "UNIDAD              ",
+            "D": "12500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2213",
+            "B": "BRANDY DOMECQ BT CAJA                                       ",
+            "C": "CAJA X 12           ",
+            "D": "452400",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2214",
+            "B": "BRANDY DOMECQ BT UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "37700",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2215",
+            "B": "JOHN THOMAS 1/2 CAJA                                        ",
+            "C": "CAJA X 24           ",
+            "D": "420000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2216",
+            "B": "JOHN THOMAS 1/2 UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "17500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2217",
+            "B": "CERVEZA COSTE-GRIS BANDEJA                                  ",
+            "C": "BANDEJA             ",
+            "D": "32000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2218",
+            "B": "CERVEZA COSTE-GRIS SIX                                      ",
+            "C": "SIXPACK             ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2219",
+            "B": "RON CALDAS ROBLE BC BT UND                                  ",
+            "C": "UNIDAD              ",
+            "D": "27500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2220",
+            "B": "RON CALDAS ROBLE BC BT CAJA                                 ",
+            "C": "CAJA X 12           ",
+            "D": "330000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2221",
+            "B": "RON CALDAS ESENCIAL BT UND                                  ",
+            "C": "UNIDAD              ",
+            "D": "27500",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2222",
+            "B": "RON CALDAS ESENCIAL BT CAJA                                 ",
+            "C": "CAJA X 12           ",
+            "D": "330000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2223",
+            "B": "SELLO NEGRO 1/2 UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "22000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2224",
+            "B": "SELLO NEGRO 1/2 CAJA                                        ",
+            "C": "CAJA X 24           ",
+            "D": "528000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2225",
+            "B": "GINEBRA GORDON BT CAJA                                      ",
+            "C": "CAJA X 12           ",
+            "D": "552000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2226",
+            "B": "GINEBRA GORDON BT UND                                       ",
+            "C": "UNIDAD              ",
+            "D": "46000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2227",
+            "B": "GINEBRA TANQUERAY BT CAJA                                   ",
+            "C": "CAJA X 12           ",
+            "D": "1080000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2228",
+            "B": "GINEBRA TANQUERAY BT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "90000",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2229",
+            "B": "SELLO DORADO BT CAJA                                        ",
+            "C": "CAJA X 6            ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2230",
+            "B": "SELLO DORADO BT UND                                         ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2231",
+            "B": "JAGGERMEISTER 1/2 CAJA                                      ",
+            "C": "CAJA X 6            ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2232",
+            "B": "JAGGERMEISTER 1/2 UND                                       ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2233",
+            "B": "JIMADOR BT CAJA                                             ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2234",
+            "B": "JIMADOR BT UND                                              ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2235",
+            "B": "CAZADORES BT CAJA                                           ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2236",
+            "B": "CAZADORES BT UND                                            ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2237",
+            "B": "VINO PRESIDENCIAL BT CAJA                                   ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2238",
+            "B": "VINO PRESIDENCIAL BT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2239",
+            "B": "VINO MANISCHEWITZ BT CAJA                                   ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2240",
+            "B": "VINO MANISCHEWITZ BT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2241",
+            "B": "BAILEYS TRIPACK                                             ",
+            "C": "PACHA X 3           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2242",
+            "B": "BLACK & WHITE 200 ML CAJA                                   ",
+            "C": "CAJA X 48           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2243",
+            "B": "BLACK & WHITE 200 ML UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2244",
+            "B": "OLD PARR 18 AÑOS BT CAJA                                    ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2245",
+            "B": "OLD PARR 18 AÑOS BT UND                                     ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2246",
+            "B": "RON ZACAPA BT CAJA                                          ",
+            "C": "CAJA X 6            ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2247",
+            "B": "RON ZACAPA BT UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2248",
+            "B": "RON ZACAPA XO BT CAJA                                       ",
+            "C": "CAJA X 6            ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2249",
+            "B": "RON ZACAPA XO BT UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2250",
+            "B": "RON M/LLIN 5 AÑOS BT CAJA                                   ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2251",
+            "B": "RON M/LLIN 5 AÑOS BT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2252",
+            "B": "RON M/LLIN 8 AÑOS BT CAJA                                   ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2253",
+            "B": "RON M/LLIN 8 AÑOS BT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2254",
+            "B": "VODKA ABSOLUT LT CAJA                                       ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2255",
+            "B": "VODKA ABSOLUT LT UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2256",
+            "B": "AGUARD CRISTAL XS 1/2CAJA                                   ",
+            "C": "CAJA X 24           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2257",
+            "B": "AGUARD CRISTAL XS 1/2UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2258",
+            "B": "AGUARD CRISTAL XS BT CAJA                                   ",
+            "C": "CAJA X 12           ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2259",
+            "B": "AGUARD CRISTAL XS BT UND                                    ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2260",
+            "B": "ANTIO AZUL GARRAFA CAJA                                     ",
+            "C": "CAJA X 6            ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "2261",
+            "B": "ANTIO AZUL GARRAFA UND                                      ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "LIQUOR"
+          },
+          {
+            "A": "3001",
+            "B": "ARROZ DIANA                                                 ",
+            "C": "ARROBA              ",
+            "D": "44000",
+            "E": "FOOD"
+          },
+          {
+            "A": "3002",
+            "B": "ARROZ FLOR HUILA                                            ",
+            "C": "ARROBA              ",
+            "D": "33000",
+            "E": "FOOD"
+          },
+          {
+            "A": "3003",
+            "B": "ARROZ ROA                                                   ",
+            "C": "ARROBA              ",
+            "D": "33000",
+            "E": "FOOD"
+          },
+          {
+            "A": "3004",
+            "B": "CAFE AGUILA 125                                             ",
+            "C": "PACA                ",
+            "D": "77000",
+            "E": "FOOD"
+          },
+          {
+            "A": "3005",
+            "B": "CAFE AGUILA 250                                             ",
+            "C": "PACA                ",
+            "D": "74000",
+            "E": "FOOD"
+          },
+          {
+            "A": "3006",
+            "B": "CAFE AGUILA 500                                             ",
+            "C": "PACA                ",
+            "D": "72000",
+            "E": "FOOD"
+          },
+          {
+            "A": "3008",
+            "B": "PASTA LA NIEVE 250GR                                        ",
+            "C": "ARROBA              ",
+            "D": "23000",
+            "E": "FOOD"
+          },
+          {
+            "A": "3009",
+            "B": "PASTA SAN REMO                                              ",
+            "C": "ARROBA              ",
+            "D": "30000",
+            "E": "FOOD"
+          },
+          {
+            "A": "4001",
+            "B": "DURAZNO                                                     ",
+            "C": "UNIDADES            ",
+            "D": "3000",
+            "E": "FOOD"
+          },
+          {
+            "A": "4002",
+            "B": "DURAZNO                                                     ",
+            "C": "CAJA                ",
+            "D": "29000",
+            "E": "FOOD"
+          },
+          {
+            "A": "4003",
+            "B": "SALCHICHA ZENU X150G                                        ",
+            "C": "UNIDADES            ",
+            "D": "2000",
+            "E": "FOOD"
+          },
+          {
+            "A": "4004",
+            "B": "SALCHICHA ZENU X150G CAJA                                   ",
+            "C": "CAJA                ",
+            "D": "96000",
+            "E": "FOOD"
+          },
+          {
+            "A": "5001",
+            "B": "RED BULL FOUR PACK                                          ",
+            "C": "PACA X 4            ",
+            "D": "14000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5002",
+            "B": "AGUA BRISA MINI                                             ",
+            "C": "BANDEJA             ",
+            "D": "12000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5003",
+            "B": "AGUA CRISTALINA                                             ",
+            "C": "BANDEJA             ",
+            "D": "11000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5004",
+            "B": "COCA COLA 1.5 LT                                            ",
+            "C": "PACA                ",
+            "D": "35500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5005",
+            "B": "COCACOLA 3 LT PACA                                          ",
+            "C": "PACA                ",
+            "D": "29000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5007",
+            "B": "COCA COLA FLEXI                                             ",
+            "C": "PACA                ",
+            "D": "16500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5008",
+            "B": "COCA COLA MINI                                              ",
+            "C": "PACA                ",
+            "D": "11000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5009",
+            "B": "DEL VALLE 1.5                                               ",
+            "C": "PACA                ",
+            "D": "22000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5011",
+            "B": "GATORADE SURTIDO                                            ",
+            "C": "PACA                ",
+            "D": "26000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5012",
+            "B": "GATORADE MAND                                               ",
+            "C": "PACA                ",
+            "D": "26000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5013",
+            "B": "GATORADE MARAC                                              ",
+            "C": "PACA                ",
+            "D": "26000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5014",
+            "B": "GATORADE TROP                                               ",
+            "C": "PACA                ",
+            "D": "26000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5015",
+            "B": "HIT CAJA                                                    ",
+            "C": "CAJAS               ",
+            "D": "17000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5016",
+            "B": "HIT LT                                                      ",
+            "C": "CAJA X 12           ",
+            "D": "27000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5017",
+            "B": "HIT PET 500                                                 ",
+            "C": "BANDEJA             ",
+            "D": "19000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5018",
+            "B": "LECHE ALPINA DESLAC X 6                                     ",
+            "C": "PACA                ",
+            "D": "16000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5019",
+            "B": "LECHE ALPINA ENTERA X 6                                     ",
+            "C": "PACA                ",
+            "D": "15500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5020",
+            "B": "LECHE COLANTA1.1                                            ",
+            "C": "CAJAS               ",
+            "D": "27500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5021",
+            "B": "LECHE PARMALAT ENTERA SIX                                   ",
+            "C": "SIXPACK             ",
+            "D": "11500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5022",
+            "B": "LECHE PARMALAT ENTERA CAJA                                  ",
+            "C": "PACA                ",
+            "D": "34500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5023",
+            "B": "MONSTER                                                     ",
+            "C": "BANDEJA             ",
+            "D": "85000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5024",
+            "B": "MONSTER AZUL                                                ",
+            "C": "UNIDADES            ",
+            "D": "4000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5025",
+            "B": "MONSTER BLANCO                                              ",
+            "C": "UNIDADES            ",
+            "D": "4000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5026",
+            "B": "MONSTER VERDE                                               ",
+            "C": "UNIDADES            ",
+            "D": "4000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5027",
+            "B": "PONY 1.5                                                    ",
+            "C": "BANDEJA             ",
+            "D": "17500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5028",
+            "B": "PONY 330                                                    ",
+            "C": "BANDEJA             ",
+            "D": "25000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5029",
+            "B": "PONY MALTA MINI                                             ",
+            "C": "BANDEJA             ",
+            "D": "10000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5030",
+            "B": "POSTOBON 3 LITROS                                           ",
+            "C": "BANDEJA             ",
+            "D": "26500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5031",
+            "B": "RED BULL                                                    ",
+            "C": "BANDEJA             ",
+            "D": "83000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5032",
+            "B": "SABORES 1.7                                                 ",
+            "C": "BANDEJA             ",
+            "D": "27500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5033",
+            "B": "SABORES FLEXI                                               ",
+            "C": "BANDEJA             ",
+            "D": "10000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5034",
+            "B": "SPEED MAX LATA                                              ",
+            "C": "BANDEJA             ",
+            "D": "21000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5035",
+            "B": "SPEED BT                                                    ",
+            "C": "BANDEJA             ",
+            "D": "9000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5036",
+            "B": "COCA COLA 3 LT DUO                                          ",
+            "C": "UNIDAD              ",
+            "D": "9000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5037",
+            "B": "SQUASH                                                      ",
+            "C": "PACA                ",
+            "D": "12000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5038",
+            "B": "COCA COLA ZERO 1.5 LT                                       ",
+            "C": "PACA                ",
+            "D": "34000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5039",
+            "B": "SPEDD MAX  269ML                                            ",
+            "C": "CAJA X 24           ",
+            "D": "18000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5040",
+            "B": "POSTOBON 2.5 LT                                             ",
+            "C": "PACA                ",
+            "D": "21500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5041",
+            "B": "RED BULL UND                                                ",
+            "C": "UNIDAD              ",
+            "D": "4000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5042",
+            "B": "AGUA CRISTAL MINI                                           ",
+            "C": "PACA                ",
+            "D": "9500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5043",
+            "B": "AGUA CRISTAL 600 ML                                         ",
+            "C": "CAJA X 24           ",
+            "D": "19000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5044",
+            "B": "POSTOBON VIDRIO                                             ",
+            "C": "CAJA X 24           ",
+            "D": "35500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5045",
+            "B": "COCA COLA FLEXI ZERO                                        ",
+            "C": "PACA                ",
+            "D": "16500",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5046",
+            "B": "COCA COLA MINI ZERO                                         ",
+            "C": "PACA                ",
+            "D": "11000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5047",
+            "B": "COCA COLA LATA                                              ",
+            "C": "BANDEJA             ",
+            "D": "20000",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5048",
+            "B": "AGUA SALVA 600 ML                                           ",
+            "C": "PACA                ",
+            "D": "",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5049",
+            "B": "AGUA CLARA 600 MLÑ                                          ",
+            "C": "PACA                ",
+            "D": "",
+            "E": "BEVERAGE"
+          },
+          {
+            "A": "5051",
+            "B": "POSTOBON 400 ML                                             ",
+            "C": "PACA                ",
+            "D": "17000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6001",
+            "B": "LUCKY ROJO PQ                                               ",
+            "C": "CARTON              ",
+            "D": "70000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6002",
+            "B": "LUCKY ROJO PQ X 1/2 CARTON                                  ",
+            "C": "CARTON              ",
+            "D": "35000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6003",
+            "B": "LUCKY MEDIO                                                 ",
+            "C": "CARTON              ",
+            "D": "77500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6004",
+            "B": "LUCKY MEDIO X 1/2 CARTON                                    ",
+            "C": "CARTON              ",
+            "D": "38500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6004-1              ",
+            "B": "LUCKY MEDIO X CAJETILLA                                     ",
+            "C": "UNIDAD              ",
+            "D": "4800",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6005",
+            "B": "LUCKY PQ                                                    ",
+            "C": "CARTON              ",
+            "D": "76500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6006",
+            "B": "LUCKY PQ  X 1/2 CARTON                                      ",
+            "C": "CARTON              ",
+            "D": "38000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6007",
+            "B": "ROTHMAN BLANCO MEDIO                                        ",
+            "C": "CARTON              ",
+            "D": "51000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6008",
+            "B": "ROTHMAN BLANCO MEDIO X1/2 CARTON                            ",
+            "C": "CARTON              ",
+            "D": "34500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6008-1              ",
+            "B": "ROTHMAN BLANCO MEDIO X CAJETILLA                            ",
+            "C": "UNIDAD              ",
+            "D": "3500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6009",
+            "B": "ROTHMAN BLANCO PQ                                           ",
+            "C": "CARTON              ",
+            "D": "43000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6009-1              ",
+            "B": "ROTHMAN BLANCO PQ X CAJETILLA                               ",
+            "C": "UNIDAD              ",
+            "D": "7000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6010",
+            "B": "ROTHMAN BLANCO PQ X 1/2 CARTON                              ",
+            "C": "CARTON              ",
+            "D": "21500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6011",
+            "B": "ROTHMAN GRIS MEDIO                                          ",
+            "C": "CARTON              ",
+            "D": "66000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6012",
+            "B": "ROTHMAN GRIS MEDIO X1/2 CARTON                              ",
+            "C": "CARTON              ",
+            "D": "33000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6012-1              ",
+            "B": "ROTHMAN GRIS MEDIO X CAJETILLA                              ",
+            "C": "UNIDAD              ",
+            "D": "4000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6013",
+            "B": "ROTHMAN GRIS PQ                                             ",
+            "C": "CARTON              ",
+            "D": "65500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6014",
+            "B": "ROTHMAN GRIS PQ X 1/2 CARTON                                ",
+            "C": "CARTON              ",
+            "D": "32800",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6015",
+            "B": "ROTHMAN MEDIO                                               ",
+            "C": "CARTON              ",
+            "D": "66500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6016",
+            "B": "ROTHMAN MEDIO X 1/2 CARTON                                  ",
+            "C": "CARTON              ",
+            "D": "33000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6016-1              ",
+            "B": "ROTHMAN MEDIO X CAJETILLA                                   ",
+            "C": "UNIDAD              ",
+            "D": "3500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6017",
+            "B": "ROTHMAN PQ                                                  ",
+            "C": "CARTON              ",
+            "D": "66500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6018",
+            "B": "ROTHMAN PQ X 1/2 CARTON                                     ",
+            "C": "CARTON              ",
+            "D": "33000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6018-1              ",
+            "B": "ROTHMAN PQ X CAJETILLA                                      ",
+            "C": "UNIDAD              ",
+            "D": "7000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6019",
+            "B": "MARLBORO FUSION MEDIO                                       ",
+            "C": "CARTON              ",
+            "D": "72000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6020",
+            "B": "MARLBORO FUSION MEDIO X1/2 CARTON                           ",
+            "C": "CARTON              ",
+            "D": "36000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6020-1              ",
+            "B": "MARLBORO FUSION MEDIO X CAJETILLA                           ",
+            "C": "UNIDAD              ",
+            "D": "4800",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6021",
+            "B": "MARLBORO ROJO MEDIO                                         ",
+            "C": "CARTON              ",
+            "D": "74000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6022",
+            "B": "MARLBORO ROJO MEDIO X1/2 CARTON                             ",
+            "C": "CARTON              ",
+            "D": "37000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6022-1              ",
+            "B": "MARLBORO ROJO MEDIOX CAJETILLA                              ",
+            "C": "UNIDAD              ",
+            "D": "4500",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6023",
+            "B": "LYM MEDIO                                                   ",
+            "C": "CARTON              ",
+            "D": "50000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6024",
+            "B": "LYM MEDIO X1/2 CARTON                                       ",
+            "C": "CARTON              ",
+            "D": "25000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6025",
+            "B": "LYM MEDIO X CAJETILLA                                       ",
+            "C": "UNIDAD              ",
+            "D": "2800",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6026",
+            "B": "LUCKY FIESTA MEDIO                                          ",
+            "C": "CARTON              ",
+            "D": "72000",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6027",
+            "B": "LUCKY FIESTA MEDIO 1//2 CARTON                              ",
+            "C": "CARTON              ",
+            "D": "",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "6028",
+            "B": "LUCKY FIESTA MEDIO X CAJETILLA                              ",
+            "C": "UNIDAD              ",
+            "D": "",
+            "E": "CIGARETTE"
+          },
+          {
+            "A": "7001",
+            "B": "ACT. PREMIER 1L                                             ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "FOOD"
+          },
+          {
+            "A": "7002",
+            "B": "ACT. PREMIER 2L                                             ",
+            "C": "UNIDAD              ",
+            "D": "16000",
+            "E": "FOOD"
+          },
+          {
+            "A": "7003",
+            "B": "ACT. PREMIER 3L                                             ",
+            "C": "UNIDAD              ",
+            "D": "22000",
+            "E": "FOOD"
+          },
+          {
+            "A": "7004",
+            "B": "ACT. PREMIER 3L+500                                         ",
+            "C": "UNIDAD              ",
+            "D": "25000",
+            "E": "FOOD"
+          },
+          {
+            "A": "7005",
+            "B": "ACT. PREMIER 5L                                             ",
+            "C": "UNIDAD              ",
+            "D": "35000",
+            "E": "FOOD"
+          },
+          {
+            "A": "7006",
+            "B": "ACT.GOURMET 1L                                              ",
+            "C": "UNIDAD              ",
+            "D": "12000",
+            "E": "FOOD"
+          },
+          {
+            "A": "7007",
+            "B": "ACT.GOURMET 2L                                              ",
+            "C": "UNIDAD              ",
+            "D": "21000",
+            "E": "FOOD"
+          },
+          {
+            "A": "7008",
+            "B": "ACT.GOURMET 3L                                              ",
+            "C": "UNIDAD              ",
+            "D": "28000",
+            "E": "FOOD"
+          },
+          {
+            "A": "7009",
+            "B": "ACT.GOURMET 5L                                              ",
+            "C": "UNIDAD              ",
+            "D": "47000",
+            "E": "FOOD"
+          },
+          {
+            "A": "8001",
+            "B": "AROMATEL UND                                                ",
+            "C": "UNIDADES            ",
+            "D": "9500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8002",
+            "B": "AROMATEL CAJA                                               ",
+            "C": "CAJA                ",
+            "D": "57000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8002-1              ",
+            "B": "AROMATEL PACHA                                              ",
+            "C": "PACHA X 2           ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8003",
+            "B": "AXION 450 X 2 PACHA                                         ",
+            "C": "UNIDADES            ",
+            "D": "6500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8004",
+            "B": "AXION 450 X 2 CAJA                                          ",
+            "C": "CAJA                ",
+            "D": "72000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8005",
+            "B": "AXION 450 X 3 PACHA                                         ",
+            "C": "UNIDADES            ",
+            "D": "9700",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8006",
+            "B": "AXION 450 X 3 CAJA                                          ",
+            "C": "CAJA                ",
+            "D": "72000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8007",
+            "B": "AXION 450 X 6 PACHA                                         ",
+            "C": "UNIDADES            ",
+            "D": "21000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8008",
+            "B": "AXION 450 X 6 CAJA                                          ",
+            "C": "CAJA                ",
+            "D": "72000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8009",
+            "B": "AXION 850 X 2 PACHA                                         ",
+            "C": "UNIDADES            ",
+            "D": "13000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8010",
+            "B": "AXION 850 X 2 CAJA                                          ",
+            "C": "CAJA                ",
+            "D": "72000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8011",
+            "B": "AXION LIQ. 1.5                                              ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8012",
+            "B": "BLANCOX LOZACREM  DISP. 850ML                               ",
+            "C": "UNIDADES            ",
+            "D": "9500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8013",
+            "B": "BLANCOX LOZACREM 1.8 LIQ                                    ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8014",
+            "B": "BLANCOX LOZACREM CREMA 1.1 KG                               ",
+            "C": "UNIDADES            ",
+            "D": "6500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8015",
+            "B": "BON AIRE VARITAS X 2                                        ",
+            "C": "UNIDADES            ",
+            "D": "21000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8016",
+            "B": "CLOROX 3.8                                                  ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8017",
+            "B": "DET. ARIEL 1.2 LIQ                                          ",
+            "C": "UNIDADES            ",
+            "D": "9500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8018",
+            "B": "DET. ARIEL 2K                                               ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8019",
+            "B": "DET. ARIEL 2L                                               ",
+            "C": "UNIDADES            ",
+            "D": "18000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8020",
+            "B": "DET. ARIEL 5K                                               ",
+            "C": "UNIDADES            ",
+            "D": "21000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8021",
+            "B": "DET. ARIEL DOWNY 4K                                         ",
+            "C": "UNIDADES            ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8022",
+            "B": "DET. ARIEL VERD.4K                                          ",
+            "C": "UNIDADES            ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8023",
+            "B": "DET. ARIEL 4L                                               ",
+            "C": "UNIDADES            ",
+            "D": "32000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8024",
+            "B": "DET. COCO LIQ 1.8                                           ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8025",
+            "B": "DET. COCO LIQ 5L                                            ",
+            "C": "UNIDADES            ",
+            "D": "32000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8026",
+            "B": "DET. DERSA 4L                                               ",
+            "C": "UNIDADES            ",
+            "D": "21000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8027",
+            "B": "DET. DERSA 5K                                               ",
+            "C": "UNIDADES            ",
+            "D": "20000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8028",
+            "B": "DET. DERSA 6K +REY                                          ",
+            "C": "UNIDADES            ",
+            "D": "23000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8029",
+            "B": "DET. FAB 1.8 L                                              ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8030",
+            "B": "DET. FAB 4K                                                 ",
+            "C": "UNIDADES            ",
+            "D": "17000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8031",
+            "B": "DET. FAB 6K                                                 ",
+            "C": "UNIDADES            ",
+            "D": "24000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8032",
+            "B": "DET. LAVOMATIC 1.8                                          ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8033",
+            "B": "DET. OH LALA                                                ",
+            "C": "UNIDADES            ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8034",
+            "B": "DET. RINDEX 4K                                              ",
+            "C": "UNIDADES            ",
+            "D": "15000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8035",
+            "B": "DET. VEL ROSITA 1.8                                         ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8036",
+            "B": "FABULOSO 5LT                                                ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8037",
+            "B": "GLADE ACEITE +APARATO                                       ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8038",
+            "B": "GLADE ACEITE*2 + APARATO                                    ",
+            "C": "UNIDADES            ",
+            "D": "15000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8039",
+            "B": "GLADE AEROSOL                                               ",
+            "C": "UNIDADES            ",
+            "D": "6500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8040",
+            "B": "GLADE AUTOMATICO                                            ",
+            "C": "UNIDADES            ",
+            "D": "21000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8041",
+            "B": "GLADE REPUESTO AUTOMATICO                                   ",
+            "C": "UNIDADES            ",
+            "D": "13000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8042",
+            "B": "GLADE TOQUE                                                 ",
+            "C": "UNIDADES            ",
+            "D": "8500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8043",
+            "B": "GLADE*2                                                     ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8044",
+            "B": "GLADE*3                                                     ",
+            "C": "UNIDADES            ",
+            "D": "15000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8045",
+            "B": "JAB.REY*25                                                  ",
+            "C": "UNIDADES            ",
+            "D": "34000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8046",
+            "B": "LIMP.AJAX BICARBONATO                                       ",
+            "C": "UNIDADES            ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8047",
+            "B": "PH.FMLIA*12                                                 ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8048",
+            "B": "PH.SUAVEG*12                                                ",
+            "C": "UNIDADES            ",
+            "D": "17000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8049",
+            "B": "RAID ELECTR+REPUESTO ZANCU                                  ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8050",
+            "B": "RAID MAX DORADO*360 CC                                      ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8051",
+            "B": "RAID PULGAS                                                 ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8052",
+            "B": "RAID X 3 AZUL PQÑO                                          ",
+            "C": "UNIDADES            ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8053",
+            "B": "RAID360 AZUL ZANCUDO                                        ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8054",
+            "B": "RAID360+APARATO ELECT.                                      ",
+            "C": "UNIDADES            ",
+            "D": "18000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8055",
+            "B": "REP AMB. BONAIRE ELECT*1.                                   ",
+            "C": "UNIDADES            ",
+            "D": "5000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8056",
+            "B": "SALVO LIQ 1.2                                               ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8057",
+            "B": "SANPIC 3L                                                   ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8058",
+            "B": "SUAVITEL 1.5                                                ",
+            "C": "UNIDADES            ",
+            "D": "6000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8059",
+            "B": "SUAVITEL 3 LT PACHA                                         ",
+            "C": "PACHA X 2           ",
+            "D": "20000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8060",
+            "B": "SUAVITEL 3 LT CAJA                                          ",
+            "C": "CAJA                ",
+            "D": "40000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8061",
+            "B": "TOALLA COCINA SCOTT                                         ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8062",
+            "B": "VANISH POLVO 900 GR                                         ",
+            "C": "UNIDADES            ",
+            "D": "20000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8063",
+            "B": "WOOLITE 2LT                                                 ",
+            "C": "UNIDADES            ",
+            "D": "18000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8064",
+            "B": "BON AIRE VARITA 40 ML                                       ",
+            "C": "UNIDAD              ",
+            "D": "5000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8065",
+            "B": "GLADE*4                                                     ",
+            "C": "UNIDAD              ",
+            "D": "20000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8066",
+            "B": "BRIZZE AEROSOL                                              ",
+            "C": "UNIDAD              ",
+            "D": "7000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8067",
+            "B": "BRIZZE VARITAS X 60 ML                                      ",
+            "C": "UNIDAD              ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8068",
+            "B": "DESENGRASANTE ASTRAL                                        ",
+            "C": "UNIDAD              ",
+            "D": "6000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8069",
+            "B": "VANISH GALON 3.8 + 900                                      ",
+            "C": "UNIDADES            ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8069-1              ",
+            "B": "SUAVITEL 3 LT UND                                           ",
+            "C": "UNIDAD              ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8070",
+            "B": "PH. FAMILIA X12 EMP INDIVIDUAL                              ",
+            "C": "PACA                ",
+            "D": "16500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8071",
+            "B": "ALCOHOL ANTISEPT PACA                                       ",
+            "C": "PACA                ",
+            "D": "",
+            "E": "CLEANING"
+          },
+          {
+            "A": "8072",
+            "B": "ALCOHOL ANTISEPT UND                                        ",
+            "C": "UNIDAD              ",
+            "D": "2000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9001",
+            "B": "ACOND. PANTENE 400ML                                        ",
+            "C": "UNIDADES            ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9002",
+            "B": "BLOQUEADOR SUNDOWN KIDS                                     ",
+            "C": "UNIDADES            ",
+            "D": "26000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9003",
+            "B": "CEPILLO COLG.360 LUMINOUS X 5                               ",
+            "C": "UNIDADES            ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9004",
+            "B": "CEPILLO PRO 1000                                            ",
+            "C": "UNIDADES            ",
+            "D": "8500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9005",
+            "B": "CEPILLOS PRO 900                                            ",
+            "C": "UNIDADES            ",
+            "D": "8500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9006",
+            "B": "CERA EGO                                                    ",
+            "C": "UNIDADES            ",
+            "D": "7000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9007",
+            "B": "COLG T. ACC.150*3                                           ",
+            "C": "UNIDADES            ",
+            "D": "17000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9008",
+            "B": "COLG T. ACC.150*3 CAJA                                      ",
+            "C": "CAJA                ",
+            "D": "372000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9009",
+            "B": "COLG. SENSITIVE 90GR                                        ",
+            "C": "UNIDADES            ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9010",
+            "B": "COLG. TOTAL*75+ CEPILLO                                     ",
+            "C": "UNIDADES            ",
+            "D": "13000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9011",
+            "B": "COLG.LUMINOWH*3  X 125 CC                                   ",
+            "C": "UNIDADES            ",
+            "D": "26000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9012",
+            "B": "COLG.LUMINOWH 125 CC UNIDAD                                 ",
+            "C": "UNIDAD              ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9013",
+            "B": "COLG.T. ACC. 150GR                                          ",
+            "C": "UNIDADES            ",
+            "D": "6000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9013-1              ",
+            "B": "COLG.T. ACC.150GR CAJA                                      ",
+            "C": "CAJA X 72           ",
+            "D": "432000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9014",
+            "B": "COLG.T. ACCION 125*3                                        ",
+            "C": "UNIDADES            ",
+            "D": "13000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9015",
+            "B": "COLG.T. ACCION 125*3 CAJA                                   ",
+            "C": "CAJA                ",
+            "D": "300000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9016",
+            "B": "COLG.TOTAL ANTI*3                                           ",
+            "C": "UNIDADES            ",
+            "D": "16000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9017",
+            "B": "COLG.TRIPLE 100*3                                           ",
+            "C": "UNIDADES            ",
+            "D": "10500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9018",
+            "B": "COLG.TRIPLE 100*3 CAJA                                      ",
+            "C": "CAJA                ",
+            "D": "",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9019",
+            "B": "CREM.PEINAR SEDAL                                           ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9020",
+            "B": "CREMA DOVE 1L                                               ",
+            "C": "UNIDADES            ",
+            "D": "22000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9021",
+            "B": "CREMA PANTENE RIZOS                                         ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9022",
+            "B": "CREMA PEINAR HYS COCO                                       ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9023",
+            "B": "CREMA YODORAX2                                              ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9024",
+            "B": "DES. DEOPIES                                                ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9025",
+            "B": "DESOD. ARDEN FORMEN SPRAY                                   ",
+            "C": "UNIDADES            ",
+            "D": "7000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9026",
+            "B": "DESOD. AXE SPRAY                                            ",
+            "C": "UNIDADES            ",
+            "D": "9500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9027",
+            "B": "DESOD. BALANCE BARRA                                        ",
+            "C": "UNIDADES            ",
+            "D": "6000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9028",
+            "B": "DESOD. BALANCE SPRAY                                        ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9029",
+            "B": "DESOD. DOVE BARRA DERMOACL                                  ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9030",
+            "B": "DESOD. DOVE DERMO SPRAY                                     ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9031",
+            "B": "DESOD. DOVE MEN                                             ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9032",
+            "B": "DESOD. DOVE MEN INVIS                                       ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9033",
+            "B": "DESOD. GILLETTE GEL                                         ",
+            "C": "UNIDADES            ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9034",
+            "B": "DESOD. GILLETTE ROLL-ON                                     ",
+            "C": "UNIDADES            ",
+            "D": "7000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9035",
+            "B": "DESOD. LADY S.S SPRAY                                       ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9036",
+            "B": "DESOD. OLD SPICE SPRAY                                      ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9037",
+            "B": "DESOD. REXBAMBOO SPRAY DAMA                                 ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9038",
+            "B": "DESOD. REXONA BARRA                                         ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9039",
+            "B": "DESOD. REXONA CLIN.                                         ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9040",
+            "B": "DESOD. REXONA CLIN.MEN                                      ",
+            "C": "UNIDADES            ",
+            "D": "13000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9041",
+            "B": "DESOD. REXONA CLIN.SPRAY                                    ",
+            "C": "UNIDADES            ",
+            "D": "10500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9042",
+            "B": "DESOD. REXONA V8 SPRAY                                      ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9043",
+            "B": "DESOD. SPEED BARRA CLA                                      ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9044",
+            "B": "DESOD. SPEED CREMA X2                                       ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9045",
+            "B": "DESOD. SPEED S. GEL                                         ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9046",
+            "B": "DESOD. SPEED S. SPRAY                                       ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9047",
+            "B": "DESOD. SPEED S. ROLLON                                      ",
+            "C": "UNIDADES            ",
+            "D": "7500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9048",
+            "B": "ENJUAGUE LUMINOUS+ 2 CRE*75                                 ",
+            "C": "UNIDADES            ",
+            "D": "16000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9049",
+            "B": "FLUOCARDENT 100GR* 4                                        ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9050",
+            "B": "GEL EGO 500ML                                               ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9051",
+            "B": "JAB.CAREY*3                                                 ",
+            "C": "UNIDADES            ",
+            "D": "4500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9052",
+            "B": "JAB.DOVE*3                                                  ",
+            "C": "UNIDADES            ",
+            "D": "6000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9053",
+            "B": "JAB.JOHNSON'S*3                                             ",
+            "C": "UNIDADES            ",
+            "D": "5000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9054",
+            "B": "JAB.LUX*3                                                   ",
+            "C": "UNIDADES            ",
+            "D": "4500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9055",
+            "B": "JAB.PALMOLIVE*3                                             ",
+            "C": "UNIDADES            ",
+            "D": "5000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9056",
+            "B": "JAB.PROTEX*9                                                ",
+            "C": "PACHA X 9           ",
+            "D": "15000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9057",
+            "B": "JAB.PROTEX CAJA*9                                           ",
+            "C": "CAJA X 9            ",
+            "D": "112000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9057-1              ",
+            "B": "JAB.PROTEX*3                                                ",
+            "C": "PACHA X 3           ",
+            "D": "5000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9057-2              ",
+            "B": "JAB.PROTEX CAJA*6                                           ",
+            "C": "CAJA X 12           ",
+            "D": "116000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9057-3              ",
+            "B": "JJAB.PROTEX X 6                                             ",
+            "C": "PACHA X 6           ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9058",
+            "B": "KOTEX*180                                                   ",
+            "C": "UNIDADES            ",
+            "D": "11500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9059",
+            "B": "LADY MEXSANA PIES                                           ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9060",
+            "B": "LISTE 0 ALCOHOL                                             ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9061",
+            "B": "LISTE ANTICAR                                               ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9062",
+            "B": "LISTE CONTROL CALCULO                                       ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9063",
+            "B": "LISTE COOLMINT                                              ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9064",
+            "B": "LISTE CUIDADO                                               ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9065",
+            "B": "LISTE LITRO                                                 ",
+            "C": "UNIDADES            ",
+            "D": "21000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9066",
+            "B": "LISTE ORIGINAL                                              ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9067",
+            "B": "LISTE WHITENING EXTREME 500 ML                              ",
+            "C": "UNIDADES            ",
+            "D": "13000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9068",
+            "B": "LISTERINE 180 ML                                            ",
+            "C": "UNIDADES            ",
+            "D": "5500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9069",
+            "B": "LUBRI.AZUL 946 ML                                           ",
+            "C": "UNIDADES            ",
+            "D": "26000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9070",
+            "B": "LUBRI.DORADA 946 ML                                         ",
+            "C": "UNIDADES            ",
+            "D": "30000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9071",
+            "B": "LUBRI.GRIS MEN 400ML                                        ",
+            "C": "UNIDADES            ",
+            "D": "20000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9072",
+            "B": "LUBRI.MORADA 946 ML                                         ",
+            "C": "UNIDADES            ",
+            "D": "30000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9073",
+            "B": "LUBRI.VERDE 400ML                                           ",
+            "C": "UNIDADES            ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9074",
+            "B": "NUTRIBELA 10 300ML                                          ",
+            "C": "UNIDADES            ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9075",
+            "B": "ORAL B * 4                                                  ",
+            "C": "UNIDADES            ",
+            "D": "24000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9076",
+            "B": "PH.FMLIA*15                                                 ",
+            "C": "UNIDADES            ",
+            "D": "15500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9077",
+            "B": "PH.SUAVEG*18                                                ",
+            "C": "UNIDADES            ",
+            "D": "25000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9078",
+            "B": "PROT.NOSOTRAS 120 UND                                       ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9079",
+            "B": "PROTEC. NOSOTRAS+ BAÑO INT                                  ",
+            "C": "UNIDADES            ",
+            "D": "15000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9080",
+            "B": "REP. GILLETTE MAX * 6                                       ",
+            "C": "UNIDADES            ",
+            "D": "35000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9081",
+            "B": "REP.GILLETTE MATCH 3*4                                      ",
+            "C": "UNIDADES            ",
+            "D": "21000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9082",
+            "B": "SH. PANTENE 400ML+TRATAM 170                                ",
+            "C": "UNIDADES            ",
+            "D": "20000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9083",
+            "B": "SH. CLEAR 400+AXE B                                         ",
+            "C": "UNIDADES            ",
+            "D": "15000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9084",
+            "B": "SH. DOVE 400 ML.                                            ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9085",
+            "B": "SH. DOVE 400 ML+TRAT 170                                    ",
+            "C": "UNIDADES            ",
+            "D": "20000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9086",
+            "B": "SH. DOVE 750 ML                                             ",
+            "C": "UNIDADES            ",
+            "D": "19000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9087",
+            "B": "SH. DOVE ANTICASPA 375 ML                                   ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9088",
+            "B": "SH. EGO400+GEL110                                           ",
+            "C": "UNIDADES            ",
+            "D": "14000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9089",
+            "B": "SH. ELVIVE O ACOND.400 ML                                   ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9090",
+            "B": "SH. H&S 180 ML                                              ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9091",
+            "B": "SH. H&S 375 ML                                              ",
+            "C": "UNIDADES            ",
+            "D": "11000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9092",
+            "B": "SH. H&S 375+TRAT.150                                        ",
+            "C": "UNIDADES            ",
+            "D": "20000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9093",
+            "B": "SH. H&S 700 ML                                              ",
+            "C": "UNIDADES            ",
+            "D": "18000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9094",
+            "B": "SH. H&S LITRO                                               ",
+            "C": "UNIDADES            ",
+            "D": "24000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9095",
+            "B": "SH. J&J 200ML                                               ",
+            "C": "UNIDADES            ",
+            "D": "8000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9096",
+            "B": "SH. J&J 750 ML                                              ",
+            "C": "UNIDADES            ",
+            "D": "18000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9097",
+            "B": "SH. J&J LITRO                                               ",
+            "C": "UNIDADES            ",
+            "D": "21000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9098",
+            "B": "SH. MEDICASP                                                ",
+            "C": "UNIDADES            ",
+            "D": "18000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9099",
+            "B": "SH. PANTENE 400ML                                           ",
+            "C": "UNIDADES            ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9100",
+            "B": "SH. PANTENE 700 ML                                          ",
+            "C": "UNIDADES            ",
+            "D": "18000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9101",
+            "B": "SH. SAVITAL                                                 ",
+            "C": "UNIDADES            ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9102",
+            "B": "SH. SEDAL 340ML                                             ",
+            "C": "UNIDADES            ",
+            "D": "6500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9103",
+            "B": "SH. SEDAL 650 ML                                            ",
+            "C": "UNIDADES            ",
+            "D": "13000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9104",
+            "B": "T.HIG.NOSOTRAS BUENAS NOCHES                                ",
+            "C": "UNIDADES            ",
+            "D": "13000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9105",
+            "B": "JAB.REXONA*3                                                ",
+            "C": "UNIDAD              ",
+            "D": "4500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9106",
+            "B": "SH. ELVIVE 680 ML                                           ",
+            "C": "UNIDAD              ",
+            "D": "16500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9107",
+            "B": "T.HIG. KOTEX X60                                            ",
+            "C": "UNIDAD              ",
+            "D": "15000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9108",
+            "B": "DESOD. REXONA V8 ROLL-ON                                    ",
+            "C": "UNIDAD              ",
+            "D": "7000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9109",
+            "B": "DES. MEXSANA PIES                                           ",
+            "C": "UNIDAD              ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9110",
+            "B": "GEL.AFEITAR GILLETTE                                        ",
+            "C": "UNIDAD              ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9111",
+            "B": "RISTRA HYS/ PANTENE                                         ",
+            "C": "UNIDADES            ",
+            "D": "6000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9112",
+            "B": "MAQUI. AFEITAR SHICK X3                                     ",
+            "C": "UNIDAD              ",
+            "D": "2500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9113",
+            "B": "PH.SCOOT RINDEMAX *16                                       ",
+            "C": "UNIDAD              ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9114",
+            "B": "T.HIG. DIA NOCHE X24+ JAB                                   ",
+            "C": "UNIDADES            ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9115",
+            "B": "COLG. TRIPLEX60GR *12                                       ",
+            "C": "UNIDADES            ",
+            "D": "25000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9116",
+            "B": "BLANCOX ROPA COLOR 2L+1L                                    ",
+            "C": "UNIDADES            ",
+            "D": "12000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9117",
+            "B": "JAB. DOVE BABYX3                                            ",
+            "C": "UNIDADES            ",
+            "D": "6000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9118",
+            "B": "DET. BARRA COCO X3                                          ",
+            "C": "UNIDADES            ",
+            "D": "7000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9119",
+            "B": "DET. BARRA PURO                                             ",
+            "C": "UNIDAD              ",
+            "D": "1000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9120",
+            "B": "DET. BARRA VEL ROSITA X3                                    ",
+            "C": "UNIDADES            ",
+            "D": "5000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9121",
+            "B": "DESOD. REXONA PRACTI TUBO                                   ",
+            "C": "UNIDAD              ",
+            "D": "2800",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9122",
+            "B": "SH. SACHET SAVITAL                                          ",
+            "C": "CAJA X 20           ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9123",
+            "B": "SH. SACHET SEDAL                                            ",
+            "C": "CAJA X 20           ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9124",
+            "B": "GEL EGO X15 SCH                                             ",
+            "C": "CAJA X 15           ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9125",
+            "B": "DESOD. BALANCE SACHET                                       ",
+            "C": "UNIDADES            ",
+            "D": "9000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9126",
+            "B": "DESOD. BALANCE PRACTI TUBO                                  ",
+            "C": "UNIDADES            ",
+            "D": "2500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9127",
+            "B": "SH. SACHET KONZIL                                           ",
+            "C": "CAJA X 18           ",
+            "D": "7500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9128",
+            "B": "NUTRIBELLA SACHET X12                                       ",
+            "C": "CAJA X 12           ",
+            "D": "10000",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9129",
+            "B": "SH. PANTENE 200ML                                           ",
+            "C": "UNIDADES            ",
+            "D": "7500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9130",
+            "B": "DESOD. SPEED24/7 SACHET                                     ",
+            "C": "UNIDADES            ",
+            "D": "9500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9131",
+            "B": "CREM. J&J CORPORAL 400                                      ",
+            "C": "UNIDAD              ",
+            "D": "17500",
+            "E": "CLEANING"
+          },
+          {
+            "A": "9132",
+            "B": "COLG T.ACC.125ML X 6                                        ",
+            "C": "CAJA X 6            ",
+            "D": "24000",
+            "E": "CLEANING"
+          }
+    ]
+}
