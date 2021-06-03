@@ -25,7 +25,6 @@ const buildingSlide = (actualHref, imagesArray, compareUrl, alertMessage) => {
         }else{
             showAlert(true, alertMessage);
         }
-        
     }
 }
 
@@ -60,7 +59,6 @@ const la36SucursalUrl = 'sucursales/bogota/La%2036.html';
 const gironSucursalUrl = 'sucursales/bucaramanga/Giron.html';
 const laIslaSucursalUrl = 'sucursales/bucaramanga/Laisla.html'
 const floridaBlancaUrl = 'bucaramanga/FloridaBlanca.html';
-
 
 
 buildingSlide(actualHref, sliderSoacha, soachaSucursalUrl);
@@ -145,6 +143,52 @@ $(document).ready(function() {
     DATA BASE PRODUCTS PRICES
 ==============================================================================================*/
 
+if(actualHref){
+    fetch('../../data/data.json')
+    .then((res)=>{
+        return res.json();
+    }).then((productsData)=>{
+        const allproducts = productsData.data;
+        productsPerPage(allproducts, actualHref);
+    });
+}
+
+
+const showProducts = () => {
+
+}
+
+
+const productsPerPage = (products, actualHref) => {
+
+    const productsBycede = [];
+
+
+    const beverages = products.filter(c => c.category === 'BEVERAGE');
+    const beers = products.filter(c => c.category === 'BEER');
+    const liquors = products.filter(c => c.category === 'LIQUOR');
+    const foods = products.filter(c => c.category === 'FOOD');
+    const cigarettes = products.filter(c => c.category === 'CIGARETTE');
+    const cleaning = products.filter(c => c.category === 'CLEANING');
+
+    if(actualHref.includes(soachaSucursalUrl)){
+        productsBycede.push(...beverages, ...beers, ...liquors);
+    }else if(actualHref.includes(bosaSucursalUrl)){
+        productsBycede.push(...beverages, ...beers, ...liquors, ...cleaning);
+    }else if(actualHref.includes(la36SucursalUrl)){
+        productsBycede.push(...beverages, ...beers, ...liquors, ...cleaning);
+    }else if(actualHref.includes(la12SucursalUrl)){
+        productsBycede.push(...beverages, ...beers, ...liquors);
+    }else if(actualHref.includes(floridaBlancaUrl)){
+        productsBycede.push(...beverages, ...beers, ...liquors);
+    }else if(actualHref.includes(gironSucursalUrl)){
+        productsBycede.push(...beverages, ...beers, ...liquors);
+    }else if(actualHref.includes(laIslaSucursalUrl)){
+        productsBycede.push(...beverages, ...beers, ...liquors);
+    }
+
+    console.log(productsBycede);
+}
 
 
 
