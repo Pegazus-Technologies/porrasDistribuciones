@@ -9,7 +9,6 @@ html {
 }
 
 a,
-<<<<<<< Updated upstream
 a:hover {
   color: #f5bc04;
   text-decoration: none;
@@ -30,10 +29,6 @@ a:hover {
   margin: 0 10px;
   display: inline-block;
   padding: 15px 40px;
-=======
-a:hover{
-    color:#f5bc04;
->>>>>>> Stashed changes
 }
 
 .fh5co_header_bg{
@@ -413,8 +408,8 @@ a:hover{
 }
 
 .fh5co_news_img > img {
-  height: 260px;
-  min-width: 100%;
+  height: 250px;
+  min-width: 110%;
 }
 
 .c_b {
@@ -976,15 +971,8 @@ a:hover{
 
 .contact_btn:hover,
 .contact_btn:focus {
-<<<<<<< Updated upstream
   background: #000000 !important;
   border-radius: 0 !important;
-=======
-  background: none !important;
-  border: 1px solid #f5bc04 !important;
-  border-radius: 19 !important;
-  color: #f5bc04 !important;
->>>>>>> Stashed changes
   padding: 10px 50px !important;
 }
 
@@ -1164,7 +1152,6 @@ a:hover{
   color: #ffffff;
 }
 
-<<<<<<< Updated upstream
 .signUpContainer {
   height: 100vh !important;
 }
@@ -1188,11 +1175,6 @@ a:hover{
   color: #000000;
   opacity: 1;
   display: block;
-=======
-.img-fluid{
-  height: 640px;
-  width: 500%;
->>>>>>> Stashed changes
 }
 
 @media only screen and (max-width: 972px) {

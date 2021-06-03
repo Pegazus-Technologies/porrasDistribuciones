@@ -32,26 +32,25 @@
 
 <body class="single">
 
-    <!-- CABECERA -->
-  <div class="container-fluid fh5co_header_bg">
-    <div class="container">
-      <div class="row">
-        <a href="" class="color_fff fh5co_mediya_setting"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;
-          <script>
-            var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
-            var f=new Date();
-            document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
-          </script>
-        </a>
-          <!-- <a href="#" class="color_fff fh5co_mediya_setting"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;&nbsp;Sábado, 22 de Mayo del 2021</a> -->
-          <div class="d-inline-block fh5co_trading_posotion_relative"><a href="#" class="treding_btn">¡Promociones!</a>
-            <div class="fh5co_treding_position_absolute"></div>
+     <!-- CABECERA -->
+     <div class="container-fluid fh5co_header_bg">
+      <div class="container">
+        <div class="row">
+          <a href="" class="color_fff fh5co_mediya_setting"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;
+            <script>
+              var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
+              var f=new Date();
+              document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
+            </script>
+          </a>
+            <!-- <a href="#" class="color_fff fh5co_mediya_setting"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;&nbsp;Sábado, 22 de Mayo del 2021</a> -->
+            <div class="d-inline-block fh5co_trading_posotion_relative"><a href="#" class="treding_btn">¡Promociones!</a>
+              <div class="fh5co_treding_position_absolute"></div>
+              <a href="#" class="color_fff fh5co_mediya_setting">Llega la nueva línea de productos de aseo</a>
+            </div>
           </div>
-          <a href="#" class="color_fff fh5co_mediya_setting">Llega la nueva línea de productos de aseo</a>
         </div>
-      </div>
-    </div>
-  </div>
+     </div>
   <!-- FIN CABECERA -->
 
   <!-- REDES SOCIALES -->
@@ -151,8 +150,13 @@
             <li class="nav-item ">
               <a class="nav-link" href="Contact_us.html">Contactanos <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item font-weight-bol ">
-              <a class="nav-link" href="#">Pagos en linea <span class="sr-only">(current)</span></a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> <span class="sr-only">(current)</span></a>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
+                <a class="dropdown-item" href="./sign_up.html">Registrarse</a>
+                <a class="dropdown-item" href="./log_in.html">Iniciar sesión</a>
+              </div>
             </li>
           </ul>
         </div>
