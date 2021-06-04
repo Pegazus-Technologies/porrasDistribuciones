@@ -186,14 +186,15 @@ const productsPerPage = (products, actualHref) => {
 
 const showProducts = (productsByheadquarter) => {
     const pricesContainer = document.createElement('div');
-    pricesContainer.classList.add('container', 'p-0', 'mb-5')
+    pricesContainer.classList.add('container', 'p-0', 'mb-5');
+    pricesContainer.setAttribute('id', 'pricesList')
     pricesContainer.innerHTML = `
     <h3 class='mt-5 mb-5'>Lista de precios</h3>
     <div id="accordion">
     <div class="card">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <button class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
             <h4 class="mb-0">Cervezas</h4>
           </button>
         </h5>
@@ -203,7 +204,7 @@ const showProducts = (productsByheadquarter) => {
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
-            <thead>
+            <thead class="bg-light">
               <tr>
                 <th scope="col" class="text-center">Código</th>
                 <th scope="col" class="text-center">Producto</th>
@@ -215,7 +216,7 @@ const showProducts = (productsByheadquarter) => {
             ${productsByheadquarter.map((product)=>{
                 if(product.category === 'BEER'){
                     return `
-                    <tr class="bg-primary">
+                    <tr>
                         <th class="text-center">${product.id}</th>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
@@ -234,8 +235,8 @@ const showProducts = (productsByheadquarter) => {
     <div id="accordion">
     <div class="card">
       <div class="card-top d-flex justify-content-between align-items-center" id="headingOne">
-        <h5 class="mb-0">
-          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseLiquor" aria-expanded="true" aria-controls="collapseOne">
+        <h5 class="mb-0 w-100">
+          <button class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseLiquor" aria-expanded="true" aria-controls="collapseOne">
             <h4 class="mb-0">Licores</h4>
           </button>
         </h5>
@@ -245,7 +246,7 @@ const showProducts = (productsByheadquarter) => {
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
-            <thead>
+            <thead class="bg-light">
               <tr>
                 <th scope="col" class="text-center">Código</th>
                 <th scope="col" class="text-center">Producto</th>
@@ -257,7 +258,7 @@ const showProducts = (productsByheadquarter) => {
             ${productsByheadquarter.map((product)=>{
                 if(product.category === 'LIQUOR'){
                     return `
-                    <tr class="bg-primary">
+                    <tr>
                         <th class="text-center">${product.id}</th>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
@@ -277,7 +278,7 @@ const showProducts = (productsByheadquarter) => {
     <div class="card">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseFood" aria-expanded="true" aria-controls="collapseFood">
+          <button  class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseFood" aria-expanded="true" aria-controls="collapseFood">
             <h4 class="mb-0">Alimentos</h4>
           </button>
         </h5>
@@ -287,7 +288,7 @@ const showProducts = (productsByheadquarter) => {
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
-            <thead>
+            <thead class="bg-light">
               <tr>
                 <th scope="col" class="text-center">Código</th>
                 <th scope="col" class="text-center">Producto</th>
@@ -299,7 +300,7 @@ const showProducts = (productsByheadquarter) => {
             ${productsByheadquarter.map((product)=>{
                 if(product.category === 'FOOD'){
                     return `
-                    <tr class="bg-primary">
+                    <tr>
                         <th class="text-center">${product.id}</th>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
@@ -319,7 +320,7 @@ const showProducts = (productsByheadquarter) => {
     <div class="card">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseBeverage" aria-expanded="true" aria-controls="collapseOne">
+          <button class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseBeverage" aria-expanded="true" aria-controls="collapseOne">
             <h4 class="mb-0">Agua, gaseosas y bebidas no alcoholicas</h4>
           </button>
         </h5>
@@ -329,7 +330,7 @@ const showProducts = (productsByheadquarter) => {
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
-            <thead>
+            <thead class="bg-light">
               <tr>
                 <th scope="col" class="text-center">Código</th>
                 <th scope="col" class="text-center">Producto</th>
@@ -341,7 +342,7 @@ const showProducts = (productsByheadquarter) => {
             ${productsByheadquarter.map((product)=>{
                 if(product.category === 'BEVERAGE'){
                     return `
-                    <tr class="bg-primary">
+                    <tr>
                         <th class="text-center">${product.id}</th>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
@@ -362,7 +363,7 @@ const showProducts = (productsByheadquarter) => {
     <div class="card">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseCleaning" aria-expanded="true" aria-controls="collapseOne">
+          <button  class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseCleaning" aria-expanded="true" aria-controls="collapseOne">
             <h4 class="mb-0">Productos de aseo y cuidado personal</h4>
           </button>
         </h5>
@@ -372,7 +373,7 @@ const showProducts = (productsByheadquarter) => {
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
-            <thead>
+            <thead class="bg-light">
               <tr>
                 <th scope="col" class="text-center">Código</th>
                 <th scope="col" class="text-center">Producto</th>
@@ -384,7 +385,7 @@ const showProducts = (productsByheadquarter) => {
             ${productsByheadquarter.map((product)=>{
                 if(product.category === 'CLEANING'){
                     return `
-                    <tr class="bg-primary">
+                    <tr>
                         <th class="text-center">${product.id}</th>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
@@ -405,7 +406,7 @@ const showProducts = (productsByheadquarter) => {
     <div class="card">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseCigarette" aria-expanded="true" aria-controls="collapseOne">
+          <button class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center" data-toggle="collapse" data-target="#collapseCigarette" aria-expanded="true" aria-controls="collapseOne">
             <h4 class="mb-0">Cigarrillos</h4>
           </button>
         </h5>
@@ -415,7 +416,7 @@ const showProducts = (productsByheadquarter) => {
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
-            <thead>
+            <thead class="bg-light">
               <tr>
                 <th scope="col" class="text-center">Código</th>
                 <th scope="col" class="text-center">Producto</th>
@@ -427,7 +428,7 @@ const showProducts = (productsByheadquarter) => {
             ${productsByheadquarter.map((product)=>{
                 if(product.category === 'CIGARETTE'){
                     return `
-                    <tr class="bg-primary">
+                    <tr>
                         <th class="text-center">${product.id}</th>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>

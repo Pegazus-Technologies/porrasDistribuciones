@@ -1098,7 +1098,48 @@ a:hover {
   display: contents;
 }
 
+#pricesList #accordion .card {
+  border: none;
+  border-bottom: 2px solid #ecf0f1;
+  border-radius: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
+#pricesList #accordion .card .collapse .card-body .table-responsive {
+  max-height: 500px;
+}
+
+#pricesList #accordion .card .collapse .card-body .table-responsive .table {
+  position: relative;
+  overflow: hidden;
+}
+
+#pricesList #accordion .card .collapse .card-body .table-responsive .table thead {
+  background-color: #000;
+  color: #ffffff;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+#pricesList #accordion .card .collapse .card-body .table-responsive .table tr:hover {
+  background-color: #ecf0f1;
+}
+
+#pricesList #accordion .card:hover {
+  border-bottom: 2px solid #000;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+#pricesList #accordion .card button {
+  outline: 0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  text-decoration: none;
+  color: #000000;
+}
 
 @media only screen and (max-width: 972px) {
   .page-title {

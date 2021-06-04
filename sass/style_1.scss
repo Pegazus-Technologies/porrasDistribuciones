@@ -1007,6 +1007,55 @@ a:hover {
   }
 }
 
+//Price list
+#pricesList {
+  #accordion {
+    .card {
+      border: none;
+      border-bottom: 2px solid #ecf0f1;
+      border-radius: 0;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      .collapse{
+        .card-body {
+          .table-responsive{
+            max-height: 500px;
+            .table {
+              position: relative;
+              overflow: hidden;
+              thead {
+                background-color: #000;
+                color: #ffffff;
+                top: 0;
+                left: 0;
+                right: 0;
+              }
+              tr{
+                &:hover {
+                  background-color: #ecf0f1;
+                }
+              }
+            }
+          }
+            
+        }
+      }
+
+      &:hover {
+        border-bottom: 2px solid #000;
+        transition: 0.5s;
+      }
+        button {
+        outline: 0;
+        box-shadow: none;
+        text-decoration: none;
+        color: #000000;
+      }
+    }
+   
+  }
+}
+
 
 @media only screen and (max-width: 972px){
   .page-title {
