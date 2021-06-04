@@ -1123,7 +1123,7 @@ a:hover {
   right: 0;
 }
 
-#pricesList #accordion .card .collapse .card-body .table-responsive .table tr:hover {
+#pricesList #accordion .card .collapse .card-body .table-responsive .table tr:hover:not(:nth-child(1)) {
   background-color: #ecf0f1;
 }
 

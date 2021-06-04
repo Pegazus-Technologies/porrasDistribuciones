@@ -1031,7 +1031,7 @@ a:hover {
                 right: 0;
               }
               tr{
-                &:hover {
+                &:hover:not(:nth-child(1)) {
                   background-color: #ecf0f1;
                 }
               }
