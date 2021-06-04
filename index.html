@@ -173,7 +173,7 @@
 <!-- FIN OPCIONES DE MENU --> 
 
    <!-- SUCURSALES  -->
-   <div class="container-fluid paddding mb-5">
+   <!-- <div class="container-fluid paddding mb-5">
     <div class="row mx-0">
       <div class="col-md-6 col-12 paddding animate-box" data-animate-effect="fadeIn">
         <div class="fh5co_suceefh5co_height"><img src="images/Soacha.jpg" alt="img" />
@@ -225,8 +225,51 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <!-- FIN SUCURSALES -->
+   
+    <!-- SLIDER -->
+     <div class="carousel slider" id="carousel" data-ride="carousel">
+
+        <ol class="carousel-indicators">
+          <li data-target="#carousel" data-slide-to="0" class="active"></li>
+          <li data-target="#carousel" data-slide-to="1"></li>
+          <li data-target="#carousel" data-slide-to="2"></li>
+       </ol>
+
+       <div class="carousel-inner">
+         <div class="carousel-item active">
+           <img class="d-block w-100" src="images/Soacha.jpg" alt="" width="1000" height="400">
+            <div class="carousel-caption d-none d-md-block">
+              <h3 class="fh5co_heading text-center f-bold">Primer Slide</h3>
+              <p>Text Ejemplo Primer Slide</p>
+            </div>
+         </div>
+         <div class="carousel-item">
+          <img class="d-block w-100" src="images/bebidas.jpg" alt="" width="1000" height="400">
+          <div class="carousel-caption d-none d-md-block">
+              <h3>Primer Slide</h3>
+              <p>Text Ejemplo Primer Slide</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="images/Prodcutos.jpg" alt="" width="1000" height="400">
+          <div class="carousel-caption d-none d-md-block">
+            <h3>Primer Slide</h3>
+            <p>Text Ejemplo Primer Slide</p>
+          </div>
+        </div>
+       </div>
+       <a href="#carousel" class="carousel-control-prev" role="button" data-slide="prev">
+         <span class="carousel-control-prev-icon" area-hideen="true"></span>
+         <span class="sr-only">Anterior</span>
+       </a>
+       <a href="#carousel" class="carousel-control-next" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" area-hideen="true"></span>
+        <span class="sr-only">Siguiente</span>
+      </a>
+     </div>
+    <!-- FIN SLIDER -->
 
 
  <!-- SUCURSALES BOGOTA -->
@@ -519,7 +562,7 @@
         <div class="input-group">
           <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
               class="fa fa-envelope"></i></span> -->
-          <input id="dato" type="email" id="text" />&nbsp;&nbsp;
+          <input type="email" id="text" class="form-control py-22 font-bold" />&nbsp;&nbsp;
           <button type="buttom" id="suscribirte" onclick="descargarExcel()"  class="btn btn-warning font-weight-bold"><i class="fa fa-fw fa-send"></i>Suscribete</button>
         </div>
       </div>
@@ -540,7 +583,7 @@
                 <div class="chat-container">
                     <div id="chatbox">
                         <h5 id="chat-timestamp"></h5>
-                        <p id="botStarterMessage" class="botText"><span>Cargando...</span></p>
+                        <p id="botStarterMessage" class="botText"><span>Cargandoimages/Soacha.jpg</span></p>
                     </div>
                     <div class="chat-bar-input-block">
                         <div id="userInput">
