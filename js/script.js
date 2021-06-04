@@ -1,5 +1,6 @@
 const topSlider = document.getElementById('slider');
 const single = document.getElementById('single');
+const footer = document.getElementById('footer');
 
 
 
@@ -153,16 +154,9 @@ if(actualHref){
     });
 }
 
-
-const showProducts = () => {
-
-}
-
-
 const productsPerPage = (products, actualHref) => {
 
-    const productsBycede = [];
-
+    const productsByheadquarter = [];
 
     const beverages = products.filter(c => c.category === 'BEVERAGE');
     const beers = products.filter(c => c.category === 'BEER');
@@ -172,22 +166,79 @@ const productsPerPage = (products, actualHref) => {
     const cleaning = products.filter(c => c.category === 'CLEANING');
 
     if(actualHref.includes(soachaSucursalUrl)){
-        productsBycede.push(...beverages, ...beers, ...liquors);
+        productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
     }else if(actualHref.includes(bosaSucursalUrl)){
-        productsBycede.push(...beverages, ...beers, ...liquors, ...cleaning);
+        productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cleaning, ...cigarettes);
     }else if(actualHref.includes(la36SucursalUrl)){
-        productsBycede.push(...beverages, ...beers, ...liquors, ...cleaning);
+        productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cleaning, ...cigarettes);
     }else if(actualHref.includes(la12SucursalUrl)){
-        productsBycede.push(...beverages, ...beers, ...liquors);
+        productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes, ...foods);
     }else if(actualHref.includes(floridaBlancaUrl)){
-        productsBycede.push(...beverages, ...beers, ...liquors);
+        productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
     }else if(actualHref.includes(gironSucursalUrl)){
-        productsBycede.push(...beverages, ...beers, ...liquors);
+        productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
     }else if(actualHref.includes(laIslaSucursalUrl)){
-        productsBycede.push(...beverages, ...beers, ...liquors);
+        productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
     }
 
-    console.log(productsBycede);
+    showProducts(productsByheadquarter);
+}
+
+
+
+const showProducts = (productsByheadquarter) => {
+    const pricesContainer = document.createElement('div');
+    pricesContainer.classList.add('container', 'p-0')
+    pricesContainer.innerHTML = `
+    <h3 class='mt-5 mb-5'>Lista de precios</h3>
+    <div id="accordion">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <h3>Cervezas</h3>
+          </button>
+        </h5>
+      </div>
+  
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body">
+        ${productsByheadquarter.map((product)=>{
+            if(product.category === 'BEER'){
+                return `<p>${product.name}</p>`
+            }
+        }).join('')}
+        </div>
+      </div>
+    </div>
+
+    <div id="accordion">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+            <h3>Licores</h3>
+          </button>
+        </h5>
+      </div>
+  
+      <div id="collapseTwo" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body">
+        ${productsByheadquarter.map((product)=>{
+            if(product.category === 'LIQUOR'){
+                return `<p>${product.name}</p>`
+            }
+        }).join('')}
+        </div>
+      </div>
+    </div>
+    `
+
+    //console.log(footer);
+
+
+    footer.parentNode.insertBefore(pricesContainer, footer);
+    
 }
 
 
