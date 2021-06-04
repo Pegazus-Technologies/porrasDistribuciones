@@ -184,62 +184,290 @@ const productsPerPage = (products, actualHref) => {
     showProducts(productsByheadquarter);
 }
 
-
-
 const showProducts = (productsByheadquarter) => {
     const pricesContainer = document.createElement('div');
-    pricesContainer.classList.add('container', 'p-0')
+    pricesContainer.classList.add('container', 'p-0', 'mb-5')
     pricesContainer.innerHTML = `
     <h3 class='mt-5 mb-5'>Lista de precios</h3>
     <div id="accordion">
     <div class="card">
-      <div class="card-header" id="headingOne">
+      <div class="card-top" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            <h3>Cervezas</h3>
+          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <h4 class="mb-0">Cervezas</h4>
           </button>
         </h5>
       </div>
   
       <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-        <div class="card-body">
-        ${productsByheadquarter.map((product)=>{
-            if(product.category === 'BEER'){
-                return `<p>${product.name}</p>`
-            }
-        }).join('')}
+        <div class="card-body collapsableContent">
+        <div class="table-responsive">
+            <table class="table">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Código</th>
+                <th scope="col" class="text-center">Producto</th>
+                <th scope="col" class="text-center">Unidad</th>
+                <th scope="col" class="text-center">Precio</th>
+              </tr>
+            </thead>
+            <tbody class="tbody">
+            ${productsByheadquarter.map((product)=>{
+                if(product.category === 'BEER'){
+                    return `
+                    <tr class="bg-primary">
+                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.name}</td>
+                        <td class="text-center">${product.quantity}</td>
+                        <td class="text-center">${product.price}</td>
+                    </tr>
+                    `
+                }
+            }).join('')} 
+            </tbody>
+            </table>
+        </div>
         </div>
       </div>
     </div>
 
     <div id="accordion">
     <div class="card">
-      <div class="card-header" id="headingOne">
+      <div class="card-top d-flex justify-content-between align-items-center" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-            <h3>Licores</h3>
+          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseLiquor" aria-expanded="true" aria-controls="collapseOne">
+            <h4 class="mb-0">Licores</h4>
+          </button>
+        </h5>
+    </div>
+  
+      <div id="collapseLiquor" class="collapse" aria-labelledby="headingLiquor" data-parent="#accordion">
+        <div class="card-body collapsableContent">
+        <div class="table-responsive">
+            <table class="table">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Código</th>
+                <th scope="col" class="text-center">Producto</th>
+                <th scope="col" class="text-center">Unidad</th>
+                <th scope="col" class="text-center">Precio</th>
+              </tr>
+            </thead>
+            <tbody class="tbody">
+            ${productsByheadquarter.map((product)=>{
+                if(product.category === 'LIQUOR'){
+                    return `
+                    <tr class="bg-primary">
+                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.name}</td>
+                        <td class="text-center">${product.quantity}</td>
+                        <td class="text-center">${product.price}</td>
+                    </tr>
+                    `
+                }
+            }).join('')} 
+            </tbody>
+            </table>
+        </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="accordion">
+    <div class="card">
+      <div class="card-top" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseFood" aria-expanded="true" aria-controls="collapseFood">
+            <h4 class="mb-0">Alimentos</h4>
           </button>
         </h5>
       </div>
   
-      <div id="collapseTwo" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-        <div class="card-body">
-        ${productsByheadquarter.map((product)=>{
-            if(product.category === 'LIQUOR'){
-                return `<p>${product.name}</p>`
-            }
-        }).join('')}
+      <div id="collapseFood" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body collapsableContent">
+        <div class="table-responsive">
+            <table class="table">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Código</th>
+                <th scope="col" class="text-center">Producto</th>
+                <th scope="col" class="text-center">Unidad</th>
+                <th scope="col" class="text-center">Precio</th>
+              </tr>
+            </thead>
+            <tbody class="tbody">
+            ${productsByheadquarter.map((product)=>{
+                if(product.category === 'FOOD'){
+                    return `
+                    <tr class="bg-primary">
+                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.name}</td>
+                        <td class="text-center">${product.quantity}</td>
+                        <td class="text-center">${product.price}</td>
+                    </tr>
+                    `
+                }
+            }).join('')} 
+            </tbody>
+            </table>
+        </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="accordion">
+    <div class="card">
+      <div class="card-top" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseBeverage" aria-expanded="true" aria-controls="collapseOne">
+            <h4 class="mb-0">Agua, gaseosas y bebidas no alcoholicas</h4>
+          </button>
+        </h5>
+      </div>
+  
+      <div id="collapseBeverage" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body collapsableContent">
+        <div class="table-responsive">
+            <table class="table">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Código</th>
+                <th scope="col" class="text-center">Producto</th>
+                <th scope="col" class="text-center">Unidad</th>
+                <th scope="col" class="text-center">Precio</th>
+              </tr>
+            </thead>
+            <tbody class="tbody">
+            ${productsByheadquarter.map((product)=>{
+                if(product.category === 'BEVERAGE'){
+                    return `
+                    <tr class="bg-primary">
+                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.name}</td>
+                        <td class="text-center">${product.quantity}</td>
+                        <td class="text-center">${product.price}</td>
+                    </tr>
+                    `
+                }
+            }).join('')} 
+            </tbody>
+            </table>
+        </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div id="accordion">
+    <div class="card">
+      <div class="card-top" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseCleaning" aria-expanded="true" aria-controls="collapseOne">
+            <h4 class="mb-0">Productos de aseo y cuidado personal</h4>
+          </button>
+        </h5>
+      </div>
+  
+      <div id="collapseCleaning" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body collapsableContent">
+        <div class="table-responsive">
+            <table class="table">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Código</th>
+                <th scope="col" class="text-center">Producto</th>
+                <th scope="col" class="text-center">Unidad</th>
+                <th scope="col" class="text-center">Precio</th>
+              </tr>
+            </thead>
+            <tbody class="tbody">
+            ${productsByheadquarter.map((product)=>{
+                if(product.category === 'CLEANING'){
+                    return `
+                    <tr class="bg-primary">
+                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.name}</td>
+                        <td class="text-center">${product.quantity}</td>
+                        <td class="text-center">${product.price}</td>
+                    </tr>
+                    `
+                }
+            }).join('')} 
+            </tbody>
+            </table>
+        </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div id="accordion">
+    <div class="card">
+      <div class="card-top" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link pl-0" data-toggle="collapse" data-target="#collapseCigarette" aria-expanded="true" aria-controls="collapseOne">
+            <h4 class="mb-0">Cigarrillos</h4>
+          </button>
+        </h5>
+      </div>
+  
+      <div id="collapseCigarette" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body collapsableContent">
+        <div class="table-responsive">
+            <table class="table">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Código</th>
+                <th scope="col" class="text-center">Producto</th>
+                <th scope="col" class="text-center">Unidad</th>
+                <th scope="col" class="text-center">Precio</th>
+              </tr>
+            </thead>
+            <tbody class="tbody">
+            ${productsByheadquarter.map((product)=>{
+                if(product.category === 'CIGARETTE'){
+                    return `
+                    <tr class="bg-primary">
+                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.name}</td>
+                        <td class="text-center">${product.quantity}</td>
+                        <td class="text-center">${product.price}</td>
+                    </tr>
+                    `
+                }
+            }).join('')} 
+            </tbody>
+            </table>
+        </div>
         </div>
       </div>
     </div>
     `
 
-    //console.log(footer);
-
-
     footer.parentNode.insertBefore(pricesContainer, footer);
     
+    const tableBody = document.getElementsByClassName('tbody');
+
+    for(i=0; i<tableBody.length; i++){
+        if(tableBody[i].innerHTML.trim().length === 0){
+            console.log('no hay nada');
+            tableBody[i].parentElement.parentElement.parentElement.parentElement.parentElement.style.display = 'none';
+        }else{
+            console.log('hay contenido');
+        }
+    }
 }
+
+//     for(i=0; i<collapsableContent.length; i++){
+//         console.log(collapsableContent[i])
+//         if(collapsableContent[i].innerHTML.trim().length === 0){
+//             console.log(collapsableContent[i].parentElement.parentElement);
+//             collapsableContent[i].parentElement.parentElement.style.display = 'none';
+//         }else{
+//             console.log('hay contenido');
+//         }
+//     }
+// }
 
 
 

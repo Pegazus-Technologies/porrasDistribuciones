@@ -238,6 +238,33 @@
             </div>
         </div>
 
+         <div class="table-responsive">
+                <table class="table">
+                <thead>
+                <tr>
+                    <th scope="col" class="text-center">Código</th>
+                    <th scope="col" class="text-center">Producto</th>
+                    <th scope="col" class="text-center">Unidad</th>
+                    <th scope="col" class="text-center">Precio</th>
+                </tr>
+                </thead>
+                <tbody>
+                ${productsByheadquarter.map((product)=>{
+                    if(product.category === 'BEER'){
+                        return `
+                        <tr>
+                            <th class="text-center">${product.id}</th>
+                            <td class="text-center">${product.name}</td>
+                            <td class="text-center">${product.quantity}</td>
+                            <td class="text-center">${product.price}</td>
+                        `
+                    }
+                }).join('')}
+                </tbody>
+                </table>
+            </div>
+        </div>
+
     <!-- PIE DE PAGINA -->
     <div class="container-fluid fh5co_footer_bg pb-3" id="footer">
         <div class="container animate-box">
