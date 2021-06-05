@@ -5,7 +5,7 @@ const footer = document.getElementById('footer');
 
 
 /*============================================================================================
-    SLIDERS FORM PAGES
+    SLIDERS FOR PAGES
 ==============================================================================================*/
 
 const sliderSoacha = ['../../images/soacha1.jpg', '../../images/soacha2.jpg', '../../images/soacha3.jpg'];
@@ -15,6 +15,7 @@ const sliderla36 = ['../../images/la361.jpg', '../../images/la362.jpg', '../../i
 const sliderGiron = ['../../images/giron1.jpg', '../../images/giron2.jpg', '../../images/giron3.jpg'];
 const slideLaIsla =  ['../../images/laisla1.jpg', '../../images/laisla2.jpg', '../../images/laisla3.jpg'];
 const slideFloridaBlanca =  ['../../images/florida1.jpg', '../../images/florida2.jpg', '../../images/florida3.jpg'];
+const slideAseo = ['../../images/aseo1.jpg', '../../images/aseo2.jpg', '../../images/aseo3.jpg'];
 
 
 const actualHref = window.location.href;
@@ -59,7 +60,8 @@ const la12SucursalUrl = 'sucursales/bogota/la12.html';
 const la36SucursalUrl = 'sucursales/bogota/La%2036.html';
 const gironSucursalUrl = 'sucursales/bucaramanga/Giron.html';
 const laIslaSucursalUrl = 'sucursales/bucaramanga/Laisla.html'
-const floridaBlancaUrl = 'bucaramanga/FloridaBlanca.html';
+const floridaBlancaUrl = 'sucursales/bucaramanga/FloridaBlanca.html';
+const aseoUrl = 'sucursales/bogota/Aseo.html';
 
 
 buildingSlide(actualHref, sliderSoacha, soachaSucursalUrl);
@@ -69,6 +71,7 @@ buildingSlide(actualHref, sliderla36, la36SucursalUrl);
 buildingSlide(actualHref, sliderGiron, gironSucursalUrl);
 buildingSlide(actualHref, slideLaIsla, laIslaSucursalUrl);
 buildingSlide(actualHref, slideFloridaBlanca, floridaBlancaUrl);
+buildingSlide(actualHref,  slideAseo, aseoUrl);
 
 
 /*============================================================================================
@@ -82,6 +85,7 @@ const la36Message = 'Realizamos envios por el area de San andresíto de la 38, l
 const gironMessage = 'Envios a toda la ciudad';
 const laIslaMessage = 'Envios a toda la ciudad';
 const floridaBlancaMessage = 'Envios a toda la ciudad.';
+const aseoMessage = 'Realizamos domicilios a parqueaderos cercanos, envios a otras partes generan costo adicional, contactenos para mayor información'
 
 
 
@@ -114,6 +118,7 @@ buildingSlide(actualHref, null, la36SucursalUrl, la36Message);
 buildingSlide(actualHref, null, gironSucursalUrl, gironMessage);
 buildingSlide(actualHref, null, laIslaSucursalUrl, laIslaMessage);
 buildingSlide(actualHref, null, floridaBlancaUrl, floridaBlancaMessage);
+buildingSlide(actualHref, null, aseoUrl, aseoMessage);
 
 
 
@@ -131,10 +136,6 @@ const names = document.getElementById('name');
 const email = document.getElementById('email');
 const subject = document.getElementById('subject');
 const message = document.getElementById('message');
-
-if(!names || !email || subject || message){
-  console.log('falta información')
-}
 
 const forms = document.getElementById('fh5co_contact_form');
 forms.addEventListener('submit', handleSubmit);
@@ -161,12 +162,11 @@ async function handleSubmit(e){
   }else{
     formAlert.innerHTML = `
        <div class="alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
-        <strong>!todos los campos son obligatorios!</strong> 
+        <strong>!todos los campos son obligatorios!</strong>
        </div>
     `
   }
 }
-
 
 
 /*============================================================================================
@@ -208,6 +208,8 @@ const productsPerPage = (products, actualHref) => {
         productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
     }else if(actualHref.includes(laIslaSucursalUrl)){
         productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
+    }else if(actualHref.includes(aseoUrl)){
+      productsByheadquarter.push(...cleaning);
     }
 
     showProducts(productsByheadquarter);
@@ -218,7 +220,7 @@ const showProducts = (productsByheadquarter) => {
     pricesContainer.classList.add('container', 'mb-5');
     pricesContainer.setAttribute('id', 'pricesList')
     pricesContainer.innerHTML = `
-    <h3 class='mt-5 mb-5'>Lista de precios</h3>
+    <h3 class='mt-5 mb-3'>Lista de precios</h3>
     <div id="accordion">
     <div class="card">
       <div class="card-top" id="headingOne">
@@ -404,7 +406,7 @@ const showProducts = (productsByheadquarter) => {
             <table class="table">
             <thead class="bg-light">
               <tr>
-                <t scope="col" class="text-center">Código</th>
+                <th scope="col" class="text-center">Código</th>
                 <th scope="col" class="text-center">Producto</th>
                 <th scope="col" class="text-center">Unidad</th>
                 <th scope="col" class="text-center">Precio</th>

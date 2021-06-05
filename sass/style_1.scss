@@ -1012,7 +1012,7 @@ a:hover {
   #accordion {
     .card {
       border: none;
-      border-bottom: 2px solid #ecf0f1;
+      border-bottom: 1px solid #ecf0f1;
       border-radius: 0;
       padding-top: 10px;
       padding-bottom: 10px;
@@ -1050,7 +1050,7 @@ a:hover {
       }
 
       &:hover {
-        border-bottom: 2px solid #000;
+        border-bottom: 1px solid #000;
         transition: 0.5s;
       }
         button {
