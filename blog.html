@@ -16,7 +16,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
       integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="css/animate.css" rel="stylesheet" type="text/css" />
-    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
   
@@ -26,7 +26,8 @@
     <link rel="stylesheet" href="css/chat.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap CSS -->
-    <link href="css/style_1.css" rel="stylesheet" type="text/css" />
+    <link href="sass/style_1.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="sass/style_1.scss">
     <!-- Modernizr JS -->
     <script src="js/modernizr-3.5.0.min.js"></script>
     <link rel="shortcut icon" href="images/Icono Distribuciones Porras La 18 (7).png">
@@ -104,71 +105,71 @@
   </div>
   <!-- FIN REDES SOCIALES -->
 
-   <!-- OPCIONES DE MENU -->
-  <div class="container-fluid bg-faded fh5co_padd_mediya padding_786">
-    <div class="container padding_786">
-      <nav class="navbar navbar-toggleable-md navbar-light ">
-        <button class="navbar-toggler navbar-toggler-right mt-3" type="button" data-toggle="collapse"
-          data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-          aria-label="Toggle navigation"><span class="fa fa-bars"></span></button>
-        <a class="navbar-brand" href="#"><img src="../../images/logo.png" alt="img" class="mobile_logo_width" /></a>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active font-weight-bold">
-              <a class="nav-link" href="../../index.html">Inicio <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item font-weight-bold">
-              <a class="nav-link" href="../../blog.html">Blog <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item font-weight-bold">
-              <a class="nav-link" href="../../Nosotros.html">Nosotros <span class="sr-only">(current)</span></a>
-            </li>
-            <!-- <li class="nav-item ">
-              <a class="nav-link" href="single.html">Single <span class="sr-only">(current)</span></a>
-            </li> -->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
-                aria-haspopup="true" aria-expanded="false">Sucursales <span class="sr-only">(current)</span></a>
+  <!-- OPCIONES DE MENU -->
+    <div class="container-fluid bg-faded fh5co_padd_mediya padding_786">
+      <div class="container padding_786">
+        <nav class="navbar navbar-toggleable-md navbar-light ">
+          <button class="navbar-toggler navbar-toggler-right mt-3" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation"><span class="fa fa-bars"></span></button>
+          <a class="navbar-brand" href="#"><img src="../../images/logo.png" alt="img" class="mobile_logo_width" /></a>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="../../index.html">Inicio <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../../blog.html">Blog <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../../Nosotros.html">Nosotros <span class="sr-only">(current)</span></a>
+              </li>
+              <!-- <li class="nav-item ">
+                <a class="nav-link" href="single.html">Single <span class="sr-only">(current)</span></a>
+              </li> -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">Sucursales <span class="sr-only">(current)</span></a>
+                  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
+                    <a class="dropdown-item" href="../../sucursales/bogota/Soacha.html">Soacha</a>
+                    <a class="dropdown-item" href="../../sucursales/bogota/Bosa.html">Bosa</a>
+                    <a class="dropdown-item" href="../../sucursales/bogota/La 36.html">La 36</a>
+                    <a class="dropdown-item" href="../../sucursales/bogota/la12.html">La 12(centro)</a>
+                    <a class="dropdown-item" href="../../sucursales/bogota/Aseo.html">Aseo</a>
+                    <a class="dropdown-item" href="../../sucursales/bucaramanga/FloridaBlanca.html">Florida blanca</a>
+                    <a class="dropdown-item" href="../../sucursales/bucaramanga/Giron.html">Giron</a>
+                    <a class="dropdown-item" href="../../sucursales/bucaramanga/Laisla.html">La isla</a>
+                  </div>
+              </li>
+              <!-- <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton3" data-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">Community<span class="sr-only">(current)</span></a>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
-                  <a class="dropdown-item" href="../../sucursales/bogota/Soacha.html">Soacha</a>
-                  <a class="dropdown-item" href="../../sucursales/bogota/Bosa.html">Bosa</a>
-                  <a class="dropdown-item" href="../../sucursales/bogota/La 36.html">La 36</a>
-                  <a class="dropdown-item" href="../../sucursales/bogota/la12.html">La 12(centro)</a>
-                  <a class="dropdown-item" href="../../sucursales/bogota/Aseo.html">Aseo</a>
-                  <a class="dropdown-item" href="../../sucursales/bucaramanga/FloridaBlanca.html">Florida blanca</a>
-                  <a class="dropdown-item" href="../../sucursales/bucaramanga/Giron.html">Giron</a>
-                  <a class="dropdown-item" href="../../sucursales/bucaramanga/Laisla.html">La isla</a>
+                  <a class="dropdown-item" href="#">Soacha Licores</a>
+                  <a class="dropdown-item" href="#">Bosa Aseo</a>
+                  <a class="dropdown-item" href="#">Bosa Licores</a>
+                  <a class="dropdown-item" href="#">Centro</a>
                 </div>
-            </li>
-            <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton3" data-toggle="dropdown"
-                aria-haspopup="true" aria-expanded="false">Community<span class="sr-only">(current)</span></a>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
-                <a class="dropdown-item" href="#">Soacha Licores</a>
-                <a class="dropdown-item" href="#">Bosa Aseo</a>
-                <a class="dropdown-item" href="#">Bosa Licores</a>
-                <a class="dropdown-item" href="#">Centro</a>
-              </div>
-            </li> -->
-            <li class="nav-item ">
-              <a class="nav-link" href="single.html">Precios<span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item ">
-              <a class="nav-link" href="../../Contact_us.html">Contactanos <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
-                aria-haspopup="true" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> <span class="sr-only">(current)</span></a>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
-                <a class="dropdown-item" href="./sign_up.html">Registrarse</a>
-                <a class="dropdown-item" href="./log_in.html">Iniciar sesión</a>
-              </div>
-            </li>
-          </ul>
-        </div> 
-      </nav>
+              </li> -->
+              <li class="nav-item ">
+                <a class="nav-link" href="single.html">Precios<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="../../Contact_us.html">Contactanos <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> <span class="sr-only">(current)</span></a>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
+                  <a class="dropdown-item" href="./sign_up.html">Registrarse</a>
+                  <a class="dropdown-item" href="./log_in.html">Iniciar sesión</a>
+                </div>
+              </li>
+            </ul>
+          </div> 
+        </nav>
+      </div>
     </div>
-  </div>
 <!-- FIN OPCIONES DE MENU --> 
 
 <!-- PROMOCIONES -->
@@ -335,12 +336,11 @@
           </div>
           <div class="row mx-0">
               <div class="col-12 text-center pb-4 pt-4">
-                  <a href="#" class="btn_mange_pagging"><i class="fa fa-long-arrow-left"></i>&nbsp;&nbsp; Previous</a>
+                  <a href="#" class="btn_mange_pagging"><i class="fa fa-long-arrow-left"></i>&nbsp;&nbsp; Anterior</a>
                   <a href="#" class="btn_pagging">1</a>
                   <a href="#" class="btn_pagging">2</a>
                   <a href="#" class="btn_pagging">3</a>
-                  <a href="#" class="btn_pagging">...</a>
-                  <a href="#" class="btn_mange_pagging">Next <i class="fa fa-long-arrow-right"></i>&nbsp;&nbsp; </a>
+                  <a href="#" class="btn_mange_pagging">Siguiente <i class="fa fa-long-arrow-right"></i>&nbsp;&nbsp; </a>
               </div>
           </div>
       </div>
