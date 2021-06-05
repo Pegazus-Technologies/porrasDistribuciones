@@ -1,11 +1,23 @@
+var emailList = [];
 
-function descargarExcel() {
-    var tmpElemento = document.createElement('a');
-    var data_type = 'data:application/vnd.ms-excel';
-    var tabla_div = document.getElementById('text');
-    var elemento = (tabla_div.value)
-    tmpElemento.href = data_type + ', ' + elemento;
-    tmpElemento.download = 'lead.xls';
-    tmpElemento.click();
+function addEmail(pemail){
+    var newCorreo = {
+     email : pemail
+    };
+    console.log(newCorreo);
+    emailList.push(newCorreo);
 }
-descargarExcel();
+
+function generateCSV() {
+    var csv = emailList;
+    emailList.forEach(function(row) {
+        csv += row.join(',');
+        csv += "\n";
+    });
+
+    var hiddenElement = document.createElement('a');
+    hiddenElement.href = 'data:text/csv;charset=utf-8,' + encodeURI(csv);
+    hiddenElement.target = '_blank';
+    hiddenElement.download = 'data.csv';
+    hiddenElement.click();
+}

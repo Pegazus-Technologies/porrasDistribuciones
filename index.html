@@ -17,7 +17,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
       integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="css/animate.css" rel="stylesheet" type="text/css" />
-    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
   
@@ -118,13 +118,13 @@
       <a class="navbar-brand" href="#"><img src="../../images/logo.png" alt="img" class="mobile_logo_width" /></a>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active font-weight-bolc">
+          <li class="nav-item active font-weight-bold">
             <a class="nav-link" href="../../index.html">Inicio <span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item font-weight-bol ">
+          <li class="nav-item font-weight-bold">
             <a class="nav-link" href="../../blog.html">Blog <span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item font-weight-bol ">
+          <li class="nav-item font-weight-bold">
             <a class="nav-link" href="../../Nosotros.html">Nosotros <span class="sr-only">(current)</span></a>
           </li>
           <!-- <li class="nav-item ">
@@ -504,12 +504,14 @@
     </div>
     <div class="row justify-content-center pt-2 pb-4">
       <div class="col-12 col-md-8 col-lg-7 ">
-        <div class="input-group">
-          <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
-              class="fa fa-envelope"></i></span> -->
-          <input type="email" id="text" class="form-control py-22 font-bold" />&nbsp;&nbsp;
-          <button type="buttom" id="suscribirte" onclick="descargarExcel()"  class="btn btn-warning font-weight-bold"><i class="fa fa-fw fa-send"></i>Suscribete</button>
-        </div>
+        <form name="correos">
+          <div class="input-group">
+            <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
+                class="fa fa-envelope"></i></span> -->
+            <input type="email" id="correo" placeholder="Ingrese su correo..." >
+            <button type="button"  onclick="generateCSV()" class="btn">Suscribete</button> 
+          </div>
+        </form>
       </div>
     </div> 
   
@@ -609,6 +611,7 @@
   <script src="js/jquery.waypoints.min.js"></script>
   <!-- Main -->
   <script src="js/excel.js"></script>
+  <script src="js/guardarCorreo.js"></script>
   <script src="js/main.js"></script>
 
   
