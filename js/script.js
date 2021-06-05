@@ -1,6 +1,7 @@
 const topSlider = document.getElementById('slider');
 const single = document.getElementById('single');
 const footer = document.getElementById('footer');
+console.log(footer);
 
 
 
