@@ -1012,23 +1012,31 @@ a:hover {
   #accordion {
     .card {
       border: none;
-      border-bottom: 2px solid #ecf0f1;
+      border-bottom: 1px solid #ecf0f1;
       border-radius: 0;
       padding-top: 10px;
       padding-bottom: 10px;
       .collapse{
         .card-body {
           .table-responsive{
+            height: 500px;
+            min-height: 500px;
             max-height: 500px;
             .table {
               position: relative;
-              overflow: hidden;
               thead {
                 background-color: #000;
                 color: #ffffff;
                 top: 0;
                 left: 0;
                 right: 0;
+                tr{
+                  th {
+                    position: sticky;
+                    top: 0;
+                    background-color: #000000;
+                  }
+                }
               }
               tr{
                 &:hover:not(:nth-child(1)) {
@@ -1042,7 +1050,7 @@ a:hover {
       }
 
       &:hover {
-        border-bottom: 2px solid #000;
+        border-bottom: 1px solid #000;
         transition: 0.5s;
       }
         button {

@@ -1148,19 +1148,20 @@ a:hover {
 
 #pricesList #accordion .card {
   border: none;
-  border-bottom: 2px solid #ecf0f1;
+  border-bottom: 1px solid #ecf0f1;
   border-radius: 0;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 #pricesList #accordion .card .collapse .card-body .table-responsive {
+  height: 500px;
+  min-height: 500px;
   max-height: 500px;
 }
 
 #pricesList #accordion .card .collapse .card-body .table-responsive .table {
   position: relative;
-  overflow: hidden;
 }
 
 #pricesList #accordion .card .collapse .card-body .table-responsive .table thead {
@@ -1171,12 +1172,19 @@ a:hover {
   right: 0;
 }
 
+#pricesList #accordion .card .collapse .card-body .table-responsive .table thead tr th {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #000000;
+}
+
 #pricesList #accordion .card .collapse .card-body .table-responsive .table tr:hover:not(:nth-child(1)) {
   background-color: #ecf0f1;
 }
 
 #pricesList #accordion .card:hover {
-  border-bottom: 2px solid #000;
+  border-bottom: 1px solid #000;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }

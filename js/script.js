@@ -5,7 +5,7 @@ const footer = document.getElementById('footer');
 
 
 /*============================================================================================
-    SLIDERS FORM PAGES
+    SLIDERS FOR PAGES
 ==============================================================================================*/
 
 const sliderSoacha = ['../../images/soacha1.jpg', '../../images/soacha2.jpg', '../../images/soacha3.jpg'];
@@ -15,6 +15,7 @@ const sliderla36 = ['../../images/la361.jpg', '../../images/la362.jpg', '../../i
 const sliderGiron = ['../../images/giron1.jpg', '../../images/giron2.jpg', '../../images/giron3.jpg'];
 const slideLaIsla =  ['../../images/laisla1.jpg', '../../images/laisla2.jpg', '../../images/laisla3.jpg'];
 const slideFloridaBlanca =  ['../../images/florida1.jpg', '../../images/florida2.jpg', '../../images/florida3.jpg'];
+const slideAseo = ['../../images/aseo1.jpg', '../../images/aseo2.jpg', '../../images/aseo3.jpg'];
 
 
 const actualHref = window.location.href;
@@ -59,7 +60,8 @@ const la12SucursalUrl = 'sucursales/bogota/la12.html';
 const la36SucursalUrl = 'sucursales/bogota/La%2036.html';
 const gironSucursalUrl = 'sucursales/bucaramanga/Giron.html';
 const laIslaSucursalUrl = 'sucursales/bucaramanga/Laisla.html'
-const floridaBlancaUrl = 'bucaramanga/FloridaBlanca.html';
+const floridaBlancaUrl = 'sucursales/bucaramanga/FloridaBlanca.html';
+const aseoUrl = 'sucursales/bogota/Aseo.html';
 
 
 buildingSlide(actualHref, sliderSoacha, soachaSucursalUrl);
@@ -69,6 +71,7 @@ buildingSlide(actualHref, sliderla36, la36SucursalUrl);
 buildingSlide(actualHref, sliderGiron, gironSucursalUrl);
 buildingSlide(actualHref, slideLaIsla, laIslaSucursalUrl);
 buildingSlide(actualHref, slideFloridaBlanca, floridaBlancaUrl);
+buildingSlide(actualHref,  slideAseo, aseoUrl);
 
 
 /*============================================================================================
@@ -82,6 +85,7 @@ const la36Message = 'Realizamos envios por el area de San andresíto de la 38, l
 const gironMessage = 'Envios a toda la ciudad';
 const laIslaMessage = 'Envios a toda la ciudad';
 const floridaBlancaMessage = 'Envios a toda la ciudad.';
+const aseoMessage = 'Realizamos domicilios a parqueaderos cercanos, envios a otras partes generan costo adicional, contactenos para mayor información'
 
 
 
@@ -114,6 +118,7 @@ buildingSlide(actualHref, null, la36SucursalUrl, la36Message);
 buildingSlide(actualHref, null, gironSucursalUrl, gironMessage);
 buildingSlide(actualHref, null, laIslaSucursalUrl, laIslaMessage);
 buildingSlide(actualHref, null, floridaBlancaUrl, floridaBlancaMessage);
+buildingSlide(actualHref, null, aseoUrl, aseoMessage);
 
 
 
@@ -126,18 +131,42 @@ $(document).ready(function() {
     CONTACT FORMS
 ==============================================================================================*/
 
-// const name = document.getElementById('name');
-// const email = document.getElementById('email');
-// const subject = document.getElementById('subject');
-// const message = document.getElementById('message');
-// const send = document.getElementById('send');
-// const contactForm = document.getElementById('fh5co_contact_form');
+const formAlert = document.getElementById('formAlert');
+const names = document.getElementById('name');
+const email = document.getElementById('email');
+const subject = document.getElementById('subject');
+const message = document.getElementById('message');
 
-// contactForm.addEventListener('submit', validateForms);
+const forms = document.getElementById('fh5co_contact_form');
+forms.addEventListener('submit', handleSubmit);
 
-// function validateForms(e){
-//     e.preventDefault();
-// }
+async function handleSubmit(e){
+  e.preventDefault();
+  if(names.value.trim().length > 0 && email.value.trim().length > 0 && subject.value.trim().length > 0 && message.value.trim().length > 0){
+    const form = new FormData(this);
+    const response = await fetch(this.action, {
+      method: this.method,
+      body: form,
+      headers: {
+        'Accept': 'aplication/json'
+      }
+    })
+    if(response.ok){
+       this.reset();
+       formAlert.innerHTML = `
+       <div class="rounded-0 alert alert-info text-left alert-dismissible fade show" role="alert">
+        <strong>!Su mensaje ha sido enviado!</strong> Lo contactaremos en breve.
+       </div>
+       `
+    }
+  }else{
+    formAlert.innerHTML = `
+       <div class="alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
+        <strong>!todos los campos son obligatorios!</strong>
+       </div>
+    `
+  }
+}
 
 
 /*============================================================================================
@@ -179,6 +208,8 @@ const productsPerPage = (products, actualHref) => {
         productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
     }else if(actualHref.includes(laIslaSucursalUrl)){
         productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
+    }else if(actualHref.includes(aseoUrl)){
+      productsByheadquarter.push(...cleaning);
     }
 
     showProducts(productsByheadquarter);
@@ -186,10 +217,10 @@ const productsPerPage = (products, actualHref) => {
 
 const showProducts = (productsByheadquarter) => {
     const pricesContainer = document.createElement('div');
-    pricesContainer.classList.add('container', 'p-0', 'mb-5');
+    pricesContainer.classList.add('container', 'mb-5');
     pricesContainer.setAttribute('id', 'pricesList')
     pricesContainer.innerHTML = `
-    <h3 class='mt-5 mb-5'>Lista de precios</h3>
+    <h3 class='mt-5 mb-3'>Lista de precios</h3>
     <div id="accordion">
     <div class="card">
       <div class="card-top" id="headingOne">
@@ -204,12 +235,12 @@ const showProducts = (productsByheadquarter) => {
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
-            <thead class="bg-light">
+            <thead>
               <tr>
-                <th scope="col" class="text-center">Código</th>
-                <th scope="col" class="text-center">Producto</th>
-                <th scope="col" class="text-center">Unidad</th>
-                <th scope="col" class="text-center">Precio</th>
+                <th class="text-center">Código</th>
+                <th class="text-center">Producto</th>
+                <th class="text-center">Unidad</th>
+                <th class="text-center">Precio</th>
               </tr>
             </thead>
             <tbody class="tbody">
@@ -217,7 +248,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'BEER'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -259,7 +290,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'LIQUOR'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -301,7 +332,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'FOOD'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -343,7 +374,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'BEVERAGE'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -386,7 +417,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'CLEANING'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -429,7 +460,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'CIGARETTE'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -458,20 +489,6 @@ const showProducts = (productsByheadquarter) => {
         }
     }
 }
-
-//     for(i=0; i<collapsableContent.length; i++){
-//         console.log(collapsableContent[i])
-//         if(collapsableContent[i].innerHTML.trim().length === 0){
-//             console.log(collapsableContent[i].parentElement.parentElement);
-//             collapsableContent[i].parentElement.parentElement.style.display = 'none';
-//         }else{
-//             console.log('hay contenido');
-//         }
-//     }
-// }
-
-
-
 
 
 
