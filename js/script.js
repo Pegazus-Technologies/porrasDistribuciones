@@ -144,6 +144,11 @@ forms.addEventListener('submit', handleSubmit);
 async function handleSubmit(e){
   e.preventDefault();
   if(names.value.trim().length > 0 && email.value.trim().length > 0 && subject.value.trim().length > 0 && message.value.trim().length > 0){
+    formAlert.innerHTML = `
+    <div class="rounded-0 d-flex justify-content-between align-items-center  alert-info alert id='sendingAlert' text-left alert-dismissible fade show" role="alert" id="sendingAlert">
+    Enviando mensaje ........... <h5><i class="fa fa-paper-plane-o" aria-hidden="true"></i></h5>
+    </div>
+    `
     const form = new FormData(this);
     const response = await fetch(this.action, {
       method: this.method,
@@ -153,6 +158,7 @@ async function handleSubmit(e){
       }
     })
     if(response.ok){
+      document.getElementById('sendingAlert').style.display='none';
        this.reset();
        formAlert.innerHTML = `
        <div class="rounded-0 alert alert-info text-left alert-dismissible fade show" role="alert">
