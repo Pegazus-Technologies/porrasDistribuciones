@@ -8,6 +8,7 @@ function addEmail(pemail){
     emailList.push(newCorreo);
 }
 
+
 function generateCSV() {
     var csv = emailList;
     emailList.forEach(function(row) {
