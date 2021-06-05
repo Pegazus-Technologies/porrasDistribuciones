@@ -126,18 +126,47 @@ $(document).ready(function() {
     CONTACT FORMS
 ==============================================================================================*/
 
-// const name = document.getElementById('name');
-// const email = document.getElementById('email');
-// const subject = document.getElementById('subject');
-// const message = document.getElementById('message');
-// const send = document.getElementById('send');
-// const contactForm = document.getElementById('fh5co_contact_form');
+const formAlert = document.getElementById('formAlert');
+const names = document.getElementById('name');
+const email = document.getElementById('email');
+const subject = document.getElementById('subject');
+const message = document.getElementById('message');
 
-// contactForm.addEventListener('submit', validateForms);
+if(!names || !email || subject || message){
+  console.log('falta información')
+}
 
-// function validateForms(e){
-//     e.preventDefault();
-// }
+const forms = document.getElementById('fh5co_contact_form');
+forms.addEventListener('submit', handleSubmit);
+
+async function handleSubmit(e){
+  e.preventDefault();
+  if(names.value.trim().length > 0 && email.value.trim().length > 0 && subject.value.trim().length > 0 && message.value.trim().length > 0){
+    const form = new FormData(this);
+    const response = await fetch(this.action, {
+      method: this.method,
+      body: form,
+      headers: {
+        'Accept': 'aplication/json'
+      }
+    })
+    if(response.ok){
+       this.reset();
+       formAlert.innerHTML = `
+       <div class="rounded-0 alert alert-info text-left alert-dismissible fade show" role="alert">
+        <strong>!Su mensaje ha sido enviado!</strong> Lo contactaremos en breve.
+       </div>
+       `
+    }
+  }else{
+    formAlert.innerHTML = `
+       <div class="alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
+        <strong>!todos los campos son obligatorios!</strong> 
+       </div>
+    `
+  }
+}
+
 
 
 /*============================================================================================
@@ -458,20 +487,6 @@ const showProducts = (productsByheadquarter) => {
         }
     }
 }
-
-//     for(i=0; i<collapsableContent.length; i++){
-//         console.log(collapsableContent[i])
-//         if(collapsableContent[i].innerHTML.trim().length === 0){
-//             console.log(collapsableContent[i].parentElement.parentElement);
-//             collapsableContent[i].parentElement.parentElement.style.display = 'none';
-//         }else{
-//             console.log('hay contenido');
-//         }
-//     }
-// }
-
-
-
 
 
 
