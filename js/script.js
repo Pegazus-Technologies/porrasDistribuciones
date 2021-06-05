@@ -186,7 +186,7 @@ const productsPerPage = (products, actualHref) => {
 
 const showProducts = (productsByheadquarter) => {
     const pricesContainer = document.createElement('div');
-    pricesContainer.classList.add('container', 'p-0', 'mb-5');
+    pricesContainer.classList.add('container', 'mb-5');
     pricesContainer.setAttribute('id', 'pricesList')
     pricesContainer.innerHTML = `
     <h3 class='mt-5 mb-5'>Lista de precios</h3>
@@ -204,12 +204,12 @@ const showProducts = (productsByheadquarter) => {
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
-            <thead class="bg-light">
+            <thead>
               <tr>
-                <th scope="col" class="text-center">Código</th>
-                <th scope="col" class="text-center">Producto</th>
-                <th scope="col" class="text-center">Unidad</th>
-                <th scope="col" class="text-center">Precio</th>
+                <th class="text-center">Código</th>
+                <th class="text-center">Producto</th>
+                <th class="text-center">Unidad</th>
+                <th class="text-center">Precio</th>
               </tr>
             </thead>
             <tbody class="tbody">
@@ -217,7 +217,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'BEER'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -259,7 +259,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'LIQUOR'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -301,7 +301,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'FOOD'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -343,7 +343,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'BEVERAGE'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -375,7 +375,7 @@ const showProducts = (productsByheadquarter) => {
             <table class="table">
             <thead class="bg-light">
               <tr>
-                <th scope="col" class="text-center">Código</th>
+                <t scope="col" class="text-center">Código</th>
                 <th scope="col" class="text-center">Producto</th>
                 <th scope="col" class="text-center">Unidad</th>
                 <th scope="col" class="text-center">Precio</th>
@@ -386,7 +386,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'CLEANING'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>
@@ -429,7 +429,7 @@ const showProducts = (productsByheadquarter) => {
                 if(product.category === 'CIGARETTE'){
                     return `
                     <tr>
-                        <th class="text-center">${product.id}</th>
+                        <td class="text-center">${product.id}</td>
                         <td class="text-center">${product.name}</td>
                         <td class="text-center">${product.quantity}</td>
                         <td class="text-center">${product.price}</td>

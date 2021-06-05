@@ -1107,12 +1107,13 @@ a:hover {
 }
 
 #pricesList #accordion .card .collapse .card-body .table-responsive {
+  height: 500px;
+  min-height: 500px;
   max-height: 500px;
 }
 
 #pricesList #accordion .card .collapse .card-body .table-responsive .table {
   position: relative;
-  overflow: hidden;
 }
 
 #pricesList #accordion .card .collapse .card-body .table-responsive .table thead {
@@ -1121,6 +1122,13 @@ a:hover {
   top: 0;
   left: 0;
   right: 0;
+}
+
+#pricesList #accordion .card .collapse .card-body .table-responsive .table thead tr th {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #000000;
 }
 
 #pricesList #accordion .card .collapse .card-body .table-responsive .table tr:hover:not(:nth-child(1)) {

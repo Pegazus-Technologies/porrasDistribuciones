@@ -1019,16 +1019,24 @@ a:hover {
       .collapse{
         .card-body {
           .table-responsive{
+            height: 500px;
+            min-height: 500px;
             max-height: 500px;
             .table {
               position: relative;
-              overflow: hidden;
               thead {
                 background-color: #000;
                 color: #ffffff;
                 top: 0;
                 left: 0;
                 right: 0;
+                tr{
+                  th {
+                    position: sticky;
+                    top: 0;
+                    background-color: #000000;
+                  }
+                }
               }
               tr{
                 &:hover:not(:nth-child(1)) {
