@@ -4,32 +4,6 @@ html {
   scroll-behavior: smooth;
 }
 
-.nombre{
-  color: #FDC403;
-  font-weight: 600;
-}
-
-.titulo{
-  font-size:30px;
-  font-weight: 300;
-  color:#fabc12;
-}
-
-.titulo >h1 {
-  font-size: 24px;
-  color: #FDC403;
-  font-weight: 700;
-}
-
-.subtitulo {
-  font-size: 20px;
-  color: #997719 !important;
-  font-weight: 800;
-  text-align: justify;
-}
-
-
-
 $yellow: #f5bc04;
 
 @mixin border-radius($radius) {

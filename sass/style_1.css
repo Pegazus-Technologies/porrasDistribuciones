@@ -3,6 +3,12 @@ html {
   scroll-behavior: smooth;
 }
 
+.fh5co_verticle_middle{
+  vertical-align:middle;
+  color: #997719;
+  display:table-cell;
+}
+
 .nombre {
   color: #FDC403;
   font-weight: 600;
@@ -547,9 +553,9 @@ a:hover {
 }
 
 .fh5co_tagg {
-  background: #f1f1f1;
+  background: #070403;
   padding: 10px 15px;
-  color: #222;
+  color: #fff;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
   margin-right: 8px;
@@ -584,9 +590,9 @@ a:hover {
 }
 
 .btn_mange_pagging {
-  background: #f1f1f1;
+  background: #FDC403;
   padding: 12px 20px;
-  color: #222 !important;
+  color: #fff !important;
   font-weight: 800;
   margin: 0 10px;
   -webkit-transition: all 0.5s ease;
@@ -594,8 +600,8 @@ a:hover {
 }
 
 .btn_pagging {
-  background: #f1f1f1 !important;
-  color: #222;
+  background: #FDC403 !important;
+  color: #fff;
   padding: 12px 20px !important;
   font-weight: 800;
   margin: 0 10px;
