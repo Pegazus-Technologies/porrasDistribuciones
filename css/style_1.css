@@ -3,31 +3,6 @@ html {
   scroll-behavior: smooth;
 }
 
-.nombre{
-  color: #FDC403;
-  font-weight: 600;
-}
-
-.titulo{
-  font-size:30px;
-  font-weight: 300;
-  color:#fabc12;
-}
-
-.titulo >h1 {
-  font-size: 24px;
-  color: #FDC403;
-  font-weight: 700;
-}
-
-.subtitulo {
-  font-size: 20px;
-  color: #997719 !important;
-  font-weight: 800;
-  text-align: justify;
-}
-
-
 #slider {
   margin-top: 40px;
   margin-bottom: 20px;
@@ -113,10 +88,9 @@ a:hover {
   border-radius: 50%;
 }
 
-.fh5co_verticle_middle{
-  vertical-align:middle;
-  color: #997719;
-  display:table-cell;
+.fh5co_verticle_middle {
+  vertical-align: middle;
+  display: table-cell;
 }
 
 .fh5co_country_width {
@@ -130,12 +104,6 @@ a:hover {
   position: relative;
   top: -10px;
 }
-
-.nav-link{
-  font-weight: 400;
-  font-size: 20px;
-}
-
 
 .navbar-light .navbar-nav .open > .nav-link,
 .navbar-light .navbar-nav .active > .nav-link,
@@ -539,9 +507,8 @@ a:hover {
 }
 
 .fh5co_consectetur {
-  font-size: 16px;
-  color: #070403;
-  font-weight: 700;
+  font-size: 14px;
+  color: #777;
 }
 
 .fh5co_gaming_topikk {
@@ -555,9 +522,9 @@ a:hover {
 }
 
 .fh5co_tagg {
-  background: #070403;
+  background: #f1f1f1;
   padding: 10px 15px;
-  color: #fff;
+  color: #222;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
   margin-right: 8px;
@@ -568,7 +535,7 @@ a:hover {
 
 .fh5co_tagg:hover,
 .fh5co_tagg:focus {
-  background: #997719;
+  background: #f5bc04;
   color: #fff;
   text-decoration: none;
 }
@@ -576,25 +543,17 @@ a:hover {
 .fh5co_most_trading {
   height: 60px;
   width: 100%;
-  font-size: 16px;
-  color: #070403;
-}
-
-.most_fh5co_treding_font{
-  font-size: 14px;
-  color: #997719 !important;
-  font-weight: 400;
 }
 
 .most_fh5co_treding_font_123 {
   font-size: 12px;
-  color: #070403;
+  color: #777;
 }
 
 .btn_mange_pagging {
-  background: #FDC403;
+  background: #f1f1f1;
   padding: 12px 20px;
-  color: #fff !important;
+  color: #222 !important;
   font-weight: 800;
   margin: 0 10px;
   -webkit-transition: all 0.5s ease;
@@ -602,8 +561,8 @@ a:hover {
 }
 
 .btn_pagging {
-  background: #FDC403 !important;
-  color: #fff;
+  background: #f1f1f1 !important;
+  color: #222;
   padding: 12px 20px !important;
   font-weight: 800;
   margin: 0 10px;
@@ -636,15 +595,14 @@ a:hover {
 }
 
 .footer_main_title {
-  color: #FDC403;
+  color: #fff;
   font-weight: 800;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .footer_sub_about {
-  color: #fffefe;
+  color: #c9c8c8;
   font-size: 14px;
-  font-weight: 300px;
 }
 
 .fh5co_display_table_footer {
@@ -698,8 +656,8 @@ a:hover {
 }
 
 .footer_makes_sub_font {
-  font-size: 14px;
-  color: #997719;
+  font-size: 12px;
+  color: #777;
 }
 
 .position_footer_relative {
@@ -711,11 +669,6 @@ a:hover {
   top: 60px;
   left: -5px;
 }
-
-.footer_position_absolute > img {
-  width: 10px;
-}
-
 
 .footer_img_post_6 {
   height: 50px;
@@ -821,8 +774,7 @@ a:hover {
 
 .fh5co_heading {
   font-size: 24px;
-  color: #FDC403;
-  font-weight: 700;
+  color: #222;
 }
 
 .fh5co_contact_us_no_icon_div {
