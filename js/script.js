@@ -9,11 +9,11 @@ console.log(footer);
     SLIDERS FOR PAGES
 ==============================================================================================*/
 
-const sliderSoacha = ['../../images/soacha1.jpg', '../../images/soacha2.jpg', '../../images/soacha3.jpg'];
-const sliderBosa = ['../../images/bosa1.jpg', '../../images/bosa2.jpg', '../../images/bosa3.jpg'];
-const sliderla12 = ['../../images/la121.jpg', '../../images/la122.jpg', '../../images/la123.jpg'];
+const sliderSoacha = ['../../images/sochaPageSlide1.jpg', '../../images/sochaPageSlide2.jpg', '../../images/sochaPageSlide3.jpg'];
+const sliderBosa = ['../../images/bosaSlide1.jpg', '../../images/bosa2.jpg', '../../images/bosa3.jpg'];
+const sliderla12 = ['../../images/la12PageSlide1.jpg', '../../images/la12PageSlide2.jpg', '../../images/la123.jpg'];
 const sliderla36 = ['../../images/la361.jpg', '../../images/la362.jpg', '../../images/la363.jpg'];
-const sliderGiron = ['../../images/giron1.jpg', '../../images/giron2.jpg', '../../images/giron3.jpg'];
+const sliderGiron = ['../../images/gironPageSlide1.jpg', '../../images/giron2.jpg', '../../images/giron3.jpg'];
 const slideLaIsla =  ['../../images/laisla1.jpg', '../../images/laisla2.jpg', '../../images/laisla3.jpg'];
 const slideFloridaBlanca =  ['../../images/florida1.jpg', '../../images/florida2.jpg', '../../images/florida3.jpg'];
 const slideAseo = ['../../images/aseo1.jpg', '../../images/aseo2.jpg', '../../images/aseo3.jpg'];

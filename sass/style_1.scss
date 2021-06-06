@@ -1,7 +1,15 @@
 /* Scss Document */
 
+@font-face {
+  font-family: "PoppinsLight";
+  src: url('../css/fonts/Poppins-Light.ttf');
+}
+
 html {
   scroll-behavior: smooth;
+  body{
+    font-family: "PoppinsLight";
+  }
 }
 
 $yellow: #f5bc04;
@@ -127,7 +135,8 @@ a:hover {
 
 .nav-link{
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .navbar-light .navbar-nav .open > .nav-link,
