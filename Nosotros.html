@@ -256,9 +256,9 @@
 
             <!-- FORMULARIO DE CONTACTO -->
               <div class="container-fluid mb-4">
-                <div class="container">
-                  <div class="col-12 text-center contact_margin_svnit ">
-                    <div class="text-left fh5co_heading py-2">Contactanos</div>
+                <div class="container paddding">
+                  <div class="col-12 col-md-6  ">
+                    <h1 class="fh5co_heading text-left py-2 mb-12">Contactenos</h1>
                   </div>
                   <div class="row">
                     <div class="col-12 col-md-6">
@@ -279,10 +279,10 @@
                         </div>
                       </form>
                     </div>
-                    <div class="col-12 col-md-6 align-self-center">
+                    <div class="col-12 col-md-6 pb-12 align-self-center">
                       <iframe class="w-100"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.827717083824!2d-74.19559168567655!3d4.624807243599765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9e74a6a9a979%3A0x3ab00595abb43c8!2sCl.%2063%20Sur%20%2388-21%2C%20Bogot%C3%A1!5e0!3m2!1ses!2sco!4v1622152190129!5m2!1ses!2sco"
-                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
+                        width="600" height="420" style="border:0;" allowfullscreen="" loading="lazy">
                       </iframe>
                     </div>
                   </div>
@@ -412,7 +412,7 @@
             <div class="footer_main_title py-3"> Categorias</div>
             <ul class="footer_menu">
               <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Bebidas</a></li>
-              <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Aseo personal y Aseo hogar</a></li>
+              <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Aseo personal y Aseo para el hogar</a></li>
               <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Vinos y licores</a></li>
             </ul>
           </div>
@@ -425,7 +425,7 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#bebidas" class="footer_post pb-4"> Producto al por mayor de vevidas y licores</a>
+            <a href="#" class="footer_post pb-4">Cervezas, gaseosas y jugos nacionales e internacionales al por mayor</a>
             <div class="footer_makes_sub_font">
               <script>
                 var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
@@ -433,7 +433,7 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#" class="footer_post pb-4"> Producto al por mayor de bebidas</a>
+            <a href="#" class="footer_post pb-4"> Vinos y licores nacionales e internacionales al por mayo </a>
             <div class="footer_makes_sub_font">
               <script>
                 var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
@@ -441,21 +441,23 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#" class="footer_post pb-4"> Producto al por mayor de Aseo</a>
+            <a href="#" class="footer_post pb-4"> Aseo para el hogar y aseo personal </a>
             <div class="footer_position_absolute"><img src="images/footer_sub_tipik.png" alt="img"
                 class="width_footer_sub_img" /></div>
           </div>
         </div>
         <div class="row justify-content-center pt-2 pb-4">
           <div class="col-12 col-md-8 col-lg-7 ">
-            <div class="input-group">
-              <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
-                  class="fa fa-envelope"></i></span> -->
-              <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-              <button class="btn btn-warning font-weight-bold" onclick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button>
-            </div>
+            <form name="correos">
+              <div class="input-group">
+                <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
+                    class="fa fa-envelope"></i></span> -->
+                    <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
+                    <button class="btn btn-warning font-weight-bold" onclick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button>
+              </div>
+            </form>
           </div>
-        </div>
+        </div> 
       
       </div>
     </div>
