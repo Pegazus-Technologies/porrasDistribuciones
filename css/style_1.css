@@ -1,6 +1,15 @@
 /* Scss Document */
+@font-face {
+  font-family: "PoppinsLight";
+  src: url("../css/fonts/Poppins-Light.ttf");
+}
+
 html {
   scroll-behavior: smooth;
+}
+
+html body {
+  font-family: "PoppinsLight";
 }
 
 #slider {
@@ -88,11 +97,6 @@ a:hover {
   border-radius: 50%;
 }
 
-.fh5co_verticle_middle {
-  vertical-align: middle;
-  display: table-cell;
-}
-
 .fh5co_country_width {
   width: 40px;
   margin: 0 10px;
@@ -103,6 +107,12 @@ a:hover {
   margin: 0 10px;
   position: relative;
   top: -10px;
+}
+
+.nav-link {
+  font-weight: 400;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .navbar-light .navbar-nav .open > .nav-link,
@@ -507,8 +517,9 @@ a:hover {
 }
 
 .fh5co_consectetur {
-  font-size: 14px;
-  color: #777;
+  font-size: 16px;
+  color: #070403;
+  font-weight: 700;
 }
 
 .fh5co_gaming_topikk {
@@ -543,11 +554,19 @@ a:hover {
 .fh5co_most_trading {
   height: 60px;
   width: 100%;
+  font-size: 16px;
+  color: #070403;
+}
+
+.most_fh5co_treding_font {
+  font-size: 14px;
+  color: #997719 !important;
+  font-weight: 400;
 }
 
 .most_fh5co_treding_font_123 {
   font-size: 12px;
-  color: #777;
+  color: #070403;
 }
 
 .btn_mange_pagging {
@@ -595,14 +614,15 @@ a:hover {
 }
 
 .footer_main_title {
-  color: #fff;
+  color: #FDC403;
   font-weight: 800;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .footer_sub_about {
-  color: #c9c8c8;
+  color: #fffefe;
   font-size: 14px;
+  font-weight: 300px;
 }
 
 .fh5co_display_table_footer {
@@ -656,8 +676,8 @@ a:hover {
 }
 
 .footer_makes_sub_font {
-  font-size: 12px;
-  color: #777;
+  font-size: 14px;
+  color: #997719;
 }
 
 .position_footer_relative {
@@ -668,6 +688,10 @@ a:hover {
   position: absolute;
   top: 60px;
   left: -5px;
+}
+
+.footer_position_absolute > img {
+  width: 10px;
 }
 
 .footer_img_post_6 {
@@ -774,7 +798,8 @@ a:hover {
 
 .fh5co_heading {
   font-size: 24px;
-  color: #222;
+  color: #FDC403;
+  font-weight: 700;
 }
 
 .fh5co_contact_us_no_icon_div {
