@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="../../css/chat.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap CSS -->
-    <link href="../../sass/style_1.css" rel="stylesheet" type="text/css" />
+    <link href="../../css/style_1.css" rel="stylesheet" type="text/css" />
     <!-- Modernizr JS -->
     <script src="../../js/modernizr-3.5.0.min.js"></script>
   </head>
@@ -113,13 +113,13 @@
           <a class="navbar-brand" href="#"><img src="../../images/logo.png" alt="img" class="mobile_logo_width" /></a>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-              <li class="nav-item active font-weight-bold">
+              <li class="nav-item active">
                 <a class="nav-link" href="../../index.html">Inicio <span class="sr-only">(current)</span></a>
               </li>
-              <li class="nav-item font-weight-bold">
+              <li class="nav-item">
                 <a class="nav-link" href="../../blog.html">Blog <span class="sr-only">(current)</span></a>
               </li>
-              <li class="nav-item font-weight-bold">
+              <li class="nav-item">
                 <a class="nav-link" href="../../Nosotros.html">Nosotros <span class="sr-only">(current)</span></a>
               </li>
               <!-- <li class="nav-item ">
@@ -150,7 +150,7 @@
                 </div>
               </li> -->
               <li class="nav-item ">
-                <a class="nav-link" href="../../single.html">Precios<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="precios_generales.html">Precios<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="../../Contact_us.html">Contactanos <span class="sr-only">(current)</span></a>
@@ -181,13 +181,13 @@
           <div class="col-md-8 animate-box" data-animate-effect="fadeInLeft">
             <h1 class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4 font-weight-bold text-uppercase text-center f-800">Sucursal De Soacha</h1>
             <p class="fh5co_consectetur text-justify">
-              Nos encontramos ubicados en la Diagonal 38B #86-28, aqui puedes encontras
-              productos como licores, elementos de aseo, gaseosas al por mayor y detal asi como algunos abarrotes tales como
-              aceite, leche, pasta, arroz, café, salchichas.
+              Nos encontramos ubicados en la Diagonal 38B #86-28, aqui puedes encontrar
+              productos como licores, elementos de aseo, gaseosas al por mayor. Asi mismo, encontrarás otros productos tales como
+              aceite, leche, pasta, arroz, café y salchichas.
             </p>
             <h3 class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4">Contactanos</h3>
             <p class="fh5co_consectetur text-justify">
-              puedes contactarnos llamando a siguente numero <a href="tel:+573214308206">321-430-8206</a>
+              Puedes contactarnos llamando al siguiente numero <a href="tel:+573214308206">321-430-8206</a>
               y llevaremos tu pedido a domicilio o escribenos a nuestro whatsapp para atenderte.
             </p>
             </script>
@@ -263,10 +263,10 @@
     </div>
   
     <!-- PIE DE PAGINA -->
-    <div class="container-fluid fh5co_footer_bg pb-3" id="footer">
+    <div class="container-fluid fh5co_footer_bg pb-3">
       <div class="container animate-box">
         <div class="row">
-          <div class="col-12 spdp_right py-5"><img src="images/Imagotipo_Distribuciones_Porras_La_18 (3).png" alt="img" class="footer_logo" /></div>
+          <div class="col-12 spdp_right py-5"><img src="../../images/Imagotipo_Distribuciones_Porras_La_18 (3).png" alt="img" class="footer_logo" /></div>
           <div class="clearfix"></div>
           <div class="col-12 col-md-4 col-lg-3">
             <div class="footer_main_title py-3"> Sobre Nosotros</div>
@@ -299,7 +299,7 @@
             <div class="footer_main_title py-3"> Categorias</div>
             <ul class="footer_menu">
               <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Bebidas</a></li>
-              <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Aseo personal y Aseo hogar</a></li>
+              <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Aseo personal y Aseo para el hogar</a></li>
               <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Vinos y licores</a></li>
             </ul>
           </div>
@@ -312,7 +312,7 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#bebidas" class="footer_post pb-4"> Producto al por mayor de vevidas y licores</a>
+            <a href="#" class="footer_post pb-4">Cervezas, gaseosas y jugos nacionales e internacionales al por mayor</a>
             <div class="footer_makes_sub_font">
               <script>
                 var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
@@ -320,7 +320,7 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#" class="footer_post pb-4"> Producto al por mayor de bebidas</a>
+            <a href="#" class="footer_post pb-4"> Vinos y licores nacionales e internacionales al por mayor </a>
             <div class="footer_makes_sub_font">
               <script>
                 var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
@@ -328,21 +328,23 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#" class="footer_post pb-4"> Producto al por mayor de Aseo</a>
-            <div class="footer_position_absolute"><img src="images/footer_sub_tipik.png" alt="img"
+            <a href="#" class="footer_post pb-4"> Productos de limpieza y aseo personal </a>
+            <div class="footer_position_absolute"><img src="../../images/footer_sub_tipik.png" alt="img"
                 class="width_footer_sub_img" /></div>
           </div>
         </div>
         <div class="row justify-content-center pt-2 pb-4">
           <div class="col-12 col-md-8 col-lg-7 ">
-            <div class="input-group">
-              <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
-                  class="fa fa-envelope"></i></span> -->
-              <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-              <button class="btn btn-warning font-weight-bold" onclick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button>
-            </div>
+            <form name="correos">
+              <div class="input-group">
+                <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
+                    class="fa fa-envelope"></i></span> -->
+                    <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
+                    <button class="btn btn-warning font-weight-bold" onclick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button>
+              </div>
+            </form>
           </div>
-        </div>
+        </div> 
       
       </div>
     </div>
