@@ -398,7 +398,7 @@ const showProducts = (productsByheadquarter) => {
 
 
     <div id="accordion">
-    <div class="card">
+    <div class="card" id="clean">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
           <button  class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseCleaning" aria-expanded="true" aria-controls="collapseOne">
