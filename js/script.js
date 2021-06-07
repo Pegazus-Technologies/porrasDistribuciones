@@ -156,7 +156,7 @@ async function handleSubmit(e){
       headers: {
         'Accept': 'aplication/json'
       }
-    })
+    });
     if(response.ok){
       document.getElementById('sendingAlert').style.display='none';
        this.reset();
@@ -186,6 +186,7 @@ if(actualHref){
         return res.json();
     }).then((productsData)=>{
         const allproducts = productsData.data;
+        console.log(allproducts);
         productsPerPage(allproducts, actualHref);
     });
 }
