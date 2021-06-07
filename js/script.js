@@ -229,16 +229,16 @@ const showProducts = (productsByheadquarter) => {
     pricesContainer.innerHTML = `
     <h3 class='mt-5 mb-3'>Lista de precios</h3>
     <div id="accordion">
-    <div class="card">
+    <div class="card" id="beers">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
-          <button class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <button class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseBeer" aria-expanded="true" aria-controls="collapseOne">
             <h4 class="mb-0">Cervezas</h4>
           </button>
         </h5>
       </div>
   
-      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+      <div id="collapseBeer" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
         <div class="card-body collapsableContent">
         <div class="table-responsive">
             <table class="table">
@@ -271,7 +271,7 @@ const showProducts = (productsByheadquarter) => {
     </div>
 
     <div id="accordion">
-    <div class="card">
+    <div class="card"  id="liquors">
       <div class="card-top d-flex justify-content-between align-items-center" id="headingOne">
         <h5 class="mb-0 w-100">
           <button class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseLiquor" aria-expanded="true" aria-controls="collapseOne">
@@ -354,7 +354,7 @@ const showProducts = (productsByheadquarter) => {
       </div>
     </div>
 
-    <div id="accordion">
+    <div id="accordion" id="beverage">
     <div class="card">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
@@ -441,7 +441,7 @@ const showProducts = (productsByheadquarter) => {
 
 
     <div id="accordion">
-    <div class="card">
+    <div class="card" id="cigarettes">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
           <button class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center" data-toggle="collapse" data-target="#collapseCigarette" aria-expanded="true" aria-controls="collapseOne">

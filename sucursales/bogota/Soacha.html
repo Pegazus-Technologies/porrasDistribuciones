@@ -236,13 +236,14 @@
       <h3 class="fh5co_heading  pt-4 mb-4 text-left">Obtenga mas información haciendo click sobre la imagen</h3>
       <div id="fh5co-title-box">
         <div class="col-12 p-0">
-        <img src="../../images/Soacha.jpg" width="730" alt="sucursal Soacha" border="0" usemap="#Map" class="mainBanner img-fluid p-0">
+        <img src="../../images/colashProducts.jpg" alt="sucursal Soacha" border="0" usemap="#Map" class="mainBanner img-fluid p-0">
         <map name="Map">
-          <area shape="rect" coords="825,129,1009,303" href="#" data-toggle="modal" data-target="#soacha1">
-          <area shape="rect" coords="523,12,777,225" href="#contact">
-          <area shape="rect" coords="778,357,953,598" href="#" data-toggle="modal" data-target="#soacha2">
-          <area shape="rect" coords="454,285,519,335" href="#">
-          <area shape="rect" coords="360,148,439,225" href="#"></map>
+          <area shape="rect" coords="389,-1,1002,282" href="#" data-toggle="modal" data-target="#liquor">
+          <area shape="rect" coords="389,294,1000,532" href="#" data-toggle="modal" data-target="#sodas">
+          <area shape="rect" coords="-15,206,371,550" href="#" data-toggle="modal" data-target="#beer">
+          <area shape="rect" coords="-15,-39,371,187" href="#" data-toggle="modal" data-target="#cigarette">
+        </map>
+        
       </div>
 
 
@@ -339,7 +340,7 @@
             <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
                 class="fa fa-envelope"></i></span> -->
             <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-            <button class="btn btn-warning font-weight-bold" onclick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button>
+            <button class="btn btn-warning font-weight-bold" onClick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button>
           </div>
         </div>
       </div>
@@ -388,7 +389,7 @@
   <!-- MENU PIE DE PAGINA -->
   <div class="container-fluid fh5co_footer_right_reserved">
       <div class="container">
-        <div class="row  ">
+        <div class="row">
           <div class="col-12 col-md-6 py-4 Reserved"> © Copyright 2021, Todos los derechos reservados. Diseñado por <a
               href="https://pegazustechnologies.com" title="Distribuciones Porras">Pegazustechnologies.com</a>. </div>
           <div class="col-12 col-md-6 spdp_right py-4">
@@ -427,7 +428,7 @@
 
 
 <!-- Modal beers soacha1-->
-<div class="modal fade topModal" id="soacha1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade topModal" id="liquor" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -442,13 +443,23 @@
         </div>
         <h5 class="pt-4 pb-2">Distribuimos las siguientes marcas:</h5>
         <ul>
-          <li>Marca 1 Lorem ipsum dolor sit.</li>
-          <li>Marca 2 Lorem ipsum dolor sit.</li>
-          <li>Marca 3 Lorem ipsum dolor sit.</li>
-          <li>Marca 4 Lorem ipsum dolor sit.</li>
+          <li>Antioqueño </li>
+          <li>Bacardi</li>
+          <li>Baileys</li>
+          <li>Black & White</li>
+          <li>Buchanans</li>
+          <li>Chivas</li>
+          <li>Don Julio</li>
+          <li>Double Black</li>
+          <li>Sello Rojo</li>
+          <li>Four Loko</li>
+          <h5 class="mt-3">Y muchas mas</h5>
         </ul>
       </div>
-      <div class="modal-footer">
+      <div class="modal-footer justify-content-between">
+        <a href="#liquors" data-dismiss="modal"  class="btn btn-link d-flex rounded" data-toggle="collapse" data-target="#collapseLiquor" aria-expanded="false" aria-controls="collapseOne">
+          Ver lista de marcas y precios
+        </a>
         <button type="button" class="btn" data-dismiss="modal">Cerrar</button>
       </div>
     </div>
@@ -458,7 +469,7 @@
 
 <!-- Modal sodas soacha2-->
 
-<div class="modal fade topModal" id="soacha2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade topModal" id="sodas" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -469,22 +480,106 @@
       </div>
       <div class="modal-body">
         <div class="imgContainer">
-          <img class="w-100" src="../../images/bebidas.jpg" alt="">
+          <img class="w-100" src="../../images/bebidas.jpg" alt="bebidas">
         </div>
         <h5 class="pt-4 pb-2">Distribuimos las siguientes marcas:</h5>
         <ul>
-          <li>Marca 1 Lorem ipsum dolor sit.</li>
-          <li>Marca 2 Lorem ipsum dolor sit.</li>
-          <li>Marca 3 Lorem ipsum dolor sit.</li>
-          <li>Marca 4 Lorem ipsum dolor sit.</li>
+          <li>Alpina</li>
+          <li>Colanta</li>
+          <li>Cocacola </li>
+          <li>Gatorade</li>
+          <li>Parmalat</li>
+          <li>Potobón</li>
+          <li>Monster</li>
+          <li>Red Bull</li>
+          <h5 class="mt-3">Y muchas mas</h5>
         </ul>
       </div>
-      <div class="modal-footer">
+      <div class="modal-footer justify-content-between">
+        <a href="#beverage" data-dismiss="modal"  class="btn btn-link d-flex rounded" data-toggle="collapse" data-target="#collapseBeverage" aria-expanded="false" aria-controls="collapseOne">
+          Ver lista de marcas y precios
+        </a>
         <button type="button" class="btn" data-dismiss="modal">Cerrar</button>
       </div>
     </div>
   </div>
 </div>
+
+
+<!-- Modal beers soacha3-->
+
+<div class="modal fade topModal" id="beer" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Cervezas</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="imgContainer">
+          <img class="w-100" src="../../images/img43.jpg" alt="cervezas">
+        </div>
+        <h5 class="pt-4 pb-2">Distribuimos las siguientes marcas:</h5>
+        <ul>
+          <li>Aguila</li>
+          <li>Andina</li>
+          <li>Azteca</li>
+          <li>Gatorade</li>
+          <li>Becks</li>
+          <li>Budweiser</li>
+          <li>Club</li>
+          <li>Corona</li>
+          <h5 class="mt-3">Y muchas mas</h5>
+        </ul>
+      </div>
+      <div class="modal-footer justify-content-between">
+        <a href="#beers" data-dismiss="modal"  class="btn btn-link d-flex rounded" data-toggle="collapse" data-target="#collapseBeer" aria-expanded="false" aria-controls="collapseOne">
+          Ver lista de marcas y precios
+        </a>
+        <button type="button" class="btn" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal cigarette  soacha4-->
+
+<div class="modal fade topModal" id="cigarette" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Cigarrillos</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="imgContainer">
+          <img class="w-100" src="../../images/LUCKYFESTCARTON.png" alt="cigarrillos">
+        </div>
+        <h5 class="pt-4 pb-2">Distribuimos las siguientes marcas:</h5>
+        <ul>
+          <li>Lucky</li>
+          <li>Rothman</li>
+          <li>Azteca</li>
+          <li>Marlboro</li>
+          <li>Lym</li>
+          <h5 class="mt-3">Y muchas mas</h5>
+        </ul>
+      </div>
+      <div class="modal-footer justify-content-between">
+        <a href="#cigarettes" data-dismiss="modal"  class="btn btn-link d-flex rounded" data-toggle="collapse" data-target="#collapseCigarette" aria-expanded="false" aria-controls="collapseOne">
+          Ver lista de marcas y precios
+        </a>
+        <button type="button" class="btn" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <script src="../../js/jquery.js"></script>
 <script src="../../js/bootstrap.js"></script>
