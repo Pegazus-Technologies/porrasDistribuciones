@@ -497,7 +497,24 @@ const showProducts = (productsByheadquarter) => {
     }
 }
 
+//Slide effeect 
 
+const modalLinks = document.querySelectorAll(".topModal .modal-content .modal-footer a");
+for(link of modalLinks){
+  link.addEventListener('click', function(e){
+    e.preventDefault();
+    setTimeout(()=>{
+      const href = this.getAttribute("href");
+      console.log(href);
+      const offsetTop = document.querySelector(href).offsetTop
+      scroll({
+        top: offsetTop + 50,
+        behavior: "smooth"
+      });
+    },400)
+    
+  })
+}
 
 // validateForms(name.value, email.value, subject.value, message.value)
 

@@ -4,10 +4,6 @@
   src: url("../css/fonts/Poppins-Light.ttf");
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 html body {
   font-family: "PoppinsLight";
 }
