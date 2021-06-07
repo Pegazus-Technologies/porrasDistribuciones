@@ -1,36 +1,15 @@
 /* Scss Document */
+@font-face {
+  font-family: "PoppinsLight";
+  src: url("../css/fonts/Poppins-Light.ttf");
+}
+
 html {
   scroll-behavior: smooth;
 }
 
-.fh5co_verticle_middle{
-  vertical-align:middle;
-  color: #997719;
-  display:table-cell;
-}
-
-.nombre {
-  color: #FDC403;
-  font-weight: 600;
-}
-
-.titulo {
-  font-size: 30px;
-  font-weight: 300;
-  color: #fabc12;
-}
-
-.titulo > h1 {
-  font-size: 24px;
-  color: #FDC403;
-  font-weight: 700;
-}
-
-.subtitulo {
-  font-size: 20px;
-  color: #997719 !important;
-  font-weight: 800;
-  text-align: justify;
+html body {
+  font-family: "PoppinsLight";
 }
 
 #slider {
@@ -132,7 +111,8 @@ a:hover {
 
 .nav-link {
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .navbar-light .navbar-nav .open > .nav-link,
@@ -553,9 +533,9 @@ a:hover {
 }
 
 .fh5co_tagg {
-  background: #070403;
+  background: #f1f1f1;
   padding: 10px 15px;
-  color: #fff;
+  color: #222;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
   margin-right: 8px;
@@ -590,9 +570,9 @@ a:hover {
 }
 
 .btn_mange_pagging {
-  background: #FDC403;
+  background: #f1f1f1;
   padding: 12px 20px;
-  color: #fff !important;
+  color: #222 !important;
   font-weight: 800;
   margin: 0 10px;
   -webkit-transition: all 0.5s ease;
@@ -600,8 +580,8 @@ a:hover {
 }
 
 .btn_pagging {
-  background: #FDC403 !important;
-  color: #fff;
+  background: #f1f1f1 !important;
+  color: #222;
   padding: 12px 20px !important;
   font-weight: 800;
   margin: 0 10px;
@@ -711,7 +691,7 @@ a:hover {
 }
 
 .footer_position_absolute > img {
-  width: 12px;
+  width: 10px;
 }
 
 .footer_img_post_6 {
