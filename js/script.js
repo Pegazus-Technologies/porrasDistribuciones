@@ -313,7 +313,7 @@ const showProducts = (productsByheadquarter) => {
     </div>
 
     <div id="accordion">
-    <div class="card">
+    <div class="card" id="food">
       <div class="card-top" id="headingOne">
         <h5 class="mb-0">
           <button  class="btn btn-link pl-0 pr-0 w-100 d-flex align-items-center"  data-toggle="collapse" data-target="#collapseFood" aria-expanded="true" aria-controls="collapseFood">
