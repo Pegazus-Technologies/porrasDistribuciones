@@ -6,7 +6,6 @@
 }
 
 html {
-  scroll-behavior: smooth;
   body{
     font-family: "PoppinsLight";
   }
@@ -1004,7 +1003,7 @@ a:hover {
       margin: 0;
     }
     .imgContainer {
-      height: 468px;
+      height: 400px;
       img {
        object-fit: cover;
        height: 100%;
