@@ -1248,12 +1248,18 @@ a:hover {
   }
 }
 
-@media only screen and (max-width: 405px) {
+@media only screen and (max-width: 541px) {
   .page-title img {
     width: 40px !important;
   }
   .page-title h2 {
     font-size: 1.4rem !important;
+  }
+}
+
+@media only screen and (max-width: 545px) {
+  #productsContainer .productCard {
+    width: 100% !important;
   }
 }
 /*# sourceMappingURL=style_1.css.map */

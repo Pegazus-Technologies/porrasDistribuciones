@@ -625,6 +625,21 @@ const renderProducts = (products) => {
 }
 
 
+/*=======================================================================
+ LIST OF PRODUCT + MODAL
+  ======================================================================= */
+
+
+
+const menuItems = document.querySelectorAll('#navbarSupportedContent ul li');
+for(i=0; i<menuItems.length; i++){
+  menuItems[i].addEventListener('click', function(){
+    this.classList.add('active');
+  });
+}
+
+console.log(menuItems);
+
 
 
 
