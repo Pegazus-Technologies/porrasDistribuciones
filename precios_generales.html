@@ -30,6 +30,7 @@
       <!-- Modernizr JS -->
       <script src="js/modernizr-3.5.0.min.js"></script>
       <link rel="shortcut icon" href="images/Icono Distribuciones Porras La 18 (7).png">
+      <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   </head>
 
   <body class="single">
@@ -152,7 +153,7 @@
                 </div>
               </li> -->
               <li class="nav-item ">
-                <a class="nav-link" href="precios_generales.html">Precios<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="precios_generales.html">Mas populares<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="../../Contact_us.html">Contactanos <span class="sr-only">(current)</span></a>
@@ -187,7 +188,9 @@
     <div class="container-fluid pb-2 ">
       <div class="container animate-box">
         <div>
-          <div class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4">Productos Alimenticios</div>
+          <a href="index.html" target="_blank"><button id="checkout" class="btn btn-danger ml-auto text-right d-flex" onclick="pay()"> total </button></a>
+          <!-- <button class="btn btn-success ml-auto text-right d-flex py-2">Enviar pago</button> -->
+          <div class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4">Productos Alimenticio</div>
         </div>
         <div class="owl-carousel owl-theme" id="slider2">
           <div class="item px-2">
@@ -195,7 +198,8 @@
               <div class="fh5co_news_img w-250 h-100"><img src="images/arroz-florhuila-25-lb.jpg" alt="" /></div>
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Arroz Flor huila</h5>
-                <p class="card-text fh5co_consectetur text-center">Arroba - 33.0 00 $</p>
+                <p class="card-text fh5co_consectetur text-center">Arroba - 33.000 $</p>
+                <button class="btn btn-warning" onclick="add('Arroz Flor huila', 33000);">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -205,6 +209,7 @@
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Arroz Diana</h5>
                 <p class="card-text fh5co_consectetur text-center">Arroba - 44.000 $</p>
+                <button class="btn btn-warning" onclick="add('Arroz Diana', 44000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -214,6 +219,7 @@
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Pasta la Nieve</h5>
                 <p class="card-text fh5co_consectetur text-center">Arroba - 23.000 $</p>
+                <button class="btn btn-warning" onclick="add('Pasta la Nieve', 23000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -223,6 +229,7 @@
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Arroz Roa</h5>
                 <p class="card-text fh5co_consectetur text-center">Arroba - 33.600 $</p>
+                <button class="btn btn-warning" onclick="add('Arroz Roa', 33000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -232,6 +239,7 @@
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Pasta San remo</h5>
                 <p class="card-text fh5co_consectetur text-center">Arroba - 30.000 $</p>
+                <button class="btn btn-warning" onclick="add('Pasta San remo', 30000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -241,6 +249,7 @@
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Cafe Aguila Roja 125g</h5>
                 <p class="card-text fh5co_consectetur text-center">Paca - 77.000 $</p>
+                <button class="btn btn-warning" onclick="add('Cafe Aguila Roja 125g', 77000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -250,6 +259,7 @@
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Cafe Aguila Roja 250g</h5>
                 <p class="card-text fh5co_consectetur text-center">Paca- 74.000 $</p>
+                <button class="btn btn-warning" onclick="add('Cafe Aguila Roja 250g', 74000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -257,8 +267,9 @@
             <div class="fh5co_hover_news_img">
               <div class="fh5co_news_img  w-250 h-100"><img src="/images/1061819.jpg" width="50" alt="" /></div>
               <div>
-                <h5 class="subtitulo py-2 text-center card-title">Cafe Aguila Roja 500gy</h5>
+                <h5 class="subtitulo py-2 text-center card-title">Cafe Aguila Roja 500g</h5>
                 <p class="card-text fh5co_consectetur text-center">Paca - 72.000 $</p>
+                <button class="btn btn-warning" onclick="add('Cafe Aguila Roja 500g', 72000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -268,6 +279,7 @@
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Salchicha Zenú 150g</h5>
                 <p class="card-text fh5co_consectetur text-center">Unidad - 2.000 $</p>
+                <button class="btn btn-warning" onclick="add('Salchicha Zenú 150g', 2000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -277,6 +289,7 @@
               <div>
                 <h5 class="subtitulo py-2 text-center card-title">Durazno</h5>
                 <p class="card-text fh5co_consectetur text-center">Unidad - 3.000 $</p>
+                <button class="btn btn-warning" onclick="add('Durazno', 3000)">Agregar producto +</button>
               </div>
             </div>
           </div>
@@ -494,7 +507,7 @@
             <div class="footer_main_title py-3"> Categorias</div>
             <ul class="footer_menu">
               <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Bebidas</a></li>
-              <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Aseo personal y Aseo para el hogar</a></li>
+              <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Limpieza y aseo personal</a></li>
               <li><a href="#" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Vinos y licores</a></li>
             </ul>
           </div>
@@ -515,7 +528,7 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#" class="footer_post pb-4"> Vinos y licores nacionales e internacionales al por mayo </a>
+            <a href="#" class="footer_post pb-4"> Vinos y licores nacionales e internacionales al por mayor </a>
             <div class="footer_makes_sub_font">
               <script>
                 var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
@@ -523,7 +536,7 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#" class="footer_post pb-4"> Aseo para el hogar y aseo personal </a>
+            <a href="#" class="footer_post pb-4"> Productos de limpieza y aseo personal al por mayor </a>
             <div class="footer_position_absolute"><img src="images/footer_sub_tipik.png" alt="img"
                 class="width_footer_sub_img" /></div>
           </div>
@@ -640,6 +653,9 @@
     <script src="js/jquery.stellar.min.js"></script>
     <!-- Main -->
     <script src="js/main.js"></script>
+    <script src="js/chat.js"></script>
+    <script src="js/responses.js"></script>
+    <script src="js/carrito.js"></script>
     <script>if (!navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i)){$(window).stellar();}</script>
  
   </body>
