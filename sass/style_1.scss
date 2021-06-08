@@ -132,12 +132,6 @@ a:hover {
   top: -10px;
 }
 
-.nav-link{
-  font-weight: 400;
-  font-size: 16px;
-  font-weight: 600;
-}
-
 .navbar-light .navbar-nav .open > .nav-link,
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.open,
@@ -145,8 +139,8 @@ a:hover {
   color: #fff !important;
   padding-top: 12px !important;
   padding-bottom: 15px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
   margin: 0 20px !important;
   @include transition(0.5s);
   background: $yellow !important;
@@ -156,12 +150,14 @@ a:hover {
   color: #222 !important;
   padding-top: 12px !important;
   padding-bottom: 15px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
   margin: 0 20px !important;
   @include transition(0.5s);
   position: relative !important;
   @include clip-path(polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0));
+  font-size: 16px;
+  font-weight: 600;
 
   &:focus,
   &:hover {
@@ -169,8 +165,8 @@ a:hover {
     color: #fff !important;
     padding-top: 12px !important;
     padding-bottom: 15px !important;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
     margin: 0 20px;
     position: relative;
   }
@@ -1030,7 +1026,7 @@ a:hover {
   }
 }
 
-//Alerts
+//Alerts for headquarter page
 .alertContainer {
   display: block;
   padding: 20px 70px;
@@ -1039,7 +1035,7 @@ a:hover {
   }
 }
 
-//Price list
+//Price list for eadquarter list
 #pricesList {
   #accordion {
     .card {
@@ -1096,6 +1092,14 @@ a:hover {
   }
 }
 
+
+//Products pages
+
+#productsContainer{
+  .productCard {
+    width: 300px;
+  }
+}
 
 @media only screen and (max-width: 972px){
   .page-title {

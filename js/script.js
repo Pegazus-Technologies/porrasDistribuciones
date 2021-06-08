@@ -1,7 +1,8 @@
 const topSlider = document.getElementById('slider');
 const single = document.getElementById('single');
 const footer = document.getElementById('footer');
-console.log(footer);
+const productsContainer = document.getElementById('productsContainer');
+
 
 
 
@@ -122,7 +123,6 @@ buildingSlide(actualHref, null, floridaBlancaUrl, floridaBlancaMessage);
 buildingSlide(actualHref, null, aseoUrl, aseoMessage);
 
 
-
 //Mapping images when resizing
 $(document).ready(function() {
     $('map').imageMapResize();
@@ -139,7 +139,10 @@ const subject = document.getElementById('subject');
 const message = document.getElementById('message');
 
 const forms = document.getElementById('fh5co_contact_form');
-forms.addEventListener('submit', handleSubmit);
+if(forms){
+  forms.addEventListener('submit', handleSubmit);
+}
+
 
 async function handleSubmit(e){
   e.preventDefault();
@@ -186,7 +189,6 @@ if(actualHref){
         return res.json();
     }).then((productsData)=>{
         const allproducts = productsData.data;
-        console.log(allproducts);
         productsPerPage(allproducts, actualHref);
     });
 }
@@ -201,6 +203,7 @@ const productsPerPage = (products, actualHref) => {
     const foods = products.filter(c => c.category === 'FOOD');
     const cigarettes = products.filter(c => c.category === 'CIGARETTE');
     const cleaning = products.filter(c => c.category === 'CLEANING');
+
 
     if(actualHref.includes(soachaSucursalUrl)){
         productsByheadquarter.push(...beverages, ...beers, ...liquors, ...cigarettes);
@@ -228,7 +231,6 @@ const showProducts = (productsByheadquarter) => {
     pricesContainer.classList.add('container', 'mb-5');
     pricesContainer.setAttribute('id', 'pricesList')
     pricesContainer.innerHTML = `
-    <h3 class='mt-5 mb-3'>Lista de precios</h3>
     <div id="accordion">
     <div class="card" id="beers">
       <div class="card-top" id="headingOne">
@@ -496,6 +498,8 @@ const showProducts = (productsByheadquarter) => {
             console.log('hay contenido');
         }
     }
+
+    
 }
 
 //Slide effeect 
@@ -517,7 +521,88 @@ for(link of modalLinks){
   })
 }
 
-// validateForms(name.value, email.value, subject.value, message.value)
+
+/*=======================================================================
+ LIST OF PRODUCT + MODAL
+  ======================================================================= */
+  
+const productsFood =  'productos-alimentos.html';
+const productsCleaning = 'productos-aseo.html';
+const productsBeverages = 'productos-bebidas.html';
+const productsCigarette = 'productos-cigarrillos.html';
+const productsBeers = 'productos-cervezas.html';
+const productsLiquors = 'productos-licores.html';
+
+
+
+
+// validateUrl(actualHref, productsFood);
+
+const getProducts = (state) => {
+  console.log(state)
+    fetch('../../data/data.json')
+    .then((res)=>{
+      return res.json();
+    })
+    .then((allproducts)=>{
+      allProducts(allproducts);
+    })
+    .catch((error)=>{
+      alert(error);
+    });
+}
+
+getProducts();
+
+const allProducts = (allproducts) => {
+
+  const products = []
+
+  if(actualHref.includes(productsFood)){
+    const food = allproducts.data.filter(c => c.category === 'FOOD');
+    products.push(...food);
+  }else if(actualHref.includes(productsCleaning)){
+    const cleaning = allproducts.data.filter(c => c.category === 'CLEANING');
+    products.push(...cleaning);
+  }else if(actualHref.includes(productsBeverages)){
+    const beverages = allproducts.data.filter(c => c.category === 'BEVERAGE');
+    products.push(...beverages);
+  }else if(actualHref.includes(productsCigarette)){
+    const cigarettes = allproducts.data.filter(c => c.category === 'CIGARETTE');
+    products.push(...cigarettes);
+  }else if(actualHref.includes(productsBeers)){
+    const beers = allproducts.data.filter(c => c.category === 'BEER');
+    products.push(...beers);
+  }else if(actualHref.includes(productsLiquors)){
+    const liquors = allproducts.data.filter(c => c.category === 'LIQUOR');
+    products.push(...liquors);
+  }
+  renderProducts(products);
+}
+
+
+const renderProducts = (products) => {
+  products.map((product)=>{
+    console.log(product);
+    const newCard = document.createElement('div');
+    newCard.classList.add('card', 'productCard', 'mb-5')
+    newCard.innerHTML = `
+      <img class="card-img-top img-fluid" src=${product.image} alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title p-2 text-center">${product.name}</h5>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    `
+    productsContainer.appendChild(newCard);
+  })
+}
+
+
+
+
+
+
+  // validateForms(name.value, email.value, subject.value, message.value)
 
 
 //https://as01.epimg.net/meristation/imagenes/2020/07/15/avances/1594795396_861858_1594801711_portada_normal.jpg
