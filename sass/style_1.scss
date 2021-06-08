@@ -1097,7 +1097,51 @@ a:hover {
 
 #productsContainer{
   .productCard {
-    width: 300px;
+    width: 250px;
+    cursor: pointer;
+    transition: .3s;
+    .imgContainer {
+      position: relative;
+        img {
+          object-fit: cover;
+        }
+        img:nth-child(2){
+          position: absolute;
+          width: 100px;
+          left: 15px;
+        }
+    }
+    h5 {
+      font-size: .8rem;
+      font-weight: 900;
+      text-transform: capitalize;
+      text-transform: lowercase;
+      &::first-letter{
+        text-transform: capitalize;
+      }
+    }
+    &:hover {
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+
+    .productModal {
+      cursor: auto;
+      .modal-header{
+        background-color: $yellow;
+        h4 {
+          text-transform: lowercase;
+            &:first-letter{
+            text-transform: capitalize;
+          }
+        }
+      }
+      .modal-body h4 {
+        text-transform: lowercase;
+            &:first-letter{
+            text-transform: capitalize;
+          }
+      }
+    }
   }
 }
 

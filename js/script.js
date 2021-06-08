@@ -521,7 +521,6 @@ for(link of modalLinks){
   })
 }
 
-
 /*=======================================================================
  LIST OF PRODUCT + MODAL
   ======================================================================= */
@@ -534,12 +533,7 @@ const productsBeers = 'productos-cervezas.html';
 const productsLiquors = 'productos-licores.html';
 
 
-
-
-// validateUrl(actualHref, productsFood);
-
-const getProducts = (state) => {
-  console.log(state)
+const getProducts = () => {
     fetch('../../data/data.json')
     .then((res)=>{
       return res.json();
@@ -581,21 +575,56 @@ const allProducts = (allproducts) => {
 }
 
 
+//Images 500 *500 px
+
 const renderProducts = (products) => {
   products.map((product)=>{
-    console.log(product);
     const newCard = document.createElement('div');
     newCard.classList.add('card', 'productCard', 'mb-5')
     newCard.innerHTML = `
-      <img class="card-img-top img-fluid" src=${product.image} alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title p-2 text-center">${product.name}</h5>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+      <div data-toggle="modal" data-target=#${product.id}>
+        <div class="imgContainer">
+          <img class="card-img-top img-fluid" src=${product.image} alt="Card image cap">
+        </div>
+        <div class="card-body">
+          <h5 class="card-title p-0 pr-2 pl-2 text-center">${product.name}</h5>
+          <h5 class="card-title p-0 pr-2 pl-2 text-center">${product.quantity}</h5>
+          <h5 class="card-title p-0 pr-2 pl-2 pb-3 text-center">${product.price}</h5>
+          <!-- <a href="#" class="btn btn-primary">Go somewhere</a> --!>
+        </div>
       </div>
+     
+
+    <!-- Modal -->
+    <div class="modal productModal fade" id=${product.id} tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="exampleModalLabel">${product.name}</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="imgContainer" >
+              <img class="card-img-top img-fluid" src=${product.image} alt="Card image cap">
+              <img src='../images/qr.png'>
+            </div>
+            <h4 class="card-title p-0 pr-2 pl-2 pb-0 text-center">${product.price}</h4>
+            <h4 class="card-title p-0 pr-2 pl-2 pb-3 text-center">${product.quantity}</h4>
+            <p class="text-justify">${product.description}</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary">Comprar ahora <span class="ml-3"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></button>
+          </div>
+        </div>
     `
     productsContainer.appendChild(newCard);
   })
 }
+
+
 
 
 

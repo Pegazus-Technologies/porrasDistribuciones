@@ -1167,7 +1167,65 @@ a:hover {
 }
 
 #productsContainer .productCard {
-  width: 300px;
+  width: 250px;
+  cursor: pointer;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+#productsContainer .productCard .imgContainer {
+  position: relative;
+}
+
+#productsContainer .productCard .imgContainer img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#productsContainer .productCard .imgContainer img:nth-child(2) {
+  position: absolute;
+  width: 100px;
+  left: 15px;
+}
+
+#productsContainer .productCard h5 {
+  font-size: .8rem;
+  font-weight: 900;
+  text-transform: capitalize;
+  text-transform: lowercase;
+}
+
+#productsContainer .productCard h5::first-letter {
+  text-transform: capitalize;
+}
+
+#productsContainer .productCard:hover {
+  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+          box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#productsContainer .productCard .productModal {
+  cursor: auto;
+}
+
+#productsContainer .productCard .productModal .modal-header {
+  background-color: #f5bc04;
+}
+
+#productsContainer .productCard .productModal .modal-header h4 {
+  text-transform: lowercase;
+}
+
+#productsContainer .productCard .productModal .modal-header h4:first-letter {
+  text-transform: capitalize;
+}
+
+#productsContainer .productCard .productModal .modal-body h4 {
+  text-transform: lowercase;
+}
+
+#productsContainer .productCard .productModal .modal-body h4:first-letter {
+  text-transform: capitalize;
 }
 
 @media only screen and (max-width: 972px) {
