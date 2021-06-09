@@ -23,6 +23,8 @@
     <!-- Modernizr JS -->
     <script src="js/modernizr-3.5.0.min.js"></script>
     <link rel="shortcut icon" href="images/Icono Distribuciones Porras La 18 (7).png">
+  
+
   </head>
   <body>
 
@@ -105,13 +107,13 @@
             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
             aria-label="Toggle navigation"><span class="fa fa-bars"></span></button>
           <a class="navbar-brand" href="#"><img src="images/logo.png" alt="img" class="mobile_logo_width" /></a>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <div class="collapse navbar-collapse cambiar" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item active">
                 <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="blog.html">Blog <span class="sr-only">(current)</span></a>
+                <a class="nav-link color" href="blog.html" >Blog <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="Nosotros.html">Nosotros <span class="sr-only">(current)</span></a>
@@ -177,11 +179,13 @@
     <!-- FIN OPCIONES DE MENU --> 
 
     <!-- CAMINO -->
-    <nav aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item active nav-link" aria-current="page">Inicio</li>
-      </ol>
-    </nav>
+    <div class="container">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item active" aria-current="page">Inicio</li>
+        </ol>
+      </nav>
+    </div>
     <!-- FIN CAMINO -->
 
     <!-- SUCURSALES -->
@@ -194,13 +198,13 @@
                   </div>
               </div>
               <div class="carousel-item carouselImageContainer">
-                <a href="precios_aseo.html" class="fh5co_heading fh5co_good_font_2"><img class="d-block w-100" src="images/banner_index2.jpg" alt="First slide" width="1000" height="450"></a>
+                <a href="productos-aseo.html" class="fh5co_heading fh5co_good_font_2"><img class="d-block w-100" src="images/banner_index2.jpg" alt="First slide" width="1000" height="450"></a>
                   <div class="carousel-caption d-none d-md-block">
                     
                   </div>
               </div>
               <div class="carousel-item carouselImageContainer">
-                <a href="precios_licores.html" class="fh5co_heading fh5co_good_font_2"><img class="d-block w-100" src="images/banner_index3.jpg" alt="First slide" width="1000" height="450"></a>
+                <a href="productos-licores.html" class="fh5co_heading fh5co_good_font_2"><img class="d-block w-100" src="images/banner_index3.jpg" alt="First slide" width="1000" height="450"></a>
                   <div class="carousel-caption d-none d-md-block">
                   </div>
               </div>
@@ -402,7 +406,7 @@
           </div>
           <div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
             <div>
-              <div class="titulo fh5co_heading_border_bottom pt-2 py-2 mb-4">Mas Popular</div>
+              <div class="fh5co_heading fh5co_heading_border_bottom pt-2 py-2 mb-4">Mas Popular</div>
             </div>
             <div class="row pb-3">
               <div class="col-5 align-self-center">
@@ -522,7 +526,7 @@
                 document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
               </script>
             </div>
-            <a href="#" class="footer_post pb-4"> Productos de limpieza y aseo personal </a>
+            <a href="#" class="footer_post pb-4"> Productos de limpieza y aseo personal al por mayor </a>
             <div class="footer_position_absolute"><img src="images/footer_sub_tipik.png" alt="img"
                 class="width_footer_sub_img" /></div>
           </div>
@@ -533,8 +537,8 @@
               <div class="input-group">
                 <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
                     class="fa fa-envelope"></i></span> -->
-                    <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-                    <button class="btn btn-warning font-weight-bold" onclick="generateCSV()"><i class="fa fa-fw fa-send"></i>Suscribete</button>
+                    <input type="text" id="correo" placeholder="Ingrese su correo..." >
+                    <button type="button" id="btnGuardar" onclick="generateCSV()" class="btn">Suscribete</button> 
               </div>
             </form>
           </div>

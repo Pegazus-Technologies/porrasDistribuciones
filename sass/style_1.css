@@ -1,17 +1,4 @@
 /* Scss Document */
-@font-face {
-  font-family: "PoppinsLight";
-  src: url("../css/fonts/Poppins-Light.ttf");
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-html body {
-  font-family: "PoppinsLight";
-}
-
 #slider {
   margin-top: 40px;
   margin-bottom: 20px;
@@ -109,10 +96,10 @@ a:hover {
   top: -10px;
 }
 
-.nav-link {
-  font-weight: 400;
-  font-size: 16px;
-  font-weight: 600;
+.fh5co_verticle_middle {
+  vertical-align: middle;
+  color: #997719;
+  display: table-cell;
 }
 
 .navbar-light .navbar-nav .open > .nav-link,
@@ -122,8 +109,8 @@ a:hover {
   color: #fff !important;
   padding-top: 12px !important;
   padding-bottom: 15px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
   margin: 0 20px !important;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
@@ -138,8 +125,8 @@ a:hover {
   color: #222 !important;
   padding-top: 12px !important;
   padding-bottom: 15px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
   margin: 0 20px !important;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
@@ -148,6 +135,8 @@ a:hover {
   -moz-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
   -ms-clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
   clip-path: polygon(100% 0, 100% 85%, 14% 85%, 0 100%, 0% 60%, 0 0);
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
@@ -155,8 +144,8 @@ a:hover {
   color: #fff !important;
   padding-top: 12px !important;
   padding-bottom: 15px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
   margin: 0 20px;
   position: relative;
 }
@@ -1088,7 +1077,7 @@ a:hover {
 }
 
 .topModal .modal-content .imgContainer {
-  height: 468px;
+  height: 400px;
 }
 
 .topModal .modal-content .imgContainer img {
@@ -1174,6 +1163,68 @@ a:hover {
   color: #000000;
 }
 
+#productsContainer .productCard {
+  width: 250px;
+  cursor: pointer;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+#productsContainer .productCard .imgContainer {
+  position: relative;
+}
+
+#productsContainer .productCard .imgContainer img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#productsContainer .productCard .imgContainer img:nth-child(2) {
+  position: absolute;
+  width: 100px;
+  left: 15px;
+}
+
+#productsContainer .productCard h5 {
+  font-size: .8rem;
+  font-weight: 900;
+  text-transform: capitalize;
+  text-transform: lowercase;
+}
+
+#productsContainer .productCard h5::first-letter {
+  text-transform: capitalize;
+}
+
+#productsContainer .productCard:hover {
+  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+          box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#productsContainer .productCard .productModal {
+  cursor: auto;
+}
+
+#productsContainer .productCard .productModal .modal-header {
+  background-color: #f5bc04;
+}
+
+#productsContainer .productCard .productModal .modal-header h4 {
+  text-transform: lowercase;
+}
+
+#productsContainer .productCard .productModal .modal-header h4:first-letter {
+  text-transform: capitalize;
+}
+
+#productsContainer .productCard .productModal .modal-body h4 {
+  text-transform: lowercase;
+}
+
+#productsContainer .productCard .productModal .modal-body h4:first-letter {
+  text-transform: capitalize;
+}
+
 @media only screen and (max-width: 972px) {
   .page-title {
     left: 50%;
@@ -1194,12 +1245,18 @@ a:hover {
   }
 }
 
-@media only screen and (max-width: 405px) {
+@media only screen and (max-width: 541px) {
   .page-title img {
     width: 40px !important;
   }
   .page-title h2 {
     font-size: 1.4rem !important;
+  }
+}
+
+@media only screen and (max-width: 545px) {
+  #productsContainer .productCard {
+    width: 100% !important;
   }
 }
 /*# sourceMappingURL=style_1.css.map */
