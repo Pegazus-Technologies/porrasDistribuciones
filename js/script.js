@@ -2,8 +2,7 @@ const topSlider = document.getElementById('slider');
 const single = document.getElementById('single');
 const footer = document.getElementById('footer');
 const productsContainer = document.getElementById('productsContainer');
-
-
+const priceListContainer = document.getElementById('priceListContainer');
 
 
 /*============================================================================================
@@ -148,7 +147,7 @@ async function handleSubmit(e){
   e.preventDefault();
   if(names.value.trim().length > 0 && email.value.trim().length > 0 && subject.value.trim().length > 0 && message.value.trim().length > 0){
     formAlert.innerHTML = `
-    <div class="rounded-0 d-flex justify-content-between align-items-center  alert-info alert id='sendingAlert' text-left alert-dismissible fade show" role="alert" id="sendingAlert">
+    <div class="rounded-0 mt-3 mb-0 d-flex justify-content-between align-items-center  alert-info alert id='sendingAlert' text-left alert-dismissible fade show" role="alert" id="sendingAlert">
     Enviando mensaje ........... <h5><i class="fa fa-paper-plane-o" aria-hidden="true"></i></h5>
     </div>
     `
@@ -164,14 +163,14 @@ async function handleSubmit(e){
       document.getElementById('sendingAlert').style.display='none';
        this.reset();
        formAlert.innerHTML = `
-       <div class="rounded-0 alert alert-info text-left alert-dismissible fade show" role="alert">
+       <div class="rounded-0 mt-3 mb-0 alert alert-info text-left alert-dismissible fade show" role="alert">
         <strong>!Su mensaje ha sido enviado!</strong> Lo contactaremos en breve.
        </div>
        `
     }
   }else{
     formAlert.innerHTML = `
-       <div class="alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
+       <div class="mt-3 mb-0 alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
         <strong>!todos los campos son obligatorios!</strong>
        </div>
     `
