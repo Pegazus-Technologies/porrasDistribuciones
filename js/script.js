@@ -541,9 +541,6 @@ const getProducts = () => {
     .then((allproducts)=>{
       allProducts(allproducts);
     })
-    .catch((error)=>{
-      alert(error);
-    });
 }
 
 getProducts();
@@ -577,7 +574,18 @@ const allProducts = (allproducts) => {
 
 //Images 500 *500 px
 
+
+//Images 500 *500 px
+
 const renderProducts = (products) => {
+
+  productsContainer.innerHTML = `
+  <div id="loading" class="w-100 text-center" style="height: 100vh !important">
+    <img src="../images/spinner.gif" >
+    <h3>Cargando</h3>
+  </div>
+  `;
+
   products.map((product)=>{
     const newCard = document.createElement('div');
     newCard.classList.add('card', 'productCard', 'mb-5')
@@ -620,7 +628,11 @@ const renderProducts = (products) => {
           </div>
         </div>
     `
-    productsContainer.appendChild(newCard);
+    setTimeout(()=>{
+      productsContainer.appendChild(newCard);
+      document.getElementById('loading').style.display = 'none';
+    },500)
+    
   })
 }
 
