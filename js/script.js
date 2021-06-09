@@ -105,9 +105,7 @@ const showAlert = (state, alertMessage) => {
             </button>
         </div>
         `
-
         topSlider.parentNode.insertBefore(alert, topSlider);
-
     }
 }
 
@@ -128,7 +126,7 @@ $(document).ready(function() {
 });
 
 /*============================================================================================
-    CONTACT FORMS
+    CONTACT FORMS validation 
 ==============================================================================================*/
 
 const formAlert = document.getElementById('formAlert');
@@ -167,6 +165,12 @@ async function handleSubmit(e){
         <strong>!Su mensaje ha sido enviado!</strong> Lo contactaremos en breve.
        </div>
        `
+    }else if(!response.ok){
+      formAlert.innerHTML = `
+       <div class="mt-3 mb-0 alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
+        <strong>!No se puede enviar el mensaje, prueBe contactarnos por WhatsApp!</strong>
+       </div>
+    `
     }
   }else{
     formAlert.innerHTML = `
@@ -515,6 +519,12 @@ for(link of modalLinks){
         top: offsetTop + 50,
         behavior: "smooth"
       });
+      if(actualHref.includes('/sucursales/bogota/Aseo.html')){
+        scroll({
+          top: offsetTop + 500,
+          behavior: "smooth"
+        });
+      }
     },400)
     
   })
@@ -622,8 +632,11 @@ const renderProducts = (products) => {
             <p class="text-justify">${product.description}</p>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <h2 class="btn pr-4 pl-4" style="background: #50c14e">
+              <a href="https://api.whatsapp.com/send?phone=573214308206" class="text-white" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+            <h2/>
             <button type="button" class="btn btn-primary">Comprar ahora <span class="ml-3"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></button>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
           </div>
         </div>
     `

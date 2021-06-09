@@ -44,9 +44,8 @@ form:focus-within {
   font-size: 20px;
 }
 
-.dropdown-menu{
-  font-weight: 400;
-  font-size: 15px;
+html body {
+  font-family: "PoppinsLight";
 }
 
 #slider {
@@ -144,6 +143,12 @@ a:hover {
   margin: 0 10px;
   position: relative;
   top: -10px;
+}
+
+.fh5co_verticle_middle {
+  vertical-align: middle;
+  color: #997719;
+  display: table-cell;
 }
 
 .navbar-light .navbar-nav .open > .nav-link,
@@ -298,6 +303,7 @@ a:hover {
 .fh5co_heading {
   font-size: 20px;
   color: #424040;
+  border-bottom: 1px solid #777;
 }
 
 .fh5co_heading_border_bottom {
