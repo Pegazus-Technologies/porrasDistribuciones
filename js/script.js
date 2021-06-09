@@ -515,6 +515,12 @@ for(link of modalLinks){
         top: offsetTop + 50,
         behavior: "smooth"
       });
+      if(actualHref.includes('/sucursales/bogota/Aseo.html')){
+        scroll({
+          top: offsetTop + 500,
+          behavior: "smooth"
+        });
+      }
     },400)
     
   })

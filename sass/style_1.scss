@@ -1,15 +1,15 @@
 /* Scss Document */
 
-// @font-face {
-//   // font-family: "PoppinsLight";
-//   // src: url('../css/fonts/Poppins-Light.ttf');
-// }
+@font-face {
+  font-family: "PoppinsLight";
+  src: url('../css/fonts/Poppins-Light.ttf');
+}
 
-// html {
-//   body{
-//     // font-family: "PoppinsLight";
-//   }
-// }
+html {
+  body{
+    font-family: "PoppinsLight";
+  }
+}
 
 
 $yellow: #f5bc04;
