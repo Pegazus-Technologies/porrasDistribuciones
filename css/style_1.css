@@ -1,47 +1,7 @@
 /* Scss Document */
-@font-face { 
+@font-face {
   font-family: "PoppinsLight";
   src: url("../css/fonts/Poppins-Light.ttf");
-} 
-
-html body {
-  font-family: "PoppinsLight";
-}
-
-form:focus-within {
-  background: #ff8;
-  color: black;
-}
-
-
-.fh5co_verticle_middle{
-  vertical-align:middle;
-  color: #997719;
-  display:table-cell;
-}
-
-.nombre{
-  color: #FDC403;
-  font-weight: 600;
-}
-
-.titulo{
-  font-size:30px;
-  font-weight: 300;
-  color:#fabc12;
-}
-
-.titulo >h1 {
-  font-size: 24px;
-  color: #FDC403;
-  font-weight: 700;
-}
-
-
-
-.nav-link{
-  font-weight: 400;
-  font-size: 20px;
 }
 
 html body {
@@ -151,6 +111,18 @@ a:hover {
   display: table-cell;
 }
 
+.nombre {
+  color: #997719 !important;
+  font-size: 20px;
+}
+
+.subtitulo {
+  font-size: 15px;
+  color: #997719 !important;
+  font-weight: 800;
+  text-align: justify;
+}
+
 .navbar-light .navbar-nav .open > .nav-link,
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.open,
@@ -188,7 +160,7 @@ a:hover {
   font-weight: 600;
 }
 
-.navbar-light .navbar-nav .nav-link:focus, .nav-link:active, .navbar-light .navbar-nav .nav-link:hover {
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
   background: #f5bc04 !important;
   color: #fff !important;
   padding-top: 12px !important;
@@ -198,7 +170,6 @@ a:hover {
   margin: 0 20px;
   position: relative;
 }
-
 
 .fh5co_padding_menu {
   padding: 20px 0;
@@ -222,6 +193,16 @@ a:hover {
 .fh5co_suceefh5co_height > img {
   height: 560px;
   width: 100%;
+}
+
+.fh5co_heading {
+  font-size: 25px;
+  color: #010202;
+  font-weight: 700;
+}
+
+.fh5co_heading > h1 {
+  color: #997719;
 }
 
 .paddding {
@@ -599,13 +580,13 @@ a:hover {
 }
 
 .most_fh5co_treding_font {
-  font-size: 14px;
+  font-size: 15px;
   color: #997719 !important;
   font-weight: 400;
 }
 
 .most_fh5co_treding_font_123 {
-  font-size: 12px;
+  font-size: 13px;
   color: #070403;
 }
 
@@ -835,12 +816,6 @@ a:hover {
   padding: 10px 15px;
   margin: 0 20px;
 }
-
-  .fh5co_heading {
-    font-size: 24px;
-    color: #FDC403;
-    font-weight: 700;
-  }
 
 .fh5co_contact_us_no_icon_div {
   height: 50px;
