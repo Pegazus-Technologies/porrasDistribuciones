@@ -1,15 +1,15 @@
 /* Scss Document */
 
-// @font-face {
-//   // font-family: "PoppinsLight";
-//   // src: url('../css/fonts/Poppins-Light.ttf');
-// }
+@font-face {
+  font-family: "PoppinsLight";
+  src: url('../css/fonts/Poppins-Light.ttf');
+}
 
-// html {
-//   body{
-//     // font-family: "PoppinsLight";
-//   }
-// }
+html {
+  body{
+    font-family: "PoppinsLight";
+  }
+}
 
 
 $yellow: #f5bc04;
@@ -138,6 +138,18 @@ a:hover {
   display:table-cell;
 }
 
+.nombre{
+  color: #997719 !important;
+  font-size: 20px;
+}
+
+.subtitulo {
+  font-size: 15px;
+  color: #997719 !important;
+  font-weight: 800;
+  text-align: justify;
+}
+
 .navbar-light .navbar-nav .open > .nav-link,
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.open,
@@ -195,6 +207,14 @@ a:hover {
 .fh5co_suceefh5co_height > img {
   height: 560px;
   width: 100%;
+}
+.fh5co_heading {
+  font-size: 25px;
+  color: #010202;
+  font-weight: 700;
+}
+.fh5co_heading > h1{
+  color: #997719;
 }
 .paddding {
   padding-left: 0 !important;
@@ -543,13 +563,13 @@ a:hover {
   color: #070403;
 }
 .most_fh5co_treding_font{
-  font-size: 14px;
+  font-size: 15px;
   color: #997719 !important;
   font-weight: 400;
 }
 
 .most_fh5co_treding_font_123 {
-  font-size: 12px;
+  font-size: 13px;
   color: #070403;
 }
 .btn_mange_pagging {
@@ -656,7 +676,7 @@ a:hover {
   left: -5px;
 }
 .footer_position_absolute > img {
-  width: 10px;
+  width: 15px;
 }
 
 .footer_img_post_6 {
@@ -745,11 +765,8 @@ a:hover {
   padding: 10px 15px;
   margin: 0 20px;
 }
-.fh5co_heading {
-  font-size: 24px;
-  color: #FDC403;
-  font-weight: 700;
-}
+
+
 .fh5co_contact_us_no_icon_div {
   height: 50px;
   width: 50px;
