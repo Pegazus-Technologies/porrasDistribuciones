@@ -1,5 +1,10 @@
-let lnkBlog = document.querySelector('#lnk_b');
-let lnkNos = document.querySelector('#lnk_n');
+navbar = document.querySelector(".navbar").querySelectorAll("a");
+console.log(navbar);
 
-lnkBlog.addEventListener('click', () => lnkBlog.style.backgroundColor = '##010202')
-lnkNos.addEventListener('click', () => lnkNos.style.backgroundColor = '##010202')
+navbar.forEach(element => {
+    element.addEventListener("click", function(){
+        navbar.forEach(nav=>nav.classList.remove("active"))
+
+        this.classList.add("active");
+    })  
+});

@@ -284,6 +284,7 @@ a:hover {
 .fh5co_heading {
   font-size: 20px;
   color: #424040;
+  border-bottom: 1px solid #777;
 }
 
 .fh5co_heading_border_bottom {
