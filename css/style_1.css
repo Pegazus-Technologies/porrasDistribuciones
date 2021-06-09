@@ -1,11 +1,51 @@
 /* Scss Document */
-@font-face {
-  font-family: "PoppinsLight";
-  src: url("../css/fonts/Poppins-Light.ttf");
+/* @font-face { */
+  /* font-family: "PoppinsLight";
+  src: url("../css/fonts/Poppins-Light.ttf"); */
+/* } */
+
+/* html body { */
+  /* font-family: "PoppinsLight"; */
+/* } */
+
+.fh5co_verticle_middle{
+  vertical-align:middle;
+  color: #997719;
+  display:table-cell;
 }
 
-html body {
-  font-family: "PoppinsLight";
+.nombre{
+  color: #FDC403;
+  font-weight: 600;
+}
+
+.titulo{
+  font-size:30px;
+  font-weight: 300;
+  color:#fabc12;
+}
+
+.titulo >h1 {
+  font-size: 24px;
+  color: #FDC403;
+  font-weight: 700;
+}
+
+.subtitulo {
+  font-size: 20px;
+  color: #997719 !important;
+  font-weight: 800;
+  text-align: justify;
+}
+
+.nav-link{
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.dropdown-menu{
+  font-weight: 400;
+  font-size: 15px;
 }
 
 #slider {
@@ -683,7 +723,7 @@ a:hover {
 }
 
 .footer_position_absolute > img {
-  width: 10px;
+  width: 12px;
 }
 
 .footer_img_post_6 {

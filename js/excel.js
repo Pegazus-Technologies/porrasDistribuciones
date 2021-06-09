@@ -1,4 +1,13 @@
-var emailList = [];
+document.querySelector('#btnGuardar').addEventListener('click', saveEmail);
+
+function saveEmail(){
+    var sEmail = document.querySelector('#correo').value;
+
+    addEmail(sEmail);
+}
+
+
+var emailList = ['0'];
 
 function addEmail(pemail){
     var newCorreo = {
@@ -8,9 +17,8 @@ function addEmail(pemail){
     emailList.push(newCorreo);
 }
 
-
 function generateCSV() {
-    var csv = emailList;
+    var csv = document.getElementById('#correo');
     emailList.forEach(function(row) {
         csv += row.join(',');
         csv += "\n";
@@ -22,3 +30,4 @@ function generateCSV() {
     hiddenElement.download = 'data.csv';
     hiddenElement.click();
 }
+

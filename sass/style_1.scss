@@ -1,15 +1,16 @@
 /* Scss Document */
 
-@font-face {
-  font-family: "PoppinsLight";
-  src: url('../css/fonts/Poppins-Light.ttf');
-}
+// @font-face {
+//   // font-family: "PoppinsLight";
+//   // src: url('../css/fonts/Poppins-Light.ttf');
+// }
 
-html {
-  body{
-    font-family: "PoppinsLight";
-  }
-}
+// html {
+//   body{
+//     // font-family: "PoppinsLight";
+//   }
+// }
+
 
 $yellow: #f5bc04;
 
@@ -130,6 +131,11 @@ a:hover {
   margin: 0 10px;
   position: relative;
   top: -10px;
+}
+.fh5co_verticle_middle{
+  vertical-align:middle;
+  color: #997719;
+  display:table-cell;
 }
 
 .navbar-light .navbar-nav .open > .nav-link,

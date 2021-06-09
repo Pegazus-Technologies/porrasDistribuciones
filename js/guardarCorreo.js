@@ -1,8 +1,9 @@
-document.querySelector('#btnGuardar').addEventListener('click', saveEmail);
+// document.querySelector('#btnGuardar').addEventListener('click', saveEmail);
 
-function saveEmail(){
-    var sEmail = document.querySelector('#correo').value;
+// function saveEmail(){
+//     var sEmail = document.querySelector('#correo').value;
 
-    addEmail(sEmail);
-}
+//     addEmail(sEmail);
+// }
+
 
