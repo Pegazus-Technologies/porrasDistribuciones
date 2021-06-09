@@ -105,9 +105,7 @@ const showAlert = (state, alertMessage) => {
             </button>
         </div>
         `
-
         topSlider.parentNode.insertBefore(alert, topSlider);
-
     }
 }
 
@@ -128,7 +126,7 @@ $(document).ready(function() {
 });
 
 /*============================================================================================
-    CONTACT FORMS
+    CONTACT FORMS validation 
 ==============================================================================================*/
 
 const formAlert = document.getElementById('formAlert');
@@ -167,6 +165,12 @@ async function handleSubmit(e){
         <strong>!Su mensaje ha sido enviado!</strong> Lo contactaremos en breve.
        </div>
        `
+    }else if(!response.ok){
+      formAlert.innerHTML = `
+       <div class="mt-3 mb-0 alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
+        <strong>!No se puede enviar el mensaje, prueBe contactarnos por WhatsApp!</strong>
+       </div>
+    `
     }
   }else{
     formAlert.innerHTML = `
