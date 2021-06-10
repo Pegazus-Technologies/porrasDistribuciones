@@ -1,6 +1,6 @@
 /* Scss Document */
 
-@font-face {
+@font-face { 
   font-family: "PoppinsLight";
   src: url('../css/fonts/Poppins-Light.ttf');
 }
@@ -148,6 +148,10 @@ a:hover {
   color: #997719 !important;
   font-weight: 800;
   text-align: justify;
+}
+
+.dropdown-item.active{
+  background-color: #FDC403;
 }
 
 .navbar-light .navbar-nav .open > .nav-link,

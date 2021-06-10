@@ -18,7 +18,6 @@
       integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="css/animate.css" rel="stylesheet" type="text/css" />
     <!-- <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"> -->
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" />
     <link href="css/owl.theme.default.css" rel="stylesheet" type="text/css" />
@@ -166,7 +165,7 @@
                   </div>
                 </li>
                 <li class="nav-item ">
-                  <a class="nav-link" href="../../Contact_us.html">Contactanos <span class="sr-only">(current)</span></a>
+                  <a class="nav-link active" href="../../Contact_us.html">Contactanos <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
@@ -196,11 +195,11 @@
           <li class="breadcrumb-item "><a href="sucursales/bogota/la12.html">La 12</a></li>
           <li class="breadcrumb-item "><a href="sucursales/bogota/Aseo.html">Aseo</a></li>
           <li class="breadcrumb-item "><a href="sucursales/bucaramanga/FloridaBlanca.html">Florida Blanca</a></li>
-          <li class="breadcrumb-item "><a href="sucursales/bucaramanga/Giron">Giron</a></li>
+          <li class="breadcrumb-item "><a href="sucursales/bucaramanga/Giron.html">Giron</a></li>
           <li class="breadcrumb-item "><a href="sucursales/bucaramanga/Laisla.html">La isla</a></li>
           <li class="breadcrumb-item "><a href="precios_generales.html">Mas popular</a></li>
           <li class="breadcrumb-item "><a href="productos-alimentos.html">Alimentos</a></li>
-          <li class="breadcrumb-item "><a href="productos-aseo.html">Aseo</a></li>
+          <li class="breadcrumb-item "><a href="productos-aseo.html">P. Aseo</a></li>
           <li class="breadcrumb-item "><a href="productos-bebidas.html">Geseosas y otras bebidas</a></li>
           <li class="breadcrumb-item "><a href="productos-cigarrillos.html">Cigarillos</a></li>
           <li class="breadcrumb-item "><a href="productos-cervezas.html">Cervezas</a></li>
@@ -373,8 +372,8 @@
             <div class="input-group">
               <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
                   class="fa fa-envelope"></i></span> -->
-              <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-              <button class="btn btn-warning font-weight-bold" onclick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button>
+                  <input type="email" name="" id="correo" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
+                  <button class="btn btn-warning font-weight-bold" type="button" id="btnGuardar" onclick="descargarExcel()"><i class="fa fa-fw fa-send"></i>Suscribete</button>  
             </div>
           </div>
         </div>
