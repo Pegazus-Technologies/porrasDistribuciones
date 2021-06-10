@@ -18,7 +18,6 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
         integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="../../css/animate.css" rel="stylesheet" type="text/css" />
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link href="../../css/owl.carousel.css" rel="stylesheet" type="text/css" />
     <link href="../../css/owl.theme.default.css" rel="stylesheet" type="text/css" />
@@ -128,13 +127,13 @@
                 <a class="nav-link" href="single.html">Single <span class="sr-only">(current)</span></a>
               </li> -->
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
+                <a class="nav-link dropdown-toggle active" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
                   aria-haspopup="true" aria-expanded="false">Sucursales <span class="sr-only">(current)</span></a>
                   <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
                     <a class="dropdown-item" href="../../sucursales/bogota/Soacha.html">Soacha</a>
                     <a class="dropdown-item" href="../../sucursales/bogota/Bosa.html">Bosa</a>
                     <a class="dropdown-item" href="../../sucursales/bogota/La 36.html">La 36</a>
-                    <a class="dropdown-item" href="../../sucursales/bogota/la12.html">La 12(centro)</a>
+                    <a class="dropdown-item active" href="../../sucursales/bogota/la12.html">La 12(centro)</a>
                     <a class="dropdown-item" href="../../sucursales/bogota/Aseo.html">Aseo</a>
                     <a class="dropdown-item" href="../../sucursales/bucaramanga/FloridaBlanca.html">Florida blanca</a>
                     <a class="dropdown-item" href="../../sucursales/bucaramanga/Giron.html">Giron</a>
@@ -360,8 +359,8 @@
             <div class="input-group">
               <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
                   class="fa fa-envelope"></i></span> -->
-              <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-              <button class="btn btn-warning font-weight-bold" onclick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button>
+                  <input type="email" name="" id="correo" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
+                  <button class="btn btn-warning font-weight-bold" type="button" id="btnGuardar" onclick="descargarExcel()"><i class="fa fa-fw fa-send"></i>Suscribete</button>  
             </div>
           </div>
         </div>
@@ -702,6 +701,7 @@
 
     <script src="../../js/responses.js"></script>
     <script src="../../js/chat.js"></script>
+    <script src="../../js/excel.js"></script>
     <script src="../../js/imageMapResizer.min.js"></script>
     <script src="../../js/script.js"></script>
     <script>if (!navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) { $(window).stellar(); }</script>

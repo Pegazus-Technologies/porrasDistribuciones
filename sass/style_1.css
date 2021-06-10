@@ -123,6 +123,10 @@ a:hover {
   text-align: justify;
 }
 
+.dropdown-item.active {
+  background-color: #FDC403;
+}
+
 .navbar-light .navbar-nav .open > .nav-link,
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.open,

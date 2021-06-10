@@ -18,7 +18,6 @@
         integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="../../css/animate.css" rel="stylesheet" type="text/css" />
     <!-- <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet"> -->
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link href="../../css/owl.carousel.css" rel="stylesheet" type="text/css" />
     <link href="../../css/owl.theme.default.css" rel="stylesheet" type="text/css" />
@@ -122,7 +121,7 @@
                 <a class="nav-link" href="../../blog.html">Blog <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="../../Nosotros.html">Nosotros <span class="sr-only">(current)</span></a>
+                <a class="nav-link active" href="../../Nosotros.html">Nosotros <span class="sr-only">(current)</span></a>
               </li>
               <!-- <li class="nav-item ">
                 <a class="nav-link" href="single.html">Single <span class="sr-only">(current)</span></a>
@@ -196,7 +195,7 @@
     </div>
     <!-- FIN CAMINO -->
 
-    <!-- <div id="fh5co-title-box" style="background-image: url(../../images/La36.jpeg); background-position: 50% 90.5px;"
+        <!-- <div id="fh5co-title-box" style="background-image: url(../../images/La36.jpeg); background-position: 50% 90.5px;"
         data-stellar-background-ratio="0.5"> -->
         <div id="fh5co-title-box">    
           <img src="images/adam-wilson-6UIonphZA5o-unsplash.jpg" alt="sucursal la 36" border="0" usemap="#Map" class="w-100 mmainBanner h-70 imf-fluid">
@@ -211,7 +210,7 @@
               <img src="https://i.ibb.co/0q4mCp4/Icono-Distribuciones-Porras-La-18-3.png" alt="Free HTML5 by FreeHTMl5.co">
               <div class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4"><h1 class="font-weight-bold text-uppercase">Sobre Nosostros</h1></div>
           </div>
-      </div>
+       </div>
 
     
 
@@ -480,8 +479,8 @@
               <div class="input-group">
                 <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
                     class="fa fa-envelope"></i></span> -->
-                    <!-- <input id="dtDato" type="text" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-                    <button class="btn btn-warning font-weight-bold" onclick="exportTableToExcel('dtDato')"><i class="fa fa-fw fa-send"></i>Suscribete</button> -->
+                    <input type="email" name="" id="correo" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
+                    <button class="btn btn-warning font-weight-bold" type="button" id="btnGuardar" onclick="descargarExcel()"><i class="fa fa-fw fa-send"></i>Suscribete</button>  
               </div>
             </form>
           </div>
@@ -584,6 +583,7 @@
     <script src="js/responses.js"></script>
     <script src="js/chat.js"></script>
     <script src="js/color.js"></script>
+    <script src="js/excel.js"></script>
 
   </body>
 
