@@ -285,24 +285,26 @@
               <div class="container-fluid mb-4">
                 <div class="container paddding">
                   <div class="col-12 col-md-6  ">
-                    <h1 class="fh5co_heading text-left py-2 mb-12">Contactenos</h1>
+                    <h1 class="col-12 fh5co_heading fh5co_heading_border_bottom py-2 mb-3">Contactanos</h1>
                   </div>
                   <div class="row">
                     <div class="col-12 col-md-6">
-                      <form class="row" id="fh5co_contact_form" action="https://formspree.io/f/mbjqoedg" method="POST">
+                      <form class="row" id="fh5co_contact_form"  action="https://formspree.io/f/mbjqoedg" method="POST">
                         <div class="col-12 py-3">
-                          <input d="name" name="names" type="text" class="form-control fh5co_contact_text_box" placeholder="Nombres y apellidos" required />
+                          <input autocomplete="off" id="name" name="names" type="text" class="form-control fh5co_contact_text_box" placeholder="Nombres y apellidos"/>
                         </div>
                         <div class="col-6 py-3">
-                          <input d="email" name="email" type="text" class="form-control fh5co_contact_text_box" placeholder="Correo"required />
+                          <input autocomplete="off" id="email" name="email" type="email" class="form-control fh5co_contact_text_box" placeholder="Correo" />
                         </div>
                         <div class="col-6 py-3">
-                          <input id="subject" name="subject" type="text" class="form-control fh5co_contact_text_box" placeholder="Asunto" required/>
+                          <input autocomplete="off" id="subject" name="subject" type="text" class="form-control fh5co_contact_text_box" placeholder="Asunto" />
                         </div>
                         <div class="col-12 py-3">
-                          <textarea id="message" name="message" class="form-control fh5co_contacts_message" placeholder="Mensaje" required></textarea>
+                          <textarea id="message" name="message" class="form-control fh5co_contacts_message" placeholder="Mensaje"></textarea>
                         </div>
-                        <div class="col-12 py-3 text-center"> <input type="submit"  value="Enviar mensaje" class="btn contact_btn">
+                        <div class="col-12 pt-2 text-center">
+                          <button id="send" type="submit" class="btn contact_btn w-10">Enviar mensaje</button>
+                          <div id="formAlert"></div>
                         </div>
                       </form>
                     </div>
@@ -579,6 +581,7 @@
     <script src="js/jquery.waypoints.min.js"></script>
     <!-- Main -->
     <script src="js/main.js"></script>
+    <script src="js/script.js"></script>
     
     <script src="js/responses.js"></script>
     <script src="js/chat.js"></script>

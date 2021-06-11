@@ -1,46 +1,34 @@
-document.querySelector('#btnGuardar').addEventListener('click', saveEmail);
+var guardar = document.getElementById("btnGuardar");
+guardar.addEventListener("click", saveEmail);
 
-function saveEmail(){
-    var sEmail = document.querySelector('#correo').value;
+var mostrar = document.getElementById("btnMostrar");
+mostrar.addEventListener("click", seeEmail);
 
-    addEmail(sEmail);
+var dato = document.getElementById("correo")
+
+guardarArray = []
+var saveEmail = () => {
+    datoCorreo = dato.value
+    guardarArray.push(datoCorreo)
+    console.log(guardarArray.length)
+}
+
+var seeEmail = () => {
+    var csv = guardarArray;
+    for (var i = 0; i < guardarArray.length; i++){
+        csv + "\n";
+    }
+
+    var hiddenElement = document.createElement('a');
+    hiddenElement.href = 'data:text/csv;charset=utf-8,' + encodeURI(csv);
+    hiddenElement.target = '_blank';
+    hiddenElement.download = 'data.csv';
+    hiddenElement.click();
 }
 
 
-var emailList = [];
-
-
-function addEmail(pemail){
-    var newCorreo = {
-     email : pemail
-    };
-    console.log(newCorreo);
-    emailList.push(newCorreo);
-}
-
-function descargarExcel() {
-    var tmpElemento = document.createElement('a');
-    var data_type = 'data:application/vnd.ms-excel';
-    var newCorreo = document.getElementById('correo');
-    var elemento = (newCorreo.value)
-    tmpElemento.href = data_type + ', ' + elemento;
-    tmpElemento.download = 'correo.xls';
-    tmpElemento.click();
-}
-descargarExcel();
-
-
-// function generateCSV() {
-//     var csv = document.getElementById('#correo');
-//     newCorreo.forEach(function(row) {
-//         csv += row.join(',');
-//         csv += "\n";
-//     });
-
-//     var hiddenElement = document.createElement('a');
-//     hiddenElement.href = 'data:text/csv;charset=utf-8,' + encodeURI(csv);
-//     hiddenElement.target = '_blank';
-//     hiddenElement.download = 'data.csv';
-//     hiddenElement.click();
-// }
-
+/*var seeEmail = () => {
+    for (var i = 0; i < guardarArray.length; i++) {
+        console.log(guardarArray[i])
+    }
+}*/

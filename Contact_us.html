@@ -220,7 +220,7 @@
                 <div class="fh5co_contact_us_no_icon_div"> <span><i class="fa fa-phone"></i></span> </div>
               </div>
               <div class="col-9 align-self-center fh5co_contact_us_no_icon_difh5co_hover_2">
-                <span class="c_g d-block text_info">Comunicate con nosotros</span>
+                <span class="c_g subtitulo d-block text_info">Comunicate con nosotros</span>
                 <span class="d-block c_g fh5co_contact_us_no_text"><strong><a href="tel:+573108306999">310-830-6999</a>
                 </strong>
               </div>
@@ -234,7 +234,7 @@
                 </div>
               </div>
               <div class="col-9 align-self-center fh5co_contact_us_no_icon_difh5co_hover_2">
-                <span class="c_g d-block text_info">Tienes alguna pregunta?</span>
+                <span class="c_g subtitulo d-block text_info">Tienes alguna pregunta?</span>
                 <span class="d-block c_g fh5co_contact_us_no_text"> <strong>distribucionesporrasla18@gmail.com
                 </strong></span>
               </div>
@@ -248,7 +248,7 @@
                 </div>
               </div>
               <div class="col-9 align-self-center fh5co_contact_us_no_icon_difh5co_hover_2">
-                <span class="c_g d-block text_info">Dirección</span>
+                <span class="c_g subtitulo d-block text_info">Dirección</span>
                 <span class="d-block c_g fh5co_contact_us_no_text text-justify"> <strong>Calle 12 # 17-24, Sucursal Principal, Bogota, Bogotá D.C CO</strong></span>
               </div>
               <div class="clearfix"></div>
@@ -268,20 +268,22 @@
         </div>
         <div class="row">
           <div class="col-12 col-md-6">
-            <form action="enviar.php" method="post" class="form_contct row" id="fh5co_contact_form">
+            <form class="row" id="fh5co_contact_form"  action="https://formspree.io/f/mbjqoedg" method="POST">
               <div class="col-12 py-3">
-                <input type="text" class="form-control fh5co_contact_text_box" placeholder="Nombres y apellidos" required />
+                <input autocomplete="off" id="name" name="names" type="text" class="form-control fh5co_contact_text_box" placeholder="Nombres y apellidos" />
               </div>
               <div class="col-6 py-3">
-                <input type="text" class="form-control fh5co_contact_text_box" placeholder="Correo"required />
+                <input autocomplete="off" id="email" name="email" type="email" class="form-control fh5co_contact_text_box" placeholder="Correo" />
               </div>
               <div class="col-6 py-3">
-                <input type="text" class="form-control fh5co_contact_text_box" placeholder="asunto" required />
+                <input autocomplete="off" id="subject" name="subject" type="text" class="form-control fh5co_contact_text_box" placeholder="Asunto" />
               </div>
               <div class="col-12 py-3">
-                <textarea class="form-control fh5co_contacts_message" placeholder="mensaje" required></textarea>
+                <textarea id="message" name="message" class="form-control fh5co_contacts_message" placeholder="Mensaje"></textarea>
               </div>
-              <div class="col-12 py-3 text-center"> <input type="submit"  value="Enviar mensaje" class="btn contact_btn">
+              <div class="col-12 py-3 text-center"> 
+                <button id="send" type="submit" class="btn contact_btn w-10">Enviar mensaje</button>
+                <div id="formAlert"></div>
               </div>
             </form>
           </div>
@@ -475,6 +477,7 @@
     <!-- Main -->
     <script src="js/excel.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/script.js"></script>
 
     
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
