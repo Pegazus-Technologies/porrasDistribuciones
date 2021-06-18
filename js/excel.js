@@ -16,7 +16,7 @@ var saveEmail = () => {
 var seeEmail = () => {
     var csv = guardarArray;
     for (var i = 0; i < guardarArray.length; i++){
-        csv + "\n";
+        csv + '\n';
     }
 
     var hiddenElement = document.createElement('a');

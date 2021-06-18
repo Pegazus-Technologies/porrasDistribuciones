@@ -280,17 +280,28 @@
           </div>
         </div>
         <div class="row justify-content-center pt-2 pb-4">
-          <div class="col-12 col-md-8 col-lg-7 ">
-            <form name="correos">
-              <div class="input-group">
-                <!-- <span class="input-group-addon fh5co_footer_text_box" id="basic-addon1"><i
-                    class="fa fa-envelope"></i></span> -->
-                    <input type="email" name="" id="correo" class="form-control py-22 font-bold"  placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-                    <button class="btn btn-warning font-weight-bold" type="button" id="btnGuardar" onclick="descargarExcel()"><i class="fa fa-fw fa-send"></i>Suscribete</button>  
-              </div>
+          <div class="col-12 col-md-8 col-lg-7 text-center ">
+            <form action="https://sheetdb.io/api/v1/07utqautotklg" method="POST" id="sheetdb-form">
+                <input name="data[correo]" class="form-control w-100" placeholder="Ingrese su correo"><br>
+                <button type="submit" class="btn btn-warning"><i class="fa fa-fw fa-send"></i>Susribete</button>
             </form>
+
+            <script>
+              var form = document.getElementById('sheetdb-form');
+              form.addEventListener("submit", e => {
+                e.preventDefault();
+                fetch(form.action, {
+                  method : "POST",
+                  body: new FormData(document.getElementById("sheetdb-form")),
+                }).then(
+                  response => response.json()
+                ).then((html) => {
+                  // alert('success')
+                });
+              });
+            </script>
           </div>
-        </div> 
+        </div>
       
       </div>
     </div>
@@ -360,8 +371,6 @@
     <script src="../../js/main.js"></script>
 
     <script src="../../js/responses.js"></script>
-    <script src="../../js/chat.js"></script>
-    <script src="js/excel.js"></script>
     <script src="../../js/imageMapResizer.min.js"></script>
     <script src="../../js/script.js"></script>
     <script>if (!navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) { $(window).stellar(); }</script>

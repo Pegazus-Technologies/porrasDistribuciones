@@ -530,16 +530,26 @@
           </div>
         </div>
         <div class="row justify-content-center pt-2 pb-4">
-          <div class="col-12 col-md-8 col-lg-7 ">
-            <form name="correos">
-              <div class="input-group">
-                <input type="email" name="" id="correo" class="form-control py-22 font-bold"
-                placeholder="Ingrese su correo..." />&nbsp;&nbsp;
-                <button class="btn btn-warning font-weight-bold" type="button" id="btnGuardar"
-                onclick="saveEmail()"><i class="fa fa-fw fa-send"></i>Suscribete</button>&nbsp;&nbsp;
-                <!-- <button class="btn btn-leads" type="button" onclick="seeEmail()" id="btnMostrar">Descargar leads</button>  -->
-              </div>
+          <div class="col-12 col-md-8 col-lg-7 text-center ">
+            <form action="https://sheetdb.io/api/v1/07utqautotklg" method="POST" id="sheetdb-form">
+                <input name="data[correo]" class="form-control w-100" placeholder="Ingrese su correo"><br>
+                <button type="submit" class="btn btn-warning"><i class="fa fa-fw fa-send"></i>Susribete</button>
             </form>
+
+            <script>
+              var form = document.getElementById('sheetdb-form');
+              form.addEventListener("submit", e => {
+                e.preventDefault();
+                fetch(form.action, {
+                  method : "POST",
+                  body: new FormData(document.getElementById("sheetdb-form")),
+                }).then(
+                  response => response.json()
+                ).then((html) => {
+                  // alert('success')
+                });
+              });
+            </script>
           </div>
         </div> 
       
@@ -604,14 +614,12 @@
     <!-- Waypoints -->
     <script src="js/jquery.waypoints.min.js"></script>
     <!-- Main -->
-    <script src="js/excel.js"></script>
     <script src="js/main.js"></script>
     <script src="js/camino.js"></script>
 
     
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
     <script src="js/responses.js"></script>
-    <script src="js/chat.js"></script>
     <script src="js/color.js"></script>
   
   </body>
