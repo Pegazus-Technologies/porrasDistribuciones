@@ -1255,6 +1255,29 @@ a:hover {
   text-transform: capitalize;
 }
 
+#whatsappButton {
+  background-color: #25d366;
+  position: fixed;
+  font-size: 30px;
+  width: 50px;
+  height: 50px;
+  z-index: 1000;
+  bottom: 0;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  border-radius: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #ffffff;
+}
+
 @media only screen and (max-width: 972px) {
   .page-title {
     left: 50%;

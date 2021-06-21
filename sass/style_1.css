@@ -1251,6 +1251,7 @@ a:hover {
   text-transform: lowercase;
 }
 
+
 #productsContainer .productCard .productModal .modal-body h4:first-letter {
   text-transform: capitalize;
 }
