@@ -1306,6 +1306,9 @@ a:hover {
   .page-title h2 {
     font-size: 1.4rem !important;
   }
+  #pricesList #accordion .card h4 {
+    font-size: .9rem;
+  }
 }
 
 @media only screen and (max-width: 545px) {
