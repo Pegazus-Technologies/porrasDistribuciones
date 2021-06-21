@@ -11,7 +11,6 @@ html {
   }
 }
 
-
 $yellow: #f5bc04;
 
 @mixin border-radius($radius) {
@@ -52,11 +51,14 @@ $yellow: #f5bc04;
   margin-bottom: 20px;
 }
 
+
 a,
 a:hover {
   color: $yellow;
   text-decoration: none;
 }
+
+
 .fh5co_header_bg {
   background: #222;
   color: #fff;
@@ -919,6 +921,7 @@ a:hover {
   //z-index: 999;
   opacity: 0;
   visibility: hidden;
+  display: none;
   @include transition(0.5s);
   &.active {
     opacity: 1;
@@ -1175,6 +1178,23 @@ a:hover {
   }
 }
 
+#whatsappButton {
+  background-color: #25d366;
+  position: fixed;
+  font-size: 42px;
+  width: 60px;
+  height: 60px;
+  z-index: 1000;
+  bottom: 0;
+  margin-left: 25px;
+  margin-bottom: 21px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
 @media only screen and (max-width: 972px){
   .page-title {
     left: 50%;
@@ -1199,6 +1219,7 @@ a:hover {
   }
 }
 
+
 @media only screen and (max-width: 541px){
   .page-title {
     img {
@@ -1209,6 +1230,18 @@ a:hover {
       font-size: 1.4rem !important;
     }
   }
+
+  //Price list for eadquarter list
+#pricesList {
+  #accordion {
+    .card {
+      h4 {
+        font-size: .9rem;
+      }
+    }
+   
+  }
+}
 }
 
 @media only screen and (max-width: 545px){

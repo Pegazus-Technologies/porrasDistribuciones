@@ -985,6 +985,7 @@ a:hover {
   right: 20px;
   opacity: 0;
   visibility: hidden;
+  display: none;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
@@ -1255,6 +1256,29 @@ a:hover {
   text-transform: capitalize;
 }
 
+#whatsappButton {
+  background-color: #25d366;
+  position: fixed;
+  font-size: 42px;
+  width: 60px;
+  height: 60px;
+  z-index: 1000;
+  bottom: 0;
+  margin-left: 25px;
+  margin-bottom: 21px;
+  border-radius: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #ffffff;
+}
+
 @media only screen and (max-width: 972px) {
   .page-title {
     left: 50%;
@@ -1281,6 +1305,9 @@ a:hover {
   }
   .page-title h2 {
     font-size: 1.4rem !important;
+  }
+  #pricesList #accordion .card h4 {
+    font-size: .9rem;
   }
 }
 
