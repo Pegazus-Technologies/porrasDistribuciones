@@ -921,6 +921,7 @@ a:hover {
   //z-index: 999;
   opacity: 0;
   visibility: hidden;
+  display: none;
   @include transition(0.5s);
   &.active {
     opacity: 1;
