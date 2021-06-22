@@ -625,7 +625,11 @@ const renderProducts = (products) => {
           <div class="modal-body">
             <div class="imgContainer" >
               <img class="card-img-top img-fluid" src=${product.image} alt="Card image cap">
-              <img src='../images/qr.png'>
+              <div class="col-12 d-flex justify-content-center mb-3">
+                <div class="col-6">
+                  <img class="img-fluid" src='../images/qr.png'>
+                </div>
+              </div>
             </div>
             <h4 class="card-title p-0 pr-2 pl-2 pb-0 text-center">${product.price}</h4>
             <h4 class="card-title p-0 pr-2 pl-2 pb-3 text-center">${product.quantity}</h4>
@@ -638,7 +642,7 @@ const renderProducts = (products) => {
             <h2 class="btn pr-5 pl-5" style="background: #50c14e">
               <a href="https://api.whatsapp.com/send?phone=573214308206" class="text-white" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
             <h2/>
-            <button type="button" class="btn btn-primary">Comprar ahora <span class="ml-3"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></button>
+            <a type="button" href='https://checkout.wompi.co/l/VPOS_KxOlu5' target='_blank' class="btn btn-primary text-white">Comprar ahora <span class="ml-3"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a>
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
           </div>
         </div>
