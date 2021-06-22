@@ -1122,6 +1122,10 @@ a:hover {
   color: #ffffff;
 }
 
+.width_footer_sub_img{
+  height: 179px;
+}
+
 .signUpContainer {
   height: 100vh !important;
 }
