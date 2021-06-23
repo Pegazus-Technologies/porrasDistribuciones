@@ -953,11 +953,13 @@ a:hover {
 }
 
 #fh5co-title-box {
-  width: 38.2%;
-  z-index: 555;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+  height: 65vh;
+  img.bkimg{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+
 
   .single & {
     position: relative;
@@ -978,6 +980,10 @@ a:hover {
     position: absolute;
     bottom: 0;
     padding: 30px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
 
     .single & {
       width: 100%;
@@ -1003,7 +1009,8 @@ a:hover {
   .page-title {
     img {
       margin-bottom: 30px;
-      width: 80px;
+      // width: 80px;
+      // height: 80px;
       @include border-radius(50%);
     }
   }
@@ -1200,9 +1207,9 @@ a:hover {
     top: 50%;
     transform: translate(-50%, -50%);
 
-    img {
-      width: 50px !important;
-    }
+    // img {
+    //   width: 50px !important;
+    // }
 
     h2 {
       font-size: 2rem !important;
@@ -1221,9 +1228,6 @@ a:hover {
 
 @media only screen and (max-width: 541px){
   .page-title {
-    img {
-      width: 40px !important;
-    }
 
     h2 {
       font-size: 1.4rem !important;
