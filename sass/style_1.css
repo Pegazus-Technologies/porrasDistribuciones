@@ -111,6 +111,99 @@ a:hover {
   display: table-cell;
 }
 
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slick-slide img {
+  width: 100%;
+}
+
+.slick-list {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.slick-list:focus {
+  outline: none;
+}
+
+.slick-list.dragging {
+  cursor: pointer;
+  cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list {
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+.slick-track {
+  position: relative;
+  top: 0;
+  left: 0;
+  display: block;
+}
+
+.slick-track::before,
+.slick-track:after {
+  display: table;
+  content: '';
+}
+
+.slick-track:after {
+  clear: both;
+}
+
+.slick-loading .slick-track {
+  visibility: hidden;
+}
+
+.slick-slide {
+  display: none;
+  float: left;
+  height: 100px;
+  min-height: 1px;
+}
+
+[dir='rtl'] .slick-slide {
+  float: right;
+}
+
+.slick-slide img {
+  display: block;
+}
+
+.slick-slide.slick-loading img {
+  display: none;
+}
+
+.slick-slide.dragging img {
+  pointer-events: none;
+}
+
+.slick-initialized .slick-slide {
+  display: block;
+}
+
+.slick-loading .slick-slide {
+  visibility: hidden;
+}
+
+.slick-vertical .slick-slide {
+  display: block;
+  height: auto;
+  border: 1px solid transparent;
+}
+
+.slick-arrow.slick-hidden {
+  display: none;
+}
+
 .nombre {
   color: #997719 !important;
   font-size: 20px;
@@ -1021,11 +1114,14 @@ a:hover {
 }
 
 #fh5co-title-box {
-  width: 38.2%;
-  z-index: 555;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+  height: 65vh;
+}
+
+#fh5co-title-box img.bkimg {
+  height: 100%;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .single #fh5co-title-box {
@@ -1048,6 +1144,10 @@ a:hover {
   position: absolute;
   bottom: 0;
   padding: 30px;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
 }
 
 .single #fh5co-title-box .page-title {
@@ -1076,7 +1176,6 @@ a:hover {
 
 #fh5co-title-box .page-title img {
   margin-bottom: 30px;
-  width: 80px;
   border-radius: 50%;
 }
 
@@ -1120,10 +1219,6 @@ a:hover {
 .topModal .modal-content .modal-footer button {
   background-color: #000000;
   color: #ffffff;
-}
-
-.width_footer_sub_img{
-  height: 179px;
 }
 
 .signUpContainer {
@@ -1215,8 +1310,7 @@ a:hover {
 }
 
 #productsContainer .productCard .imgContainer img:nth-child(2) {
-  position: absolute;
-  width: 100px;
+  width: 150px;
   left: 15px;
 }
 
@@ -1290,9 +1384,6 @@ a:hover {
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
   }
-  .page-title img {
-    width: 50px !important;
-  }
   .page-title h2 {
     font-size: 2rem !important;
   }
@@ -1304,9 +1395,6 @@ a:hover {
 }
 
 @media only screen and (max-width: 541px) {
-  .page-title img {
-    width: 40px !important;
-  }
   .page-title h2 {
     font-size: 1.4rem !important;
   }
