@@ -3821,7 +3821,7 @@
           "quantity": "UNIDADES            ",
           "price": " $ 8,000 ",
           "category": "FOOD",
-          "description": "Aceite de girasol marca premier x 1L",
+          "description": "Aceite de girasol marca Premier x 1L",
           "image": "../images/aceitePremier1L.png"
       },
       {
@@ -3830,7 +3830,7 @@
           "quantity": "UNIDAD              ",
           "price": " $ 16,000 ",
           "category": "FOOD",
-          "description": "Aceite de girasol marca premier x 2L.",
+          "description": "Aceite de girasol marca Premier x 2L.",
           "image": "../images/aceitePremier2L.png"
       },
       {
@@ -3839,7 +3839,7 @@
           "quantity": "UNIDAD              ",
           "price": " $ 22,000 ",
           "category": "FOOD",
-          "description": "Aceite de girasol marca premier x 3L.",
+          "description": "Aceite de girasol marca Premier x 3L.",
           "image": "../images/aceitePremier3L.png"
       },
       {
@@ -3848,8 +3848,8 @@
           "quantity": "UNIDAD              ",
           "price": " $ 25,000 ",
           "category": "FOOD",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Aceite de girasol marca Premier x 3L. + 500",
+          "image": "../images/aceitePremier3500.png"
       },
       {
           "id": "7005",
@@ -3857,52 +3857,52 @@
           "quantity": "UNIDAD              ",
           "price": " $ 35,000 ",
           "category": "FOOD",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Aceite de girasol marca Premier x 5L. + 500",
+          "image": "../images/aceitePremier5L.png"
       },
       {
           "id": "7006",
-          "name": "ACT.GOURMET 1L                                              ",
-          "quantity": "UNIDAD              ",
+          "name": "ACT.GOURMET 1L",
+          "quantity": "UNIDAD",
           "price": " $ 12,000 ",
           "category": "FOOD",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Aceite de cocina marca Gourmet x 1L.",
+          "image": "../images/aceiteGourmet1L.png"
       },
       {
           "id": "7007",
-          "name": "ACT.GOURMET 2L                                              ",
-          "quantity": "UNIDAD              ",
+          "name": "ACT.GOURMET 2L",
+          "quantity": "UNIDAD",
           "price": " $ 21,000 ",
           "category": "FOOD",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Aceite de cocina marca Gourmet x 2L.",
+          "image": "../images/aceiteGourmet2L.png"
       },
       {
           "id": "7008",
-          "name": "ACT.GOURMET 3L                                              ",
-          "quantity": "UNIDAD              ",
+          "name": "ACT.GOURMET 3L",
+          "quantity": "UNIDAD",
           "price": " $ 28,000 ",
           "category": "FOOD",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Aceite de cocina marca Gourmet x 3L.",
+          "image": "../images/aceiteGourmet3L.png"
       },
       {
           "id": "7009",
-          "name": "ACT.GOURMET 5L                                              ",
-          "quantity": "UNIDAD              ",
+          "name": "ACT.GOURMET 5L",
+          "quantity": "UNIDAD",
           "price": " $ 47,000 ",
           "category": "FOOD",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Aceite de cocina marca Gourmet x 5L.",
+          "image": "../images/aceiteGourmet5L.png"
       },
       {
           "id": "8001",
-          "name": "AROMATEL UND                                                ",
-          "quantity": "UNIDADES            ",
+          "name": "AROMATEL UND",
+          "quantity": "UNIDADES",
           "price": " $ 9,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Suavisante Aromatel x unidad",
           "image": "../images/aromatel.jpg"
       },
       {
@@ -3911,26 +3911,26 @@
           "quantity": "CAJA                ",
           "price": " $ 57,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Suavisante Aromatel x caja",
           "image": "../images/aromatelCaja.png"
       },
       {
-          "id": "8002-1              ",
-          "name": "AROMATEL PACHA                                              ",
-          "quantity": "PACHA X 2           ",
+          "id": "8002-1",
+          "name": "AROMATEL PACHA",
+          "quantity": "PACHA X 2",
           "price": " $ 19,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "image": "../images/aromatelPachaPor2.png"
       },
       {
           "id": "8003",
-          "name": "AXION 450 X 2 PACHA                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "AXION 450 X 2 PACHA",
+          "quantity": "UNIDADES",
           "price": " $ 6,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa.",
+          "image": "../images/accionPacha450Por2.png"
       },
       {
           "id": "8004",
@@ -3938,8 +3938,8 @@
           "quantity": "CAJA                ",
           "price": " $ 72,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa",
+          "image": "../images/accionPacha450Por2.png"
       },
       {
           "id": "8005",
@@ -3947,44 +3947,44 @@
           "quantity": "UNIDADES            ",
           "price": " $ 9,700 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa.",
+          "image": "../images/accionPacha450Por3.png"
       },
       {
           "id": "8006",
-          "name": "AXION 450 X 3 CAJA                                          ",
-          "quantity": "CAJA                ",
+          "name": "AXION 450 X 3 CAJA",
+          "quantity": "CAJA",
           "price": " $ 72,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa",
+          "image": "../images/accionPacha450Por3.png"
       },
       {
           "id": "8007",
-          "name": "AXION 450 X 6 PACHA                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "AXION 450 X 6 PACHA",
+          "quantity": "UNIDADES",
           "price": " $ 21,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa",
+          "image": "../images/accionPacha450Por6.png"
       },
       {
           "id": "8008",
-          "name": "AXION 450 X 6 CAJA                                          ",
-          "quantity": "CAJA                ",
+          "name": "AXION 450 X 6 CAJA",
+          "quantity": "CAJA",
           "price": " $ 72,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa",
+          "image": "../images/accionPacha450Por6.png"
       },
       {
           "id": "8009",
-          "name": "AXION 850 X 2 PACHA                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "AXION 850 X 2 PACHA",
+          "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa",
+          "image": "../images/accionPacha850por2.png"
       },
       {
           "id": "8010",
@@ -3992,17 +3992,17 @@
           "quantity": "CAJA                ",
           "price": " $ 72,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa",
+          "image": "../images/accionPacha850por2.png"
       },
       {
           "id": "8011",
-          "name": "AXION LIQ. 1.5                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "AXION LIQ. 1.5",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Axión es el producto líder en el mercado. Su efectividad y eficacia arranca la grasa más pegada y los malos olores fácilmente, mientras deja en tus platos un agradable aroma a limón, 100% efectivo contra la grasa",
+          "image": "../images/accionLiquido1.5L.png"
       },
       {
           "id": "8012",
@@ -4010,8 +4010,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 9,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Dermatológicamente comprobado, con extracto de aloe vera, agente antibacterial que elimina el 99,9% de las bacterias glicerina que ayuda a proteger tus manos repuestos para todas las presentaciones.",
+          "image": "../images/accionPacha850por2.png"
       },
       {
           "id": "8013",
@@ -4019,8 +4019,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Dermatológicamente comprobado, con extracto de aloe vera, agente antibacterial que elimina el 99,9% de las bacterias glicerina que ayuda a proteger tus manos repuestos para todas las presentaciones.",
+          "image": "../images/blancoxLozaCream1.5L.png"
       },
       {
           "id": "8014",
@@ -4028,8 +4028,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 6,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Dermatológicamente comprobado, con extracto de aloe vera, agente antibacterial que elimina el 99,9% de las bacterias glicerina que ayuda a proteger tus manos repuestos para todas las presentaciones.",
+          "image": "../images/blancoxLozaCream1.1Kg.png"
       },
       {
           "id": "8015",
@@ -4037,26 +4037,26 @@
           "quantity": "UNIDADES            ",
           "price": " $ 21,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ambientador Bon Aire varitas x 2",
+          "image": "../images/bonairevaritasPor2.png"
       },
       {
           "id": "8016",
-          "name": "CLOROX 3.8                                                  ",
-          "quantity": "UNIDADES            ",
+          "name": "CLOROX 3.8",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Elimina Gérmenes y Bacterias en baños y cocina Remueve manchas Elimina el 99.9% de los gérmenes Apto para potabilizar agua",
+          "image": "../images/clorox3.8.png"
       },
       {
           "id": "8017",
           "name": "DET. ARIEL 1.2 LIQ                                          ",
-          "quantity": "UNIDADES            ",
+          "quantity": "UNIDADES",
           "price": " $ 9,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente Ariel liquido x 1.2L",
+          "image": "../images/ariel1.2LLiquido.png"
       },
       {
           "id": "8018",
@@ -4064,8 +4064,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente en polvo Ariel x 2 Kg, remueve manchas difíciles y de sudor, poder de limpieza, espuma suave, sin fosfato, para ropa blanca y de color.",
+          "image": "../images/detergenteArielpolvo2Kg.png"
       },
       {
           "id": "8019",
@@ -4073,8 +4073,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 18,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente Ariel liquido x 1.2L",
+          "image": "../images/arielLiquido2L.png"
       },
       {
           "id": "8020",
@@ -4082,31 +4082,31 @@
           "quantity": "UNIDADES            ",
           "price": " $ 21,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente en polvo Ariel x 5 Kg, remueve manchas difíciles y de sudor, poder de limpieza, espuma suave, sin fosfato, para ropa blanca y de color.",
+          "image": "../images/ariel5KgPolvo.png"
       },
       {
           "id": "8021",
-          "name": "DET. ARIEL DOWNY 4K                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. ARIEL DOWNY 4K",
+          "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente en polvo Ariel con toque de downy 4k",
+          "image": "../images/arielPolvoDowny4K.png"
       },
       {
           "id": "8022",
-          "name": "DET. ARIEL VERD.4K                                          ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. ARIEL VERD.4K",
+          "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente en polvo Ariel x 4 Kg, remueve manchas difíciles y de sudor, poder de limpieza, espuma suave, sin fosfato, para ropa blanca y de color.",
+          "image": "../images/detergenteArielVerde4k.png"
       },
       {
           "id": "8023",
-          "name": "DET. ARIEL 4L                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. ARIEL 4L",
+          "quantity": "UNIDADES",
           "price": " $ 32,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
