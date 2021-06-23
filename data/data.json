@@ -4177,8 +4177,8 @@
       },
       {
           "id": "8031",
-          "name": "DET. FAB 6K                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. FAB 6K",
+          "quantity": "UNIDADES",
           "price": " $ 24,000 ",
           "category": "CLEANING",
           "description": "Detergente Fab en polvo para lavado de ropa x 6 Kg.",
@@ -4187,20 +4187,20 @@
       {
           "id": "8032",
           "name": "DET. LAVOMATIC 1.8                                          ",
-          "quantity": "UNIDADES            ",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente líquido Lavomatic x 1.8 L",
+          "image": "../images/detergenteLavomatic1.8L.png"
       },
       {
           "id": "8033",
-          "name": "DET. OH LALA                                                ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. OH LALA",
+          "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente Líquido Oh lala",
+          "image": "../images/detergenteOhLala.png"
       },
       {
           "id": "8034",
@@ -4208,8 +4208,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 15,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente en polvo para lavar ropa blanca y de color. Su nueva fórmula esta especialmente diseñada para remover percudido de tu ropa y dejarla con un delicioso aroma.",
+          "image": "../images/detergenteRindexPolvo4k.png"
       },
       {
           "id": "8035",
@@ -4217,8 +4217,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Por su PH Balanceado es ideal para el cuidado de ropa interior, seda, algodón, corbatas, camisas y más!! Dejando en tus prendas el inigualable aroma de siempre!!",
+          "image": "../images/deteregenteLiquidoVelRosita1.8.png"
       },
       {
           "id": "8036",
@@ -4226,17 +4226,17 @@
           "quantity": "UNIDADES            ",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Fabuloso es un limpiador multiusos que gracias a su exclusiva fórmula Antibacterial Anti-Germ, elimina el 99.9% de las bacterias que pueden causar malos olores*, teniendo siempre como resultado una limpieza profunda con un duradero y agradable aroma",
+          "image": "../images/fabuloso5L.png"
       },
       {
           "id": "8037",
-          "name": "GLADE ACEITE +APARATO                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "GLADE ACEITE +APARATO",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crea el ambiente perfecto en cada habitación de tu hogar! Conecta el aparato de Glade Aceites Naturales, coloca tu repuesto en el aparato y gira la parte superior para ajustar la intensidad",
+          "image": "../images/gladeAceite.png"
       },
       {
           "id": "8038",
@@ -4244,31 +4244,31 @@
           "quantity": "UNIDADES            ",
           "price": " $ 15,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crea el ambiente perfecto en cada habitación de tu hogar! Conecta el aparato de Glade Aceites Naturales, coloca tu repuesto en el aparato y gira la parte superior para ajustar la intensidad",
+          "image": "../images/gladeAceite.jpgPor2.png"
       },
       {
           "id": "8039",
-          "name": "GLADE AEROSOL                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "GLADE AEROSOL",
+          "quantity": "UNIDADES",
           "price": " $ 6,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Glade Aerosol ayuda a mantener un baño acogedor al despertar el aire con fragancia. Diseñado para combatir los olores fuertes, cada descarga refresca al instante, para que sepas que tu espacio siempre es atractivo. Úsalo a diario o como toque final después de la rutina de limpieza. Elige un aroma que combine con tu hogar y que tenga la frescura perfecta a tu alcance.",
+          "image": "../images/gladeSpry.png"
       },
       {
           "id": "8040",
-          "name": "GLADE AUTOMATICO                                            ",
-          "quantity": "UNIDADES            ",
+          "name": "GLADE AUTOMATICO",
+          "quantity": "UNIDADES",
           "price": " $ 21,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "¿Qué te parece tener una cosa menos de qué preocuparte? Glade® Automático ofrece la confianza de que tu baño tenga una frescura que no desaparecerá. La fragancia liberada en el tiempo de forma automática crea un ambiente que tiene más frescura y menos preocupación. Cuando necesites una descarga controlada de fragancia, solo usa el botón de descarga para que la frescura perdure, pero los olores no.",
+          "image": "../images/gladeAutomático.png"
       },
       {
           "id": "8041",
-          "name": "GLADE REPUESTO AUTOMATICO                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "GLADE REPUESTO AUTOMATICO",
+          "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
