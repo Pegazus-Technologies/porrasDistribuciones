@@ -4109,8 +4109,8 @@
           "quantity": "UNIDADES",
           "price": " $ 32,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente Ariel liquido x 4L",
+          "image": "../images/arielLLiquido4L.png"
       },
       {
           "id": "8024",
@@ -4118,8 +4118,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente líquido Coco Varela x 1.8 L",
+          "image": "../images/detergenteCocoLiquido1.8.png"
       },
       {
           "id": "8025",
@@ -4127,8 +4127,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 32,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente líquido Coco Varela x 5 L",
+          "image": "../images/detergenteCocoLiquido5L.png"
       },
       {
           "id": "8026",
@@ -4136,44 +4136,44 @@
           "quantity": "UNIDADES            ",
           "price": " $ 21,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente líquido elaborado con agua, tensoactivos aniónicos, tensoactivos no iónicos, ayudantes de lavado, perfume y abrillantador óptico, Duracion de hasta 50 lavadas, Alta eficiencia, Para todo tipo de ropa,",
+          "image": "../images/detergenteDersa4L.png"
       },
       {
           "id": "8027",
-          "name": "DET. DERSA 5K                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. DERSA 5K",
+          "quantity": "UNIDADES",
           "price": " $ 20,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón o detergente Dersa para uso industrial o lavado de ropa. x 5 Kg",
+          "image": "../images/deteregenteDersaPolvo5kg.png"
       },
       {
           "id": "8028",
-          "name": "DET. DERSA 6K +REY                                          ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. DERSA 6K +REY",
+          "quantity": "UNIDADES",
           "price": " $ 23,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón o detergente Dersa para uso industrial o lavado de ropa. x 6 Kg + Jabón rey",
+          "image": "../images/detergenteDersa6KgRey.png"
       },
       {
           "id": "8029",
-          "name": "DET. FAB 1.8 L                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. FAB 1.8 L",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente Fab líquido x 1.8 L",
+          "image": "../images/detergenteFab1.8L.png"
       },
       {
           "id": "8030",
-          "name": "DET. FAB 4K                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. FAB 4K",
+          "quantity": "UNIDADES",
           "price": " $ 17,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente Fab en polvo para lavado de ropa x 4 Kg.",
+          "image": "../images/detergenteFabPolvo4k.png"
       },
       {
           "id": "8031",
@@ -4181,8 +4181,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 24,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente Fab en polvo para lavado de ropa x 6 Kg.",
+          "image": "../images/deteregenteFabPolvo6kg.png"
       },
       {
           "id": "8032",
