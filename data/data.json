@@ -4280,8 +4280,8 @@
           "quantity": "UNIDADES            ",
           "price": " $ 8,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Glade Toque proporciona la garantía de un refuerzo de frescura instantáneo siempre que lo necesites. Simplemente presiona para activar la niebla suave y delicada y llenar rápidamente tu baño con fragancia. Su tamaño discreto y su fórmula concentrada ayudan a garantizar que tu baño sea siempre acogedor, lo que te brinda confianza que está a solo un toque.",
+          "image": "../images/gladeToke.png"
       },
       {
           "id": "8043",
@@ -4303,84 +4303,84 @@
       },
       {
           "id": "8045",
-          "name": "JAB.REY*25                                                  ",
-          "quantity": "UNIDADES            ",
+          "name": "JAB.REY*25",
+          "quantity": "UNIDADES",
           "price": " $ 34,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabon rey en barra caja por 25 unidades especial para el lavado de tu ropa",
+          "image": "../images/jabonReyPor25.png"
       },
       {
           "id": "8046",
-          "name": "LIMP.AJAX BICARBONATO                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "LIMP.AJAX BICARBONATO",
+          "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Limpiador Ajax bicarbonato",
+          "image": "../images/limpiadorAjaxBicarbonato.png"
       },
       {
           "id": "8047",
-          "name": "PH.FMLIA*12                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "PH.FMLIA*12",
+          "quantity": "UNIDADES",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Papel Higiénico Familia X 12 rollos",
+          "image": "../images/phFamiliaPor12.png"
       },
       {
           "id": "8048",
-          "name": "PH.SUAVEG*12                                                ",
-          "quantity": "UNIDADES            ",
+          "name": "PH.SUAVEG*12",
+          "quantity": "UNIDADES",
           "price": " $ 17,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Papel Higiénico Suave X 12 rollos",
+          "image": "../images/phSusavePor12.png"
       },
       {
           "id": "8049",
-          "name": "RAID ELECTR+REPUESTO ZANCU                                  ",
-          "quantity": "UNIDADES            ",
+          "name": "RAID ELECTR+REPUESTO ZANCU",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Raid líquido eléctrico unidad eléctrica te protege contra los mosquitos por hasta 45 noches sin necesidad de cambiar el repuesto cada día. Es fácil de usar gracias a su enchufe giratorio y su luz indicadora de funcionamiento. Es a su vez el sistema más higiénico ya que evita el contacto con el insecticida.",
+          "image": "../images/raidRepuesto.png"
       },
       {
           "id": "8050",
-          "name": "RAID MAX DORADO*360 CC                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "RAID MAX DORADO*360 CC",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Insecticida Raid Max mata cucarachas y chiripas 360 CC",
+          "image": "../images/raidMaxDorado.png"
       },
       {
           "id": "8051",
-          "name": "RAID PULGAS                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "RAID PULGAS",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Insecticida Raid Max mata pulgas",
+          "image": "../images/raidMataPulgas.png"
       },
       {
           "id": "8052",
-          "name": "RAID X 3 AZUL PQÑO                                          ",
-          "quantity": "UNIDADES            ",
+          "name": "RAID X 3 AZUL PQÑO",
+          "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Insecticida Raid Max mata moscas",
+          "image": "../images/raidAzul.png"
       },
       {
           "id": "8053",
-          "name": "RAID360 AZUL ZANCUDO                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "RAID360 AZUL ZANCUDO",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Insecticida Raid azul mata moscas y zancudos",
+          "image": "../images/raid360Azul.png"
       },
       {
           "id": "8054",
@@ -4397,187 +4397,187 @@
           "quantity": "UNIDADES            ",
           "price": " $ 5,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Repuesto ambientador eléctrico bonaire.",
+          "image": "../images/ambientadorBonaireElectrico.png"
       },
       {
           "id": "8056",
-          "name": "SALVO LIQ 1.2                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "SALVO LIQ 1.2",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Lavaplatos líquido salvo limón 1.2 lts",
+          "image": "../images/salvoLiquido1.2.png"
       },
       {
           "id": "8057",
-          "name": "SANPIC 3L                                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "SANPIC 3L",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Sanpic es un limpiador multiusos que perfuma todo el día y elimina el 99,9% de bacterias. contiene perfumes aromaterapéuticos que transforman tus ambientes, tu estado de ánimo y combinan la limpieza con un placentero perfume que llena tu hogar con memorias de confort y calidez.",
+          "image": "../images/sanpic3L.png"
       },
       {
           "id": "8058",
-          "name": "SUAVITEL 1.5                                                ",
-          "quantity": "UNIDADES            ",
+          "name": "SUAVITEL 1.5 ",
+          "quantity": "UNIDADES",
           "price": " $ 6,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Suavizante Suavitel X 1.5 L",
+          "image": "../images/suavitel1.5L.png"
       },
       {
           "id": "8059",
-          "name": "SUAVITEL 3 LT PACHA                                         ",
-          "quantity": "PACHA X 2           ",
+          "name": "SUAVITEL 3 LT PACHA",
+          "quantity": "PACHA X 2",
           "price": " $ 20,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Suavizante Suavitel pacha x 2 x 3 L C/U",
+          "image": "../images/suavitelPachaPor2.png"
       },
       {
           "id": "8060",
-          "name": "SUAVITEL 3 LT CAJA                                          ",
-          "quantity": "CAJA                ",
+          "name": "SUAVITEL 3 LT CAJA",
+          "quantity": "CAJA",
           "price": " $ 40,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Suavitel caja x 3 L",
+          "image": "../images/suavitelPachaPor2.png"
       },
       {
           "id": "8061",
-          "name": "TOALLA COCINA SCOTT                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "TOALLA COCINA SCOTT",
+          "quantity": "UNIDADES",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Toallas de Cocina Scott",
+          "image": "../images/toallasScott.png"
       },
       {
           "id": "8062",
-          "name": "VANISH POLVO 900 GR                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "VANISH POLVO 900 GR",
+          "quantity": "UNIDADES",
           "price": " $ 20,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Remueve 100 manchas en la primera lavada.Vanish es un desmanchador seguro debido a que no contiene cloro. Además peserva los colores y no decolora las prendas mientras elimina las manchas. Se puede usar en remojo, pre-lavado y la lavadora. Es apropiado para ropa blanca de color y todo tipo de tela. Remueve efectivamente manchas que el detergente por si solo no. Gracias a su fórmula a base de oxigeno activo, Vanish reacciona con el agua produciendo una acción efervescente que penetra las fibras, levantando y eliminado las manchas orgánicas",
+          "image": "../images/vanishPolvo900gr.png"
       },
       {
           "id": "8063",
-          "name": "WOOLITE 2LT                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "WOOLITE 2LT",
+          "quantity": "UNIDADES",
           "price": " $ 18,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente Líquido WOOLITE frasco 2L",
+          "image": "../images/woolite2L.png"
       },
       {
           "id": "8064",
-          "name": "BON AIRE VARITA 40 ML                                       ",
-          "quantity": "UNIDAD              ",
+          "name": "BON AIRE VARITA 40 ML",
+          "quantity": "UNIDAD",
           "price": " $ 5,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bonaire Varitas de 40 ml marca Bonaire.",
+          "image": "../images/bonaireVaritas.png"
       },
       {
           "id": "8065",
-          "name": "GLADE*4                                                     ",
-          "quantity": "UNIDAD              ",
+          "name": "GLADE*4",
+          "quantity": "UNIDAD",
           "price": " $ 20,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ambientador Glade x 4 unidades",
+          "image": "../images/gladePor4.png"
       },
       {
           "id": "8066",
-          "name": "BRIZZE AEROSOL                                              ",
-          "quantity": "UNIDAD              ",
+          "name": "BRIZZE AEROSOL",
+          "quantity": "UNIDAD",
           "price": " $ 7,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ambientador Brizze en aerosol",
+          "image": "../images/ambientadorBrizze.png"
       },
       {
           "id": "8067",
-          "name": "BRIZZE VARITAS X 60 ML                                      ",
-          "quantity": "UNIDAD              ",
+          "name": "BRIZZE VARITAS X 60 ML",
+          "quantity": "UNIDAD",
           "price": " $ 12,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ambientador Brizze varitas",
+          "image": "../images/brizzeVaritas.png"
       },
       {
           "id": "8068",
-          "name": "DESENGRASANTE ASTRAL                                        ",
-          "quantity": "UNIDAD              ",
+          "name": "DESENGRASANTE ASTRAL",
+          "quantity": "UNIDAD",
           "price": " $ 6,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Limpiador desengrasante astral",
+          "image": "../images/desengrasanteAstral.png"
       },
       {
           "id": "8069",
-          "name": "VANISH GALON 3.8 + 900                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "VANISH GALON 3.8 + 900",
+          "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Vanisg líquido galón 3.8 L + 900",
+          "image": "../images/vanish3.8+900.png"
       },
       {
-          "id": "8069-1              ",
-          "name": "SUAVITEL 3 LT UND                                           ",
-          "quantity": "UNIDAD              ",
+          "id": "8069-1",
+          "name": "SUAVITEL 3 LT UND",
+          "quantity": "UNIDAD",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Protege las fibras de la ropa reduciendo el desgaste, mantiene los colores de la ropa más vivos por más tiempo garantiza una mayor y más agradable sensación de suavidad en las prendasFacilita el proceso de planchado",
+          "image": "../images/suavitel3L.png"
       },
       {
           "id": "8070",
-          "name": "PH. FAMILIA X12 EMP INDIVIDUAL                              ",
-          "quantity": "PACA                ",
+          "name": "PH. FAMILIA X12 EMP INDIVIDUAL",
+          "quantity": "PACA",
           "price": " $ 16,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Papel higiénico Familia x 12 unidades empaue individual",
+          "image": "../images/familiPor12.png"
       },
       {
           "id": "8071",
-          "name": "ALCOHOL ANTISEPT PACA                                       ",
-          "quantity": "PACA                ",
+          "name": "ALCOHOL ANTISEPT PACA",
+          "quantity": "PACA",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Alcohol antiséptico paca.",
+          "image": "../images/alcohol.png"
       },
       {
           "id": "8072",
-          "name": "ALCOHOL ANTISEPT UND                                        ",
-          "quantity": "UNIDAD              ",
+          "name": "ALCOHOL ANTISEPT UND",
+          "quantity": "UNIDAD",
           "price": " $ 2,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Alcohol antiséptico paca.",
+          "image": "../images/alcohol.png"
       },
       {
           "id": "9001",
-          "name": "ACOND. PANTENE 400ML                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "ACOND. PANTENE 400ML",
+          "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Pantene con su fórmula multivitaminas nutre tu cabello desde la raíz para que crezca largo y fuerte hasta las puntas.",
+          "image": "../images/acondicionadorPantene.png"
       },
       {
           "id": "9002",
-          "name": "BLOQUEADOR SUNDOWN KIDS                                     ",
-          "quantity": "UNIDADES            ",
+          "name": "BLOQUEADOR SUNDOWN KIDS",
+          "quantity": "UNIDADES",
           "price": " $ 26,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Protector Solar Sundown kids",
+          "image": "../images/bloqueadorSowndownKids.png"
       },
       {
           "id": "9003",
@@ -4585,26 +4585,26 @@
           "quantity": "UNIDADES            ",
           "price": " $ 19,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Dientes más blancos? El cepillo Colgate Luminous White está especialmente diseñado para blanquear los dientes. Posee copas blanqueadoras y cerdas que pulen los dientes. Este pack de 5 unidades está desarrollado para toda la familia.",
+          "image": "../images/colgateLuminousPorCinco.png"
       },
       {
           "id": "9004",
-          "name": "CEPILLO PRO 1000                                            ",
-          "quantity": "UNIDADES            ",
+          "name": "CEPILLO PRO 1000",
+          "quantity": "UNIDADES",
           "price": " $ 8,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cepillo dental Pro 1000",
+          "image": "../images/cepilloPro1000.png"
       },
       {
           "id": "9005",
-          "name": "CEPILLOS PRO 900                                            ",
-          "quantity": "UNIDADES            ",
+          "name": "CEPILLOS PRO 900",
+          "quantity": "UNIDADES",
           "price": " $ 8,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cepillo dental Pro 900",
+          "image": "../images/cepilloPro900.png"
       },
       {
           "id": "9006",
