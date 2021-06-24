@@ -4711,8 +4711,8 @@
           "quantity": "UNIDADES",
           "price": " $ 16,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Total anti sarro x 3",
+          "image": "../images/colgateTotalAntiSarro.png"
       },
       {
           "id": "9017",
@@ -4720,88 +4720,88 @@
           "quantity": "UNIDADES",
           "price": " $ 10,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Colgate triple acción 100",
+          "image": "../images/colgateTripleaccionPor100.png"
       },
       {
           "id": "9018",
-          "name": "COLG.TRIPLE 100*3 CAJA                                      ",
-          "quantity": "CAJA                ",
+          "name": "COLG.TRIPLE 100*3 CAJA",
+          "quantity": "CAJA",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Colgate triple acción 100 Caja",
+          "image": "../images/colgateTripleaccionPor100.png"
       },
       {
           "id": "9019",
-          "name": "CREM.PEINAR SEDAL                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "CREM.PEINAR SEDAL",
+          "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cabello más fuerte* y con brillo que deslumbra, mayor resistencia debido al quiebre con el uso del Shampoo y Acondicionador Sedal Ceramidas comparado con shampoo sin agentes acondicionadores.",
+          "image": "../images/cremaParaPeinarSedal.png"
       },
       {
           "id": "9020",
-          "name": "CREMA DOVE 1L                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "CREMA DOVE 1L",
+          "quantity": "UNIDADES",
           "price": " $ 22,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema para peinar Dove",
+          "image": "../images/cremaParaPeinarDove.png"
       },
       {
           "id": "9021",
-          "name": "CREMA PANTENE RIZOS                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "CREMA PANTENE RIZOS",
+          "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema para Peinar Rizos Definidos Pantene",
+          "image": "../images/cremaPanteneRisos.png"
       },
       {
           "id": "9022",
-          "name": "CREMA PEINAR HYS COCO                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "CREMA PEINAR HYS COCO",
+          "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema para peinar coco Head & Shoulders",
+          "image": "../images/cremaParaPeinarhead&shoulders.jpg"
       },
       {
           "id": "9023",
-          "name": "CREMA YODORAX2                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "CREMA YODORAX2",
+          "quantity": "UNIDADES",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante en crema yodora x 2",
+          "image": "../images/desodoranteYodoraPorDos.png"
       },
       {
           "id": "9024",
-          "name": "DES. DEOPIES                                                ",
-          "quantity": "UNIDADES            ",
+          "name": "DES. DEOPIES",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Deo Pies antibacterials",
+          "image": "../images/desodoranteDeoPies.png"
       },
       {
           "id": "9025",
-          "name": "DESOD. ARDEN FORMEN SPRAY                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. ARDEN FORMEN SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 7,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Arden For Men spray",
+          "image": "../images/desodoranteArdenFormenSpray.png"
       },
       {
           "id": "9026",
-          "name": "DESOD. AXE SPRAY                                            ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. AXE SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 9,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante AXE en spray",
+          "image": "../images/desodoranteAxeSpray.png"
       },
       {
           "id": "9027",
