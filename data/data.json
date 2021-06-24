@@ -4608,107 +4608,107 @@
       },
       {
           "id": "9006",
-          "name": "CERA EGO                                                    ",
-          "quantity": "UNIDADES            ",
+          "name": "CERA EGO",
+          "quantity": "UNIDADES",
           "price": " $ 7,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cera para peinar ego look definido frasco",
+          "image": "../images/ceraEgo.png"
       },
       {
           "id": "9007",
-          "name": "COLG T. ACC.150*3                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG T. ACC.150*3",
+          "quantity": "UNIDADES",
           "price": " $ 17,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Triple Acción * 3",
+          "image": "../images/colgateTripleAccion150.png"
       },
       {
           "id": "9008",
-          "name": "COLG T. ACC.150*3 CAJA                                      ",
-          "quantity": "CAJA                ",
+          "name": "COLG T. ACC.150*3 CAJA",
+          "quantity": "CAJA",
           "price": " $ 372,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Triple Acción * 3 caja",
+          "image": "../images/colgateTripleAccion150.png"
       },
       {
           "id": "9009",
-          "name": "COLG. SENSITIVE 90GR                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG. SENSITIVE 90GR",
+          "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Sensitive x 900 gr",
+          "image": "../images/colgateSensitive.png"
       },
       {
           "id": "9010",
-          "name": "COLG. TOTAL*75+ CEPILLO                                     ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG. TOTAL*75+ CEPILLO",
+          "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Total x 75 + cepillo dental.",
+          "image": "../images/colgateTotal+cepillo.png"
       },
       {
           "id": "9011",
-          "name": "COLG.LUMINOWH*3  X 125 CC                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG.LUMINOWH*3  X 125 CC",
+          "quantity": "UNIDADES",
           "price": " $ 26,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental blanqueadora Colgate Luminous White x 3 125 cc",
+          "image": "../images/colgateLuminousWhite.png"
       },
       {
           "id": "9012",
-          "name": "COLG.LUMINOWH 125 CC UNIDAD                                 ",
-          "quantity": "UNIDAD              ",
-          "price": " $ 9,000 ",
+          "name": "COLG.LUMINOWH 125 CC UNIDAD",
+          "quantity": "UNIDAD",
+          "price": " $ 9,000",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental blanqueadora Colgate Luminous White x 125 cc",
+          "image": "../images/colgateLuminousWhite123.png"
       },
       {
           "id": "9013",
-          "name": "COLG.T. ACC. 150GR                                          ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG.T. ACC. 150GR",
+          "quantity": "UNIDADES",
           "price": " $ 6,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Triple Acción 150 gr",
+          "image": "../images/colgateTripleAccion150.png"
       },
       {
-          "id": "9013-1              ",
-          "name": "COLG.T. ACC.150GR CAJA                                      ",
-          "quantity": "CAJA X 72           ",
+          "id": "9013-1 ",
+          "name": "COLG.T. ACC.150GR CAJA",
+          "quantity": "CAJA X 72",
           "price": " $ 432,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Triple Acción caja x 72 150 gr c/u",
+          "image": "../images/colgateTripleAccion150.png"
       },
       {
           "id": "9014",
-          "name": "COLG.T. ACCION 125*3                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG.T. ACCION 125*3",
+          "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Triple Acción 125gr  x 3",
+          "image": "../images/colgateTripleAccion150.png"
       },
       {
           "id": "9015",
-          "name": "COLG.T. ACCION 125*3 CAJA                                   ",
-          "quantity": "CAJA                ",
+          "name": "COLG.T. ACCION 125*3 CAJA",
+          "quantity": "CAJA",
           "price": " $ 300,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate Triple Acción 125gr caja x 3",
+          "image": "../images/colgateTripleAccion150.png"
       },
       {
           "id": "9016",
-          "name": "COLG.TOTAL ANTI*3                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG.TOTAL ANTI*3",
+          "quantity": "UNIDADES",
           "price": " $ 16,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -4716,8 +4716,8 @@
       },
       {
           "id": "9017",
-          "name": "COLG.TRIPLE 100*3                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG.TRIPLE 100*3",
+          "quantity": "UNIDADES",
           "price": " $ 10,500 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
