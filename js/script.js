@@ -121,9 +121,11 @@ buildingSlide(actualHref, null, aseoUrl, aseoMessage);
 
 
 //Mapping images when resizing
-$(document).ready(function() {
-    $('map').imageMapResize();
-});
+
+
+// $(document).ready(function() {
+//     $('map').imageMapResize();
+// });
 
 /*============================================================================================
     CONTACT FORMS validation 
@@ -488,6 +490,8 @@ const showProducts = (productsByheadquarter) => {
       </div>
     </div>
     `
+
+    
 
     footer.parentNode.insertBefore(pricesContainer, footer);
     

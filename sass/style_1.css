@@ -13,6 +13,47 @@ html body {
   margin-bottom: 20px;
 }
 
+.promo-container {
+  margin-top: 30px;
+}
+
+.promo-container .promo {
+  width: 250px;
+  height: 70%;
+  background: #fff;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.promo-container .promo .image img {
+  height: 290px;
+  width: 270px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.promo-container .promo .content {
+  padding: 0 20px;
+}
+
+.promo-container .promo .content {
+  font-weight: 600;
+  font-size: 22px;
+  color: #333;
+  text-transform: capitalize;
+}
+
+.promo-container .promo:hover {
+  text-decoration: underline;
+}
+
+.container-button a {
+  display: inline-block;
+  text-align: center;
+  width: 220px;
+  height: 40px;
+}
+
 a,
 a:hover {
   color: #f5bc04;
@@ -62,7 +103,7 @@ a:hover {
 }
 
 .fh5co_logo_width {
-  width: 130px;
+  width: 105px;
 }
 
 .fh5co_mediya_right {
@@ -211,7 +252,7 @@ a:hover {
 
 .subtitulo {
   font-size: 15px;
-  color: #997719 !important;
+  color: #FDC403 !important;
   font-weight: 800;
   text-align: justify;
 }
@@ -293,7 +334,7 @@ a:hover {
 }
 
 .fh5co_heading {
-  font-size: 25px;
+  font-size: 600;
   color: #010202;
   font-weight: 700;
 }
@@ -496,7 +537,7 @@ a:hover {
 }
 
 .fh5co_news_img {
-  height: 200px;
+  height: 250px;
   border-radius: 5px;
   overflow: hidden;
   position: relative;
@@ -509,7 +550,7 @@ a:hover {
 }
 
 .fh5co_news_img > img {
-  height: 260px;
+  height: 350px;
   min-width: 100%;
 }
 
@@ -728,7 +769,7 @@ a:hover {
 }
 
 .footer_logo {
-  width: 140px;
+  width: 105px;
 }
 
 .footer_main_title {
