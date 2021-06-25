@@ -4805,413 +4805,413 @@
       },
       {
           "id": "9027",
-          "name": "DESOD. BALANCE BARRA                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. BALANCE BARRA",
+          "quantity": "UNIDADES",
           "price": " $ 6,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Balance men barra invisible",
+          "image": "../images/desodoranteBarra.png"
       },
       {
           "id": "9028",
-          "name": "DESOD. BALANCE SPRAY                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. BALANCE SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Balance aerosol invisible men",
+          "image": "../images/desodoranteBalanceSpray.png"
       },
       {
           "id": "9029",
-          "name": "DESOD. DOVE BARRA DERMOACL                                  ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. DOVE BARRA DERMOACL",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Dov barra aclara manchas de las axilas 48 horas de protección Hipoalergenico",
+          "image": "../images/desodoranteDoveBarraDermoaclarante.png"
       },
       {
           "id": "9030",
-          "name": "DESOD. DOVE DERMO SPRAY                                     ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. DOVE DERMO SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante dove dermo aclarante",
+          "image": "../images/desodoranteDovDermoSpray.png"
       },
       {
           "id": "9031",
-          "name": "DESOD. DOVE MEN                                             ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. DOVE MEN",
+          "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante dove men+care clean",
+          "image": "../images/desodoranteDoveMen.png"
       },
       {
           "id": "9032",
-          "name": "DESOD. DOVE MEN INVIS                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. DOVE MEN INVIS",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Dove men+care invisible",
+          "image": "../images/desodoranteDoveInvisible.png"
       },
       {
           "id": "9033",
-          "name": "DESOD. GILLETTE GEL                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. GILLETTE GEL",
+          "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante en gel antitranspirante antibacterial Clear Gillette.",
+          "image": "../images/desodoranteGillettegEL.png"
       },
       {
           "id": "9034",
-          "name": "DESOD. GILLETTE ROLL-ON                                     ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. GILLETTE ROLL-ON",
+          "quantity": "UNIDADES",
           "price": " $ 7,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Antitranspirante Roll-on Gillette te protege contra el sudor y mal olor durante 48 horas.",
+          "image": "../images/desodoranteGiletteRollOn.png"
       },
       {
           "id": "9035",
-          "name": "DESOD. LADY S.S SPRAY                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. LADY S.S SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante LADY SPEED STICK powder fresh spray x150 ml",
+          "image": "../images/dsodoranteLadySpeedStcickSpray.png"
       },
       {
           "id": "9036",
-          "name": "DESOD. OLD SPICE SPRAY                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. OLD SPICE SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante para hombre Old Spice spray Invisible",
+          "image": "../images/desodoranteOldSpiceSpray.png"
       },
       {
           "id": "9037",
-          "name": "DESOD. REXBAMBOO SPRAY DAMA                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. REXBAMBOO SPRAY DAMA",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Rexona desodorante antitranspirante Bamboo en aerosol para dama",
+          "image": "../images/desodoranteRexonaBambooDama.png"
       },
       {
           "id": "9038",
-          "name": "DESOD. REXONA BARRA                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. REXONA BARRA",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Rexona desodorante antitranspirante invisible en barra 50 gr para hombre",
+          "image": "../images/desodoranteRexonaBarra.png"
       },
       {
           "id": "9039",
-          "name": "DESOD. REXONA CLIN.                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. REXONA CLIN",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Rexona Clinical Clean para mujer, máxima protección antitranspirante en crema.",
+          "image": "../images/desodoranteRexonaClinicalWomen.jpg"
       },
       {
           "id": "9040",
-          "name": "DESOD. REXONA CLIN.MEN                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. REXONA CLIN.MEN",
+          "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Rexona Clinical Clean para hombre, máxima protección antitranspirante en crema.",
+          "image": "../images/desodoranteRexonaClinical.png"
       },
       {
           "id": "9041",
-          "name": "DESOD. REXONA CLIN.SPRAY                                    ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. REXONA CLIN.SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 10,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Rexona Clinical Expert Clean para hombre en aerosol llegó a complementar el portafolio de Rexona para quienes buscan una opción que ayude a combatir la sudoración extrema, ofreciendo protección contra la misma y contra el mal olor por hasta 96 horas.",
+          "image": "../images/rexonaClinicalSpray.png"
       },
       {
           "id": "9042",
-          "name": "DESOD. REXONA V8 SPRAY                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. REXONA V8 SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Rexona MotionSense Men V8 frasco",
+          "image": "../images/desodoranteRexonaV8Spray.png"
       },
       {
           "id": "9043",
-          "name": "DESOD. SPEED BARRA CLA                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. SPEED BARRA CLA",
+          "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Speed Stick clasico en barra",
+          "image": "../images/desodoranteSpeedStickbarraClasic.png"
       },
       {
           "id": "9044",
-          "name": "DESOD. SPEED CREMA X2                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. SPEED CREMA X2",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Speed Stick en crema, protección 224/7",
+          "image": "../images/desodoranteSpeedStckCrema.png"
       },
       {
           "id": "9045",
-          "name": "DESOD. SPEED S. GEL                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. SPEED S. GEL",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Speed Stick en gel, protección 24/7",
+          "image": "../images/desodoranteSpeedStickCrema.png"
       },
       {
           "id": "9046",
-          "name": "DESOD. SPEED S. SPRAY                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. SPEED S. SPRAY",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Speed Stick en spray, protección 24/7",
+          "image": "../images/desodoranteSpeedStickSpry.png"
       },
       {
           "id": "9047",
-          "name": "DESOD. SPEED S. ROLLON                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. SPEED S. ROLLON",
+          "quantity": "UNIDADES",
           "price": " $ 7,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Speed Stick en rollOn, protección 24/7",
+          "image": "../images/desodoranteSpeedStickRollOn.png"
       },
       {
           "id": "9048",
-          "name": "ENJUAGUE LUMINOUS+ 2 CRE*75                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "ENJUAGUE LUMINOUS+ 2 CRE*75",
+          "quantity": "UNIDADES",
           "price": " $ 16,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuague Bucal Colgate Luminous White 500ml + 2 Cremas Dentales de 75 ml",
+          "image": "../images/enjuageLuminousMasDosCremas.png"
       },
       {
           "id": "9049",
-          "name": "FLUOCARDENT 100GR* 4                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "FLUOCARDENT 100GR* 4",
+          "quantity": "UNIDADES ",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Fluocardent caja * 4 unidades",
+          "image": "../images/fluocardent10gr4.png"
       },
       {
           "id": "9050",
-          "name": "GEL EGO 500ML                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "GEL EGO 500ML",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Gel para cabello Ego x  500 ml",
+          "image": "../images/gelEgo500ml.png"
       },
       {
           "id": "9051",
-          "name": "JAB.CAREY*3                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "JAB.CAREY*3",
+          "quantity": "UNIDADES",
           "price": " $ 4,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón Carey x 3 unidades",
+          "image": "../images/jabonCareyPor3.png"
       },
       {
           "id": "9052",
-          "name": "JAB.DOVE*3                                                  ",
-          "quantity": "UNIDADES            ",
+          "name": "JAB.DOVE*3",
+          "quantity": "UNIDADES",
           "price": " $ 6,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón Dove x 3 unidades.",
+          "image": "../images/jabonDovePor3.png"
       },
       {
           "id": "9053",
-          "name": "JAB.JOHNSON'S*3                                             ",
-          "quantity": "UNIDADES            ",
+          "name": "JAB.JOHNSON'S*3",
+          "quantity": "UNIDADES",
           "price": " $ 5,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón Johnson's paquete x 3 unidades",
+          "image": "../images/jsbonJohonsonsPor3.png"
       },
       {
           "id": "9054",
-          "name": "JAB.LUX*3                                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "JAB.LUX*3",
+          "quantity": "UNIDADES",
           "price": " $ 4,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón lux paquete x 3 unidades",
+          "image": "../images/jabonLuxPor3.png"
       },
       {
           "id": "9055",
-          "name": "JAB.PALMOLIVE*3                                             ",
-          "quantity": "UNIDADES            ",
+          "name": "JAB.PALMOLIVE*3",
+          "quantity": "UNIDADES",
           "price": " $ 5,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón Palmolive en barra x 3 unidades",
+          "image": "../images/jabonPalmolivex3.png"
       },
       {
           "id": "9056",
-          "name": "JAB.PROTEX*9                                                ",
-          "quantity": "PACHA X 9           ",
+          "name": "JAB.PROTEX*9",
+          "quantity": "PACHA X 9",
           "price": " $ 15,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón Protex x 9 unidades",
+          "image": "../images/jabonprotexPor9.png"
       },
       {
           "id": "9057",
-          "name": "JAB.PROTEX CAJA*9                                           ",
-          "quantity": "CAJA X 9            ",
+          "name": "JAB.PROTEX CAJA*9",
+          "quantity": "CAJA X 9",
           "price": " $ 112,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón Protex caja x 9 unidades",
+          "image": "../images/jabonprotexPor9.png"
       },
       {
-          "id": "9057-1              ",
-          "name": "JAB.PROTEX*3                                                ",
-          "quantity": "PACHA X 3           ",
+          "id": "9057-1",
+          "name": "JAB.PROTEX*3",
+          "quantity": "PACHA X 3",
           "price": " $ 5,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón protex pacha x 3 unidades",
+          "image": "../images/jabonProtexPor3.png"
       },
       {
-          "id": "9057-2              ",
-          "name": "JAB.PROTEX CAJA*6                                           ",
-          "quantity": "CAJA X 12           ",
+          "id": "9057-2",
+          "name": "JAB.PROTEX CAJA*12",
+          "quantity": "CAJA X 12",
           "price": " $ 116,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón Protex caja por 12 unidades",
+          "image": "../images/protexCajaPor6.png"
       },
       {
-          "id": "9057-3              ",
-          "name": "JJAB.PROTEX X 6                                             ",
-          "quantity": "PACHA X 6           ",
+          "id": "9057-3",
+          "name": "JAB.PROTEX X 6",
+          "quantity": "PACHA X 6",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón protex Pacha * 6 unidades",
+          "image": "../images/jabonProtexPachaPor9.png"
       },
       {
           "id": "9058",
-          "name": "KOTEX*180                                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "KOTEX*180",
+          "quantity": "UNIDADES",
           "price": " $ 11,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Protectores Diarios Kotex 180 unidades",
+          "image": "../images/kotexPor180Unidades.png"
       },
       {
           "id": "9059",
-          "name": "LADY MEXSANA PIES                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "LADY MEXSANA PIES",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Mexsana talco lady cuidado de pies",
+          "image": "../images/ladyMexanaPies.png"
       },
       {
           "id": "9060",
-          "name": "LISTE 0 ALCOHOL                                             ",
-          "quantity": "UNIDADES            ",
+          "name": "LISTE 0 ALCOHOL",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuage bucal Listerine cero alcohol",
+          "image": "../images/listerineCeroAlcohol.png"
       },
       {
           "id": "9061",
-          "name": "LISTE ANTICAR                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "LISTE ANTICAR",
+          "quantity": "UNIDADES",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuage bucal listerine anticaries",
+          "image": "../images/listerineAnticaries.png"
       },
       {
           "id": "9062",
-          "name": "LISTE CONTROL CALCULO                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "LISTE CONTROL CALCULO",
+          "quantity": "UNIDADES",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuage bucal Listerine control cálculo",
+          "image": "../images/listerineControlCalculo.png"
       },
       {
           "id": "9063",
-          "name": "LISTE COOLMINT                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "LISTE COOLMINT",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuage bucal Listerine Coolmint.",
+          "image": "../images/listerineCoolMnt.png"
       },
       {
           "id": "9064",
-          "name": "LISTE CUIDADO                                               ",
-          "quantity": "UNIDADES            ",
-          "price": " $ 14,000 ",
+          "name": "LISTE CUIDADO",
+          "quantity": "UNIDADES",
+          "price": " $ 14,000",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuague bucal cuidado total",
+          "image": "../images/listerineCuidadoTotal.png"
       },
       {
           "id": "9065",
-          "name": "LISTE LITRO                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "LISTE LITRO",
+          "quantity": "UNIDADES",
           "price": " $ 21,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuague bucal litro",
+          "image": "../images/listerine1litro.png"
       },
       {
           "id": "9066",
-          "name": "LISTE ORIGINAL                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "LISTE ORIGINAL",
+          "quantity": "UNIDADES",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuague bucal Listerine original",
+          "image": "../images/listerineOriginal.png"
       },
       {
           "id": "9067",
-          "name": "LISTE WHITENING EXTREME 500 ML                              ",
-          "quantity": "UNIDADES            ",
+          "name": "LISTE WHITENING EXTREME 500 ML",
+          "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuague bucal Listerine Whitening x  50 ml",
+          "image": "../images/listerineWhitening.png"
       },
       {
           "id": "9068",
-          "name": "LISTERINE 180 ML                                            ",
-          "quantity": "UNIDADES            ",
+          "name": "LISTERINE 180 ML",
+          "quantity": "UNIDADES",
           "price": " $ 5,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Enjuague bucal listerine x 180 ml",
+          "image": "../images/listerineCuidadoTotal.png"
       },
       {
           "id": "9069",
-          "name": "LUBRI.AZUL 946 ML                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "LUBRI.AZUL 946 ML",
+          "quantity": "UNIDADES",
           "price": " $ 26,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -5219,8 +5219,8 @@
       },
       {
           "id": "9070",
-          "name": "LUBRI.DORADA 946 ML                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "LUBRI.DORADA 946 ML",
+          "quantity": "UNIDADES",
           "price": " $ 30,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -5228,8 +5228,8 @@
       },
       {
           "id": "9071",
-          "name": "LUBRI.GRIS MEN 400ML                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "LUBRI.GRIS MEN 400ML",
+          "quantity": "UNIDADES",
           "price": " $ 20,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -5237,8 +5237,8 @@
       },
       {
           "id": "9072",
-          "name": "LUBRI.MORADA 946 ML                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "LUBRI.MORADA 946 ML",
+          "quantity": "UNIDADES",
           "price": " $ 30,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -5246,8 +5246,8 @@
       },
       {
           "id": "9073",
-          "name": "LUBRI.VERDE 400ML                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "LUBRI.VERDE 400ML",
+          "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -5255,341 +5255,341 @@
       },
       {
           "id": "9074",
-          "name": "NUTRIBELA 10 300ML                                          ",
-          "quantity": "UNIDADES            ",
+          "name": "NUTRIBELA 10 300ML",
+          "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Tratamiento NutriBela Con biotina tarro Con 300 mL",
+          "image": "../images/nutibella103000ml.png"
       },
       {
           "id": "9075",
-          "name": "ORAL B * 4                                                  ",
-          "quantity": "UNIDADES            ",
+          "name": "ORAL B * 4",
+          "quantity": "UNIDADES",
           "price": " $ 24,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Oral B x 4 unidades",
+          "image": "../images/oralbPor4.png"
       },
       {
           "id": "9076",
-          "name": "PH.FMLIA*15                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "PH.FMLIA*15",
+          "quantity": "UNIDADES",
           "price": " $ 15,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Papel higiénico Familia x 15 unidades",
+          "image": "../images/phfamiliaPor15.png"
       },
       {
           "id": "9077",
-          "name": "PH.SUAVEG*18                                                ",
-          "quantity": "UNIDADES            ",
+          "name": "PH.SUAVEG*18",
+          "quantity": "UNIDADES",
           "price": " $ 25,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Papel higiénico Suave x 18 unidades",
+          "image": "../images/phSuavePor18.png"
       },
       {
           "id": "9078",
-          "name": "PROT.NOSOTRAS 120 UND                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "PROT.NOSOTRAS 120 UND",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Protectores diaarios nosotras, mayor protección y suavidad todos los días.",
+          "image": "../images/protectoresNosotrasPor120.png"
       },
       {
           "id": "9079",
-          "name": "PROTEC. NOSOTRAS+ BAÑO INT                                  ",
-          "quantity": "UNIDADES            ",
+          "name": "PROTEC. NOSOTRAS+ BAÑO INT",
+          "quantity": "UNIDADES",
           "price": " $ 15,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Protectores diarios Nosotras + Baño íntimo",
+          "image": "../images/protectoresNosotrasMasBaño.png"
       },
       {
           "id": "9080",
-          "name": "REP. GILLETTE MAX * 6                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "REP. GILLETTE MAX * 6",
+          "quantity": "UNIDADES",
           "price": " $ 35,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cuchillas de afeitar Gillette x 6",
+          "image": "../images/gilettePor6.png"
       },
       {
           "id": "9081",
-          "name": "REP.GILLETTE MATCH 3*4                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "REP.GILLETTE MATCH 3*4",
+          "quantity": "UNIDADES",
           "price": " $ 21,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cuchillas de afeitar Gillette MATCH 3 X 4 unidades",
+          "image": "../images/gilletteMach3Por4.png"
       },
       {
           "id": "9082",
-          "name": "SH. PANTENE 400ML+TRATAM 170                                ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. PANTENE 400ML+TRATAM 170",
+          "quantity": "UNIDADES",
           "price": " $ 20,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Pantene x 400ml mas tratamiento",
+          "image": "../images/pantene400mlMasTratamiento.png"
       },
       {
           "id": "9083",
-          "name": "SH. CLEAR 400+AXE B                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. CLEAR 400+AXE B",
+          "quantity": "UNIDADES",
           "price": " $ 15,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Clear x 400 + Axe",
+          "image": "../images/clearAxe.png"
       },
       {
           "id": "9084",
-          "name": "SH. DOVE 400 ML.                                            ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. DOVE 400 ML.",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Dove x 400 ml",
+          "image": "../images/shampooDove400.png"
       },
       {
           "id": "9085",
-          "name": "SH. DOVE 400 ML+TRAT 170                                    ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. DOVE 400 ML+TRAT 170",
+          "quantity": "UNIDADES",
           "price": " $ 20,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Dove x 400 ml + tratamiento x 170 ml ",
+          "image": "../images/shampooDoveMasTratamiento.png"
       },
       {
           "id": "9086",
-          "name": "SH. DOVE 750 ML                                             ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. DOVE 750 ML",
+          "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Dove 750 ml",
+          "image": "../images/shampooDove750ml.png"
       },
       {
           "id": "9087",
-          "name": "SH. DOVE ANTICASPA 375 ML                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. DOVE ANTICASPA 375 ML",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Dove anticaspa 375 ml",
+          "image": "../images/dovAnticaspa.png"
       },
       {
           "id": "9088",
-          "name": "SH. EGO400+GEL110                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. EGO400+GEL110",
+          "quantity": "UNIDADES",
           "price": " $ 14,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo ego x 400 ml + gel ",
+          "image": "../images/shampooEgoMasGel.png"
       },
       {
           "id": "9089",
-          "name": "SH. ELVIVE O ACOND.400 ML                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. ELVIVE O ACOND.400 ML",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo ELVIVE * 400 ml",
+          "image": "../images/elViveShampoo.png"
       },
       {
           "id": "9090",
-          "name": "SH. H&S 180 ML                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. H&S 180 ML",
+          "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Head and Shoulders x 180 ml",
+          "image": "../images/shampooHeadAndShoulders180.png"
       },
       {
           "id": "9091",
-          "name": "SH. H&S 375 ML                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. H&S 375 ML",
+          "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Head & Shoulders x 375 ml",
+          "image": "../images/headAndShoulders375.png"
       },
       {
           "id": "9092",
-          "name": "SH. H&S 375+TRAT.150                                        ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. H&S 375+TRAT.150",
+          "quantity": "UNIDADES",
           "price": " $ 20,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Head & Shoulders x 375 ml + tratamiento 150 ml",
+          "image": "../images/headAndShoulders375.png"
       },
       {
           "id": "9093",
-          "name": "SH. H&S 700 ML                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. H&S 700 ML",
+          "quantity": "UNIDADES",
           "price": " $ 18,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Head & Shoulders x 700 ml",
+          "image": "../images/shampooHeadShoulders700.png"
       },
       {
           "id": "9094",
-          "name": "SH. H&S LITRO                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. H&S LITRO",
+          "quantity": "UNIDADES",
           "price": " $ 24,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Head & Shoulders x 1L",
+          "image": "../images/shampooHeadAnShouldersLitro.png"
       },
       {
           "id": "9095",
-          "name": "SH. J&J 200ML                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. J&J 200ML",
+          "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Johnson & Johnson x 200 ml",
+          "image": "../images/shampooJAndJ200ml.png"
       },
       {
           "id": "9096",
-          "name": "SH. J&J 750 ML                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. J&J 750 ML",
+          "quantity": "UNIDADES",
           "price": " $ 18,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Johnson & Johnson x 7500 ml",
+          "image": "../images/shampooj&j750ml.png"
       },
       {
           "id": "9097",
-          "name": "SH. J&J LITRO                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. J&J LITRO",
+          "quantity": "UNIDADES",
           "price": " $ 21,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Johnson & Johnson 1L",
+          "image": "../images/shampooj&jLitro.png"
       },
       {
           "id": "9098",
-          "name": "SH. MEDICASP                                                ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. MEDICASP",
+          "quantity": "UNIDADES",
           "price": " $ 18,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Medicasp anticaspa",
+          "image": "../images/medicasp.png"
       },
       {
           "id": "9099",
-          "name": "SH. PANTENE 400ML                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. PANTENE 400ML",
+          "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Pantene * 400 ml",
+          "image": "../images/shampooPantene400ml.png"
       },
       {
           "id": "9100",
-          "name": "SH. PANTENE 700 ML                                          ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. PANTENE 700 ML",
+          "quantity": "UNIDADES",
           "price": " $ 18,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Pantene x 700 ml",
+          "image": "../images/shampooPantene700ml.png"
       },
       {
           "id": "9101",
-          "name": "SH. SAVITAL                                                 ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. SAVITAL",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo savital",
+          "image": "../images/savital.png"
       },
       {
           "id": "9102",
-          "name": "SH. SEDAL 340ML                                             ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. SEDAL 340ML",
+          "quantity": "UNIDADES",
           "price": " $ 6,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo sedal * 340 ml",
+          "image": "../images/sedal340.png"
       },
       {
           "id": "9103",
-          "name": "SH. SEDAL 650 ML                                            ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. SEDAL 650 ML",
+          "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo sedal x 650 ml",
+          "image": "../images/sedal650.png"
       },
       {
           "id": "9104",
-          "name": "T.HIG.NOSOTRAS BUENAS NOCHES                                ",
-          "quantity": "UNIDADES            ",
+          "name": "T.HIG.NOSOTRAS BUENAS NOCHES",
+          "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Toallas higiénicas Nosotras Buenas Noches",
+          "image": "../images/toallasNosotrasNoche.png"
       },
       {
           "id": "9105",
-          "name": "JAB.REXONA*3                                                ",
-          "quantity": "UNIDAD              ",
+          "name": "JAB.REXONA*3",
+          "quantity": "UNIDAD",
           "price": " $ 4,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón rexona paquete x 3 unidades",
+          "image": "../images/jabonrexonaPortres.png"
       },
       {
           "id": "9106",
-          "name": "SH. ELVIVE 680 ML                                           ",
-          "quantity": "UNIDAD              ",
+          "name": "SH. ELVIVE 680 ML",
+          "quantity": "UNIDAD",
           "price": " $ 16,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo ELVIVE 680 ml",
+          "image": "../images/elvive648ml.png"
       },
       {
           "id": "9107",
-          "name": "T.HIG. KOTEX X60                                            ",
-          "quantity": "UNIDAD              ",
+          "name": "T.HIG. KOTEX X60",
+          "quantity": "UNIDAD",
           "price": " $ 15,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Toallas higiénicas kotex x 60 unidades",
+          "image": "../images/kotexPor60.png"
       },
       {
           "id": "9108",
-          "name": "DESOD. REXONA V8 ROLL-ON                                    ",
-          "quantity": "UNIDAD              ",
+          "name": "DESOD. REXONA V8 ROLL-ON",
+          "quantity": "UNIDAD",
           "price": " $ 7,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante Rexona V8 roll on",
+          "image": "../images/rexonav8RollOn.png"
       },
       {
           "id": "9109",
-          "name": "DES. MEXSANA PIES                                           ",
-          "quantity": "UNIDAD              ",
+          "name": "DES. MEXSANA PIES",
+          "quantity": "UNIDAD",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante MEXANA pies",
+          "image": "../images/desodoranteMexpies.png"
       },
       {
           "id": "9110",
-          "name": "GEL.AFEITAR GILLETTE                                        ",
-          "quantity": "UNIDAD              ",
+          "name": "GEL.AFEITAR GILLETTE",
+          "quantity": "UNIDAD",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Gel de afeitar GILLETTE",
+          "image": "../images/gelAfeitarGilette.png"
       },
       {
           "id": "9111",
-          "name": "RISTRA HYS/ PANTENE                                         ",
-          "quantity": "UNIDADES            ",
+          "name": "RISTRA HYS/ PANTENE",
+          "quantity": "UNIDADES",
           "price": " $ 6,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -5597,26 +5597,26 @@
       },
       {
           "id": "9112",
-          "name": "MAQUI. AFEITAR SHICK X3                                     ",
-          "quantity": "UNIDAD              ",
+          "name": "MAQUI. AFEITAR SHICK X3",
+          "quantity": "UNIDAD",
           "price": " $ 2,500 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "image": "../images/maquinasShickPorTres.png"
       },
       {
           "id": "9113",
-          "name": "PH.SCOOT RINDEMAX *16                                       ",
-          "quantity": "UNIDAD              ",
+          "name": "PH.SCOOT RINDEMAX *16",
+          "quantity": "UNIDAD",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Pepel higiénico Scot rindemax x 16 unidades",
+          "image": "../images/scotRindemax.png"
       },
       {
           "id": "9114",
-          "name": "T.HIG. DIA NOCHE X24+ JAB                                   ",
-          "quantity": "UNIDADES            ",
+          "name": "T.HIG. DIA NOCHE X24+ JAB",
+          "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -5624,57 +5624,57 @@
       },
       {
           "id": "9115",
-          "name": "COLG. TRIPLEX60GR *12                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "COLG. TRIPLEX60GR *12",
+          "quantity": "UNIDADES",
           "price": " $ 25,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental Colgate triple accion 12 unidades x 60 gr",
+          "image": "../images/colgatePor60.png"
       },
       {
           "id": "9116",
-          "name": "BLANCOX ROPA COLOR 2L+1L                                    ",
-          "quantity": "UNIDADES            ",
+          "name": "BLANCOX ROPA COLOR 2L+1L",
+          "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Blancox ropa color 2L + 1",
+          "image": "../images/2ll+1.png"
       },
       {
           "id": "9117",
-          "name": "JAB. DOVE BABYX3                                            ",
-          "quantity": "UNIDADES            ",
-          "price": " $ 6,000 ",
+          "name": "JAB. DOVE BABYX3",
+          "quantity": "UNIDADES",
+          "price": " $ 6,000",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón dove baby x 3 unidades",
+          "image": "../images/jabonDoveBbporTres.png"
       },
       {
           "id": "9118",
-          "name": "DET. BARRA COCO X3                                          ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. BARRA COCO X3",
+          "quantity": "UNIDADES",
           "price": " $ 7,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jabón Coco barrax 3 unidades",
+          "image": "../images/jaboncocoBarraPortres.png"
       },
       {
           "id": "9119",
-          "name": "DET. BARRA PURO                                             ",
-          "quantity": "UNIDAD              ",
+          "name": "DET. BARRA PURO",
+          "quantity": "UNIDAD",
           "price": " $ 1,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Detergente en barra Puro",
+          "image": "../images/jaboncocoBarraPortres.png"
       },
       {
           "id": "9120",
-          "name": "DET. BARRA VEL ROSITA X3                                    ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. BARRA VEL ROSITA X3",
+          "quantity": "UNIDADES",
           "price": " $ 5,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "LDetergente Vel Rosita x 3 unidades",
+          "image": "../images/verRositaportres.png"
       },
       {
           "id": "9121",
@@ -5687,102 +5687,102 @@
       },
       {
           "id": "9122",
-          "name": "SH. SACHET SAVITAL                                          ",
-          "quantity": "CAJA X 20           ",
+          "name": "SH. SACHET SAVITAL",
+          "quantity": "CAJA X 20",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo savit caja x 20 sachets",
+          "image": "../images/savitalSachetCaja.png"
       },
       {
           "id": "9123",
-          "name": "SH. SACHET SEDAL                                            ",
-          "quantity": "CAJA X 20           ",
+          "name": "SH. SACHET SEDAL",
+          "quantity": "CAJA X 20",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Sedal caja x 20 sachets",
+          "image": "../images/sedalSachetCaja.png"
       },
       {
           "id": "9124",
-          "name": "GEL EGO X15 SCH                                             ",
-          "quantity": "CAJA X 15           ",
+          "name": "GEL EGO X15 SCH",
+          "quantity": "CAJA X 15",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Gel ego caja x 15 sachets",
+          "image": "../images/egoSachets.png"
       },
       {
           "id": "9125",
-          "name": "DESOD. BALANCE SACHET                                       ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. BALANCE SACHET",
+          "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante balance sachets",
+          "image": "../images/balancesachets.png"
       },
       {
           "id": "9126",
-          "name": "DESOD. BALANCE PRACTI TUBO                                  ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. BALANCE PRACTI TUBO",
+          "quantity": "UNIDADES",
           "price": " $ 2,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante balance practi tubo",
+          "image": "../images/balanceTubo.png"
       },
       {
           "id": "9127",
-          "name": "SH. SACHET KONZIL                                           ",
-          "quantity": "CAJA X 18           ",
+          "name": "SH. SACHET KONZIL",
+          "quantity": "CAJA X 18",
           "price": " $ 7,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo konzil caja x 18 unidades",
+          "image": "../images/conzilCajasachet.png"
       },
       {
           "id": "9128",
-          "name": "NUTRIBELLA SACHET X12                                       ",
-          "quantity": "CAJA X 12           ",
+          "name": "NUTRIBELLA SACHET X12",
+          "quantity": "CAJA X 12",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Nutribella caja sachets x 12 unidades",
+          "image": "../images/nutribelacaja12.png"
       },
       {
           "id": "9129",
-          "name": "SH. PANTENE 200ML                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "SH. PANTENE 200ML",
+          "quantity": "UNIDADES",
           "price": " $ 7,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Shampoo Pantene x 200 ml",
+          "image": "../images/pantene200.png"
       },
       {
           "id": "9130",
-          "name": "DESOD. SPEED24/7 SACHET                                     ",
-          "quantity": "UNIDADES            ",
+          "name": "DESOD. SPEED24/7 SACHET",
+          "quantity": "UNIDADES",
           "price": " $ 9,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante speed 24/7 caja sachets",
+          "image": "../images/speedCajaSchet.png"
       },
       {
           "id": "9131",
-          "name": "CREM. J&J CORPORAL 400                                      ",
-          "quantity": "UNIDAD              ",
+          "name": "CREM. J&J CORPORAL 400",
+          "quantity": "UNIDAD",
           "price": " $ 17,500 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema corporal Johnson & Johnson x 400 ml",
+          "image": "../images/cremaJohnson400ml.png"
       },
       {
           "id": "9132",
-          "name": "COLG T.ACC.125ML X 6                                        ",
-          "quantity": "CAJA X 6            ",
+          "name": "COLG T.ACC.125ML X 6",
+          "quantity": "CAJA X 6",
           "price": " $ 24,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Crema dental colgate triple acción caja x 6 unidades 125 ml",
+          "image": "../images/cremadentalcolgate125ml.png"
       }
   ]
 }
