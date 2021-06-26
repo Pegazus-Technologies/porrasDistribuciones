@@ -263,102 +263,102 @@
       },
       {
           "id": "1030",
-          "name": "CERVEZA HEINEKEN BT SIX                                     ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA HEINEKEN BT SIX",
+          "quantity": "SIXPACK",
           "price": " $ 10,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken botella six pack",
+          "image": "../images/heineken6packBotella.png"
       },
       {
           "id": "1031",
-          "name": "CERVEZA HEINEKEN BT CAJA                                    ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA HEINEKEN BT CAJA",
+          "quantity": "CAJAS",
           "price": " $ 34,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken botella caja",
+          "image": "../images/heinekenBotellaCaja.png"
       },
       {
           "id": "1032",
-          "name": "CERVEZA HEINEKEN LATA SIX                                   ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA HEINEKEN LATA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 10,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken six pack lata",
+          "image": "../images/heineken6pacLta.png"
       },
       {
           "id": "1033",
-          "name": "CERVEZA HEINEKEN LATA BANDEJA                               ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA HEINEKEN LATA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 34,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken lata bandeja",
+          "image": "../images/heinekenlatabandeja.png"
       },
       {
           "id": "1034",
-          "name": "CERVEZA KAUFMAN SIX                                         ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA KAUFMAN SIX",
+          "quantity": "SIXPACK",
           "price": " $ 7,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Kaufman sixpack",
+          "image": "../images/kaufmanLataSixPack.png"
       },
       {
           "id": "1035",
-          "name": "CERVEZA KAUFMAN X 24                                        ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA KAUFMAN X 24",
+          "quantity": "BANDEJA",
           "price": " $ 30,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Cerveza Kaufman Bandeja",
           "image": "../images/default.png"
       },
       {
           "id": "1036",
-          "name": "CERVEZA POKER SIX                                           ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA POKER SIX",
+          "quantity": "SIXPACK",
           "price": " $ 13,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza poker six pack",
+          "image": "../images/pokerSickPackLata.png"
       },
       {
           "id": "1037",
-          "name": "CERVEZA POKER BANDEJA                                       ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA POKER BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 46,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Poker bandeja",
+          "image": "../images/cervezaPokerBandeja.png"
       },
       {
           "id": "1038",
-          "name": "CERVEZA POKER ROJA SIX                                      ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA POKER ROJA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 12,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza poker roja six pack",
+          "image": "../images/cervezaRojaPokerSixPack.png"
       },
       {
           "id": "1039",
-          "name": "CERVEZA POKER ROJA BANDEJA                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA POKER ROJA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 42,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza poker roja bandeja",
+          "image": "../images/pokerRojaBandeja.png"
       },
       {
           "id": "1040",
-          "name": "CERVEZA RED'S SIX                                           ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA RED'S SIX",
+          "quantity": "SIXPACK",
           "price": " $ 12,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Red's sixpack",
+          "image": "../images/cervezaRedsSixPack.png"
       },
       {
           "id": "1041",
