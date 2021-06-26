@@ -362,88 +362,88 @@
       },
       {
           "id": "1041",
-          "name": "CERVEZA RED'S BANDEJA                                       ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA RED'S BANDEJA",
+          "quantity": "CAJAS",
           "price": " $ 40,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Reds bandeja",
+          "image": "../images/redsBandeja.png"
       },
       {
           "id": "1042",
-          "name": "CERVEZA STELLA ARTOIS SIX                                   ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA STELLA ARTOIS SIX",
+          "quantity": "SIXPACK",
           "price": " $ 20,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Stella Artois six pack",
+          "image": "../images/cervezaStellaSixPack.png"
       },
       {
           "id": "1043",
-          "name": "CERVEZA STELLA ARTOIS BANDEJA                               ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA STELLA ARTOIS BANDEJA",
+          "quantity": "CAJAS",
           "price": " $ 72,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Stella artois bandeja",
+          "image": "../images/cervezaStellabandeja.png"
       },
       {
           "id": "1044",
-          "name": "CERVEZA TECATE SIX                                          ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA TECATE SIX",
+          "quantity": "SIXPACK",
           "price": " $ 11,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza tecate six pack",
+          "image": "../images/cervezaTeacateSixPack.png"
       },
       {
           "id": "1045",
-          "name": "CERVEZA TECATE BANDEJA                                      ",
-          "quantity": "BANDEJA             ",
-          "price": " $ 34,000 ",
+          "name": "CERVEZA TECATE BANDEJA",
+          "quantity": "BANDEJA",
+          "price": " $ 34,000",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza tecate Bandeja",
+          "image": "../images/cervezaTecateBandeja.png"
       },
       {
           "id": "1046",
-          "name": "COLA Y POLA SIX                                             ",
-          "quantity": "SIXPACK             ",
+          "name": "COLA Y POLA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 8,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cola y Pola sixpack",
+          "image": "../images/colaPolaSixPack.png"
       },
       {
           "id": "1047",
-          "name": "COLA Y POLA BANDEJA                                         ",
-          "quantity": "BANDEJA             ",
+          "name": "COLA Y POLA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 30,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cola y pola bandeja",
+          "image": "../images/colaypolaBandeja.png"
       },
       {
           "id": "1048",
-          "name": "CERVEZA ANDINA LATON                                        ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA ANDINA LATON",
+          "quantity": "BANDEJA",
           "price": " $ 21,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza andina bandeja Laton",
+          "image": "../images/cervezaAndinaBandeja.png"
       },
       {
           "id": "1049",
-          "name": "CERVEZA HEINEKEN 330 SIX                                    ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA HEINEKEN 330 SIX",
+          "quantity": "SIXPACK",
           "price": " $ 17,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza heineken 330 six pack",
+          "image": "../images/heineken6packBotella.png"
       },
       {
           "id": "1050",
-          "name": "CERVEZA HEINEKEN 330 BANDEJA                                ",
+          "name": "CERVEZA HEINEKEN 330 BANDEJA",
           "quantity": "BANDEJA             ",
           "price": " $ 57,000 ",
           "category": "BEER",
