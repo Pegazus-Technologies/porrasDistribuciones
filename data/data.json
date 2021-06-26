@@ -74,170 +74,170 @@
       },
       {
           "id": "1009",
-          "name": "CERVEZA BECKS SIX                                           ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BECKS SIX",
+          "quantity": "SIXPACK",
           "price": " $ 9,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza becks six pack",
+          "image": "../images/cervezaBecksSixPack.png"
       },
       {
           "id": "1010",
-          "name": "CERVEZA BECKS CAJA                                          ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA BECKS CAJA",
+          "quantity": "CAJAS",
           "price": " $ 34,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Becks caja",
+          "image": "../images/cervezaBecksCaja.png"
       },
       {
           "id": "1011",
-          "name": "CERVEZA BUDWEISER BT SIX                                    ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BUDWEISER BT SIX",
+          "quantity": "SIXPACK",
           "price": " $ 9,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser botella seis unidades",
+          "image": "../images/cervezaButBotella6.png"
       },
       {
           "id": "1012",
-          "name": "CERVEZA BUDWEISER BT CAJA                                   ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA BUDWEISER BT CAJA",
+          "quantity": "CAJAS",
           "price": " $ 36,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser botellas caja",
+          "image": "../images/cervezaBudCaja.png"
       },
       {
           "id": "1013",
-          "name": "CERVEZA BUDWEISER LATA X 24                                 ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA BUDWEISER LATA X 24",
+          "quantity": "BANDEJA",
           "price": " $ 38,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser lata bandeja x 24",
+          "image": "../images/cervezaButLataBandeja.png"
       },
       {
           "id": "1014",
-          "name": "CERVEZA BUDWEISER SIX                                       ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BUDWEISER SIX",
+          "quantity": "SIXPACK",
           "price": " $ 12,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser six Pack",
+          "image": "../images/cervezaButSixPack.png"
       },
       {
           "id": "1015",
-          "name": "CERVEZA BUDWEISER SIX X 24                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA BUDWEISER SIX X 24",
+          "quantity": "BANDEJA",
           "price": " $ 39,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser bandeja x 24",
+          "image": "../images/cervezaButLataBandeja.png"
       },
       {
           "id": "1016",
-          "name": "CERVEZA CLUB DORADA SIX                                     ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CLUB DORADA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia six pack x 6 unidades",
+          "image": "../images/cervezaClubDoradaPor6.png"
       },
       {
           "id": "1017",
-          "name": "CERVEZA CLUB DORADA BANDEJA                                 ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA CLUB DORADA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 48,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza ClubColombia dorada bandeja",
+          "image": "../images/cervezaClubColombiaDoradaBandeja.png"
       },
       {
           "id": "1018",
-          "name": "CERVEZA CLUB NEGRA SIX                                      ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CLUB NEGRA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia negra six pack",
+          "image": "../images/clubColombiaNegraSixPack.png"
       },
       {
           "id": "1019",
-          "name": "CERVEZA CLUB NEGRA BANDEJA                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA CLUB NEGRA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 48,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia negra bandeja",
+          "image": "../images/cervezaclubNegraBandeja.png"
       },
       {
           "id": "1020",
-          "name": "CERVEZA CLUB ROJA SIX                                       ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CLUB ROJA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia roja six pack",
+          "image": "../images/cervezaclubRojaSixpack.png"
       },
       {
           "id": "1021",
-          "name": "CERVEZA CLUB ROJA BANDEJA                                   ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA CLUB ROJA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 48,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia roja bandeja",
+          "image": "../images/cervezaClubRojaBandeja.png"
       },
       {
           "id": "1022",
-          "name": "CERVEZA CORONA NC SIX                                       ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CORONA NC SIX",
+          "quantity": "SIXPACK",
           "price": " $ 21,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza cora six pack",
+          "image": "../images/coronoSixpack.png"
       },
       {
           "id": "1023",
-          "name": "CERVEZA CORONA NC CAJA                                      ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA CORONA NC CAJA",
+          "quantity": "CAJAS",
           "price": " $ 76,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Corona caja",
+          "image": "../images/coronaCaja.png"
       },
       {
           "id": "1024",
-          "name": "CERVEZA CORONITA NC SIX                                     ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CORONITA NC SIX",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza coronita sixpack",
+          "image": "../images/coronitasixpack.png"
       },
       {
           "id": "1025",
-          "name": "CERVEZA CORONITA NC CAJA                                    ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA CORONITA NC CAJA",
+          "quantity": "CAJAS",
           "price": " $ 55,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Coronita caja",
+          "image": "../images/coronitaCaja.png"
       },
       {
           "id": "1026",
-          "name": "CERVEZA COSTEÑITA BT SIX                                    ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA COSTEÑITA BT SIX",
+          "quantity": "SIXPACK",
           "price": " $ 8,400 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza costeñita six pack",
+          "image": "../images/costeñitasixpack.png"
       },
       {
           "id": "1027",
-          "name": "CERVEZA COSTEÑITA BT CAJA                                   ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA COSTEÑITA BT CAJA",
+          "quantity": "CAJAS",
           "price": " $ 33,500 ",
           "category": "BEER",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -245,21 +245,21 @@
       },
       {
           "id": "1028",
-          "name": "CERVEZA COSTEÑITA SIX                                       ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA COSTEÑITA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 9,200 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza costeñita six pack",
+          "image": "../images/costeñitasixpack.png"
       },
       {
           "id": "1029",
-          "name": "CERVEZA COSTEÑITA BANDEJA                                   ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA COSTEÑITA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 36,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza costeñita bandeja",
+          "image": "../images/costeñitaBandeja.png"
       },
       {
           "id": "1030",
