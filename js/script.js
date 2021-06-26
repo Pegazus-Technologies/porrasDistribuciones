@@ -621,7 +621,7 @@ const renderProducts = (products) => {
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
-            <h4 class="modal-title" id="exampleModalLabel">${product.name}</h4>
+            <h4 class="modal-title font-weight-bold" id="exampleModalLabel">${product.name}</h4>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
@@ -640,12 +640,11 @@ const renderProducts = (products) => {
             <a href="./files/generalPrices.xlsx" class="text-center d-block text-center mb-4 text-warning" download>Descargar lista de precios
               <span class="ml-3"><i class="fa fa-download" aria-hidden="true"></i></span>
             </a>
+            <h5 class="mb-3 font-weight-bold">Descripción</h5>
             <p class="text-justify">${product.description}</p>
           </div>
           <div class="modal-footer d-flex justify-content-between">
-            <h2 class="btn pr-5 pl-5" style="background: #50c14e">
-              <a href="https://api.whatsapp.com/send?phone=573214308206" class="text-white" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
-            <h2/>
+          <a href="https://api.whatsapp.com/send?phone=573214308206" style="background: #50c14e" class="text-white btn pr-5 pl-5 w-100" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
             <a type="button" href='https://checkout.wompi.co/l/VPOS_KxOlu5' target='_blank' class="btn btn-primary text-white">Comprar ahora <span class="ml-3"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a>
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
           </div>
@@ -658,20 +657,3 @@ const renderProducts = (products) => {
     
   })
 }
-
-
-/*=======================================================================
- LIST OF PRODUCT + MODAL
-  ======================================================================= */
-
-
-
-
-
-
-
-
-  // validateForms(name.value, email.value, subject.value, message.value)
-
-
-//https://as01.epimg.net/meristation/imagenes/2020/07/15/avances/1594795396_861858_1594801711_portada_normal.jpg

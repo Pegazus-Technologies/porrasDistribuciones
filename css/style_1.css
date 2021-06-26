@@ -1,7 +1,7 @@
 /* Scss Document */
 @font-face {
   font-family: "PoppinsLight";
-  src: url("../css/fonts/Poppins-Light.ttf");
+  src: local("../css/fonts/Poppins-Light.ttf"), url(https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap);
 }
 
 html body {
