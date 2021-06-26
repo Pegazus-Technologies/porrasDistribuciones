@@ -444,136 +444,136 @@
       {
           "id": "1050",
           "name": "CERVEZA HEINEKEN 330 BANDEJA",
-          "quantity": "BANDEJA             ",
+          "quantity": "BANDEJA",
           "price": " $ 57,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken 330 bandeja",
+          "image": "../images/heineken330Bandeja.jpg"
       },
       {
           "id": "1051",
-          "name": "CERVEZA POKERITA 269 BANDEJA                                ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA POKERITA 269 BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 39,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Cerveza Pokerita bandeja 269",
           "image": "../images/default.png"
       },
       {
           "id": "1052",
-          "name": "CERVEZA POKERITA 269 SIXPACK                                ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA POKERITA 269 SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 9,800 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Cerveza Pokerita 269 sixpack",
           "image": "../images/default.png"
       },
       {
           "id": "1053",
-          "name": "CERVEZA BBC COTID BANDEJA                                   ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA BBC COTID BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 34,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza BBC cotidiana bandeja",
+          "image": "../images/cervezaBBCotidianaBandeja.png"
       },
       {
           "id": "1054",
-          "name": "CERVEZA BBC COTID SIXPACK                                   ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BBC COTID SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 9,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza BBC cotidiana sixpack",
+          "image": "../images/bbcCotidianaSixPack.png"
       },
       {
           "id": "1055",
-          "name": "CERVEZA BECKS LATA BANDEJA                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA BECKS LATA BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Ceveza Becks lata bandeja",
           "image": "../images/default.png"
       },
       {
           "id": "1056",
-          "name": "CERVEZA BECKS LATA SIXPACK                                  ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BECKS LATA SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 13,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza backs sixpack",
+          "image": "../images/cervezaBecksSixPack.png"
       },
       {
           "id": "1057",
-          "name": "CERVEZA ANDINA LIGHT BANDEJA                                ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA ANDINA LIGHT BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza aguila light bandeja",
+          "image": "../images/cervezaAndinaLightBandeja.png"
       },
       {
           "id": "1058",
-          "name": "CEREZA ANDINA LIGHT SIXPACK                                 ",
-          "quantity": "SIXPACK             ",
+          "name": "CEREZA ANDINA LIGHT SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 13,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ceveza andina light sixpack",
+          "image": "../images/andinaLightSixPack.png"
       },
       {
           "id": "1059",
-          "name": "CERVEZA PILSEN 355 BANDEJA                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA PILSEN 355 BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza pilsen bandeja",
+          "image": "../images/pilsenBandeja.png"
       },
       {
           "id": "1060",
-          "name": "CERVEZA PILSEN 355 SIXPACK                                  ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA PILSEN 355 SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza pilsen 355 sixpack",
+          "image": "../images/pilsenSixpack.png"
       },
       {
           "id": "1061",
-          "name": "CERVEZA MILLER LIGHT BT CAJA                                ",
-          "quantity": "CAJA X 24           ",
+          "name": "CERVEZA MILLER LIGHT BT CAJA",
+          "quantity": "CAJA X 24",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Miller Light caja x 24 unidades",
+          "image": "../images/cervezaMillerLightCaja.png"
       },
       {
           "id": "1062",
-          "name": "CERVEZA STELLA LT 250 BANDEJA                               ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA STELLA LT 250 BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerbeza Stella bandeja",
+          "image": "../images/cervezaStella250Bandeja.png"
       },
       {
           "id": "1063",
-          "name": "CERVEZA STELLA LT 250 SIXPACK                               ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA STELLA LT 250 SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 16,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Stella 250 sixpack",
+          "image": "../images/cervezaStella250SixPackBotella.png"
       },
       {
           "id": "1064",
-          "name": "CERVEZA STELLA LT SUELTA BANDEJA                            ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA STELLA LT SUELTA BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerbeza Stella bandeja",
+          "image": "../images/cervezaStella250Bandeja.png"
       },
       {
           "id": "1065",
-          "name": "CERVEZA COST-BAC 330 BANDEJA                                ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA COST-BAC 330 BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
           "image": "../images/default.png"
