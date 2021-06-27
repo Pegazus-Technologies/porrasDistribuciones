@@ -1,17 +1,15 @@
 /* Scss Document */
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 @font-face {
-  font-family: "PoppinsLight";
-  src: local("../css/fonts/Poppins-Light.ttf"), url(https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap);
+  font-family: "Roboto-Light";
+  src: url("../css/fonts/Roboto-Light.ttf");
 }
 
-
-html {
-  body{
-    font-family: "PoppinsLight";
-  }
+html body {
+  font-family: "Roboto-Light";
 }
+
 
 $yellow: #f5bc04;
 
@@ -674,7 +672,7 @@ a:hover {
 .fh5co_consectetur {
   font-size: 16px;
   color: #070403;
-  font-weight: 700;
+  font-weight: 500 !important;
 }
 .fh5co_gaming_topikk {
   margin: 0 !important;
