@@ -74,170 +74,170 @@
       },
       {
           "id": "1009",
-          "name": "CERVEZA BECKS SIX                                           ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BECKS SIX",
+          "quantity": "SIXPACK",
           "price": " $ 9,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza becks six pack",
+          "image": "../images/cervezaBecksSixPack.png"
       },
       {
           "id": "1010",
-          "name": "CERVEZA BECKS CAJA                                          ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA BECKS CAJA",
+          "quantity": "CAJAS",
           "price": " $ 34,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Becks caja",
+          "image": "../images/cervezaBecksCaja.png"
       },
       {
           "id": "1011",
-          "name": "CERVEZA BUDWEISER BT SIX                                    ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BUDWEISER BT SIX",
+          "quantity": "SIXPACK",
           "price": " $ 9,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser botella seis unidades",
+          "image": "../images/cervezaButBotella6.png"
       },
       {
           "id": "1012",
-          "name": "CERVEZA BUDWEISER BT CAJA                                   ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA BUDWEISER BT CAJA",
+          "quantity": "CAJAS",
           "price": " $ 36,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser botellas caja",
+          "image": "../images/cervezaBudCaja.png"
       },
       {
           "id": "1013",
-          "name": "CERVEZA BUDWEISER LATA X 24                                 ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA BUDWEISER LATA X 24",
+          "quantity": "BANDEJA",
           "price": " $ 38,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser lata bandeja x 24",
+          "image": "../images/cervezaButLataBandeja.png"
       },
       {
           "id": "1014",
-          "name": "CERVEZA BUDWEISER SIX                                       ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BUDWEISER SIX",
+          "quantity": "SIXPACK",
           "price": " $ 12,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser six Pack",
+          "image": "../images/cervezaButSixPack.png"
       },
       {
           "id": "1015",
-          "name": "CERVEZA BUDWEISER SIX X 24                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA BUDWEISER SIX X 24",
+          "quantity": "BANDEJA",
           "price": " $ 39,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Budweiser bandeja x 24",
+          "image": "../images/cervezaButLataBandeja.png"
       },
       {
           "id": "1016",
-          "name": "CERVEZA CLUB DORADA SIX                                     ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CLUB DORADA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia six pack x 6 unidades",
+          "image": "../images/cervezaClubDoradaPor6.png"
       },
       {
           "id": "1017",
-          "name": "CERVEZA CLUB DORADA BANDEJA                                 ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA CLUB DORADA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 48,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza ClubColombia dorada bandeja",
+          "image": "../images/cervezaClubColombiaDoradaBandeja.png"
       },
       {
           "id": "1018",
-          "name": "CERVEZA CLUB NEGRA SIX                                      ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CLUB NEGRA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia negra six pack",
+          "image": "../images/clubColombiaNegraSixPack.png"
       },
       {
           "id": "1019",
-          "name": "CERVEZA CLUB NEGRA BANDEJA                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA CLUB NEGRA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 48,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia negra bandeja",
+          "image": "../images/cervezaclubNegraBandeja.png"
       },
       {
           "id": "1020",
-          "name": "CERVEZA CLUB ROJA SIX                                       ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CLUB ROJA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia roja six pack",
+          "image": "../images/cervezaclubRojaSixpack.png"
       },
       {
           "id": "1021",
-          "name": "CERVEZA CLUB ROJA BANDEJA                                   ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA CLUB ROJA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 48,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Club Colombia roja bandeja",
+          "image": "../images/cervezaClubRojaBandeja.png"
       },
       {
           "id": "1022",
-          "name": "CERVEZA CORONA NC SIX                                       ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CORONA NC SIX",
+          "quantity": "SIXPACK",
           "price": " $ 21,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza cora six pack",
+          "image": "../images/coronoSixpack.png"
       },
       {
           "id": "1023",
-          "name": "CERVEZA CORONA NC CAJA                                      ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA CORONA NC CAJA",
+          "quantity": "CAJAS",
           "price": " $ 76,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Corona caja",
+          "image": "../images/coronaCaja.png"
       },
       {
           "id": "1024",
-          "name": "CERVEZA CORONITA NC SIX                                     ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA CORONITA NC SIX",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza coronita sixpack",
+          "image": "../images/coronitasixpack.png"
       },
       {
           "id": "1025",
-          "name": "CERVEZA CORONITA NC CAJA                                    ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA CORONITA NC CAJA",
+          "quantity": "CAJAS",
           "price": " $ 55,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Coronita caja",
+          "image": "../images/coronitaCaja.png"
       },
       {
           "id": "1026",
-          "name": "CERVEZA COSTEÑITA BT SIX                                    ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA COSTEÑITA BT SIX",
+          "quantity": "SIXPACK",
           "price": " $ 8,400 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza costeñita six pack",
+          "image": "../images/costeñitasixpack.png"
       },
       {
           "id": "1027",
-          "name": "CERVEZA COSTEÑITA BT CAJA                                   ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA COSTEÑITA BT CAJA",
+          "quantity": "CAJAS",
           "price": " $ 33,500 ",
           "category": "BEER",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -245,335 +245,335 @@
       },
       {
           "id": "1028",
-          "name": "CERVEZA COSTEÑITA SIX                                       ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA COSTEÑITA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 9,200 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza costeñita six pack",
+          "image": "../images/costeñitasixpack.png"
       },
       {
           "id": "1029",
-          "name": "CERVEZA COSTEÑITA BANDEJA                                   ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA COSTEÑITA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 36,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza costeñita bandeja",
+          "image": "../images/costeñitaBandeja.png"
       },
       {
           "id": "1030",
-          "name": "CERVEZA HEINEKEN BT SIX                                     ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA HEINEKEN BT SIX",
+          "quantity": "SIXPACK",
           "price": " $ 10,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken botella six pack",
+          "image": "../images/heineken6packBotella.png"
       },
       {
           "id": "1031",
-          "name": "CERVEZA HEINEKEN BT CAJA                                    ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA HEINEKEN BT CAJA",
+          "quantity": "CAJAS",
           "price": " $ 34,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken botella caja",
+          "image": "../images/heinekenBotellaCaja.png"
       },
       {
           "id": "1032",
-          "name": "CERVEZA HEINEKEN LATA SIX                                   ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA HEINEKEN LATA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 10,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken six pack lata",
+          "image": "../images/heineken6pacLta.png"
       },
       {
           "id": "1033",
-          "name": "CERVEZA HEINEKEN LATA BANDEJA                               ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA HEINEKEN LATA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 34,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken lata bandeja",
+          "image": "../images/heinekenlatabandeja.png"
       },
       {
           "id": "1034",
-          "name": "CERVEZA KAUFMAN SIX                                         ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA KAUFMAN SIX",
+          "quantity": "SIXPACK",
           "price": " $ 7,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Kaufman sixpack",
+          "image": "../images/kaufmanLataSixPack.png"
       },
       {
           "id": "1035",
-          "name": "CERVEZA KAUFMAN X 24                                        ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA KAUFMAN X 24",
+          "quantity": "BANDEJA",
           "price": " $ 30,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Cerveza Kaufman Bandeja",
           "image": "../images/default.png"
       },
       {
           "id": "1036",
-          "name": "CERVEZA POKER SIX                                           ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA POKER SIX",
+          "quantity": "SIXPACK",
           "price": " $ 13,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza poker six pack",
+          "image": "../images/pokerSickPackLata.png"
       },
       {
           "id": "1037",
-          "name": "CERVEZA POKER BANDEJA                                       ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA POKER BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 46,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Poker bandeja",
+          "image": "../images/cervezaPokerBandeja.png"
       },
       {
           "id": "1038",
-          "name": "CERVEZA POKER ROJA SIX                                      ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA POKER ROJA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 12,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza poker roja six pack",
+          "image": "../images/cervezaRojaPokerSixPack.png"
       },
       {
           "id": "1039",
-          "name": "CERVEZA POKER ROJA BANDEJA                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA POKER ROJA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 42,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza poker roja bandeja",
+          "image": "../images/pokerRojaBandeja.png"
       },
       {
           "id": "1040",
-          "name": "CERVEZA RED'S SIX                                           ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA RED'S SIX",
+          "quantity": "SIXPACK",
           "price": " $ 12,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Red's sixpack",
+          "image": "../images/cervezaRedsSixPack.png"
       },
       {
           "id": "1041",
-          "name": "CERVEZA RED'S BANDEJA                                       ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA RED'S BANDEJA",
+          "quantity": "CAJAS",
           "price": " $ 40,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Reds bandeja",
+          "image": "../images/redsBandeja.png"
       },
       {
           "id": "1042",
-          "name": "CERVEZA STELLA ARTOIS SIX                                   ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA STELLA ARTOIS SIX",
+          "quantity": "SIXPACK",
           "price": " $ 20,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Stella Artois six pack",
+          "image": "../images/cervezaStellaSixPack.png"
       },
       {
           "id": "1043",
-          "name": "CERVEZA STELLA ARTOIS BANDEJA                               ",
-          "quantity": "CAJAS               ",
+          "name": "CERVEZA STELLA ARTOIS BANDEJA",
+          "quantity": "CAJAS",
           "price": " $ 72,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Stella artois bandeja",
+          "image": "../images/cervezaStellabandeja.png"
       },
       {
           "id": "1044",
-          "name": "CERVEZA TECATE SIX                                          ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA TECATE SIX",
+          "quantity": "SIXPACK",
           "price": " $ 11,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza tecate six pack",
+          "image": "../images/cervezaTeacateSixPack.png"
       },
       {
           "id": "1045",
-          "name": "CERVEZA TECATE BANDEJA                                      ",
-          "quantity": "BANDEJA             ",
-          "price": " $ 34,000 ",
+          "name": "CERVEZA TECATE BANDEJA",
+          "quantity": "BANDEJA",
+          "price": " $ 34,000",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza tecate Bandeja",
+          "image": "../images/cervezaTecateBandeja.png"
       },
       {
           "id": "1046",
-          "name": "COLA Y POLA SIX                                             ",
-          "quantity": "SIXPACK             ",
+          "name": "COLA Y POLA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 8,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cola y Pola sixpack",
+          "image": "../images/colaPolaSixPack.png"
       },
       {
           "id": "1047",
-          "name": "COLA Y POLA BANDEJA                                         ",
-          "quantity": "BANDEJA             ",
+          "name": "COLA Y POLA BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 30,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cola y pola bandeja",
+          "image": "../images/colaypolaBandeja.png"
       },
       {
           "id": "1048",
-          "name": "CERVEZA ANDINA LATON                                        ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA ANDINA LATON",
+          "quantity": "BANDEJA",
           "price": " $ 21,500 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza andina bandeja Laton",
+          "image": "../images/cervezaAndinaBandeja.png"
       },
       {
           "id": "1049",
-          "name": "CERVEZA HEINEKEN 330 SIX                                    ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA HEINEKEN 330 SIX",
+          "quantity": "SIXPACK",
           "price": " $ 17,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza heineken 330 six pack",
+          "image": "../images/heineken6packBotella.png"
       },
       {
           "id": "1050",
-          "name": "CERVEZA HEINEKEN 330 BANDEJA                                ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA HEINEKEN 330 BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 57,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Heineken 330 bandeja",
+          "image": "../images/heineken330Bandeja.jpg"
       },
       {
           "id": "1051",
-          "name": "CERVEZA POKERITA 269 BANDEJA                                ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA POKERITA 269 BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 39,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Cerveza Pokerita bandeja 269",
           "image": "../images/default.png"
       },
       {
           "id": "1052",
-          "name": "CERVEZA POKERITA 269 SIXPACK                                ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA POKERITA 269 SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 9,800 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Cerveza Pokerita 269 sixpack",
           "image": "../images/default.png"
       },
       {
           "id": "1053",
-          "name": "CERVEZA BBC COTID BANDEJA                                   ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA BBC COTID BANDEJA",
+          "quantity": "BANDEJA",
           "price": " $ 34,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza BBC cotidiana bandeja",
+          "image": "../images/cervezaBBCotidianaBandeja.png"
       },
       {
           "id": "1054",
-          "name": "CERVEZA BBC COTID SIXPACK                                   ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BBC COTID SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 9,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza BBC cotidiana sixpack",
+          "image": "../images/bbcCotidianaSixPack.png"
       },
       {
           "id": "1055",
-          "name": "CERVEZA BECKS LATA BANDEJA                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA BECKS LATA BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Ceveza Becks lata bandeja",
           "image": "../images/default.png"
       },
       {
           "id": "1056",
-          "name": "CERVEZA BECKS LATA SIXPACK                                  ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA BECKS LATA SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 13,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza backs sixpack",
+          "image": "../images/cervezaBecksSixPack.png"
       },
       {
           "id": "1057",
-          "name": "CERVEZA ANDINA LIGHT BANDEJA                                ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA ANDINA LIGHT BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza aguila light bandeja",
+          "image": "../images/cervezaAndinaLightBandeja.png"
       },
       {
           "id": "1058",
-          "name": "CEREZA ANDINA LIGHT SIXPACK                                 ",
-          "quantity": "SIXPACK             ",
+          "name": "CEREZA ANDINA LIGHT SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 13,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ceveza andina light sixpack",
+          "image": "../images/andinaLightSixPack.png"
       },
       {
           "id": "1059",
-          "name": "CERVEZA PILSEN 355 BANDEJA                                  ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA PILSEN 355 BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza pilsen bandeja",
+          "image": "../images/pilsenBandeja.png"
       },
       {
           "id": "1060",
-          "name": "CERVEZA PILSEN 355 SIXPACK                                  ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA PILSEN 355 SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 14,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza pilsen 355 sixpack",
+          "image": "../images/pilsenSixpack.png"
       },
       {
           "id": "1061",
-          "name": "CERVEZA MILLER LIGHT BT CAJA                                ",
-          "quantity": "CAJA X 24           ",
+          "name": "CERVEZA MILLER LIGHT BT CAJA",
+          "quantity": "CAJA X 24",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Miller Light caja x 24 unidades",
+          "image": "../images/cervezaMillerLightCaja.png"
       },
       {
           "id": "1062",
-          "name": "CERVEZA STELLA LT 250 BANDEJA                               ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA STELLA LT 250 BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerbeza Stella bandeja",
+          "image": "../images/cervezaStella250Bandeja.png"
       },
       {
           "id": "1063",
-          "name": "CERVEZA STELLA LT 250 SIXPACK                               ",
-          "quantity": "SIXPACK             ",
+          "name": "CERVEZA STELLA LT 250 SIXPACK",
+          "quantity": "SIXPACK",
           "price": " $ 16,000 ",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerveza Stella 250 sixpack",
+          "image": "../images/cervezaStella250SixPackBotella.png"
       },
       {
           "id": "1064",
-          "name": "CERVEZA STELLA LT SUELTA BANDEJA                            ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA STELLA LT SUELTA BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cerbeza Stella bandeja",
+          "image": "../images/cervezaStella250Bandeja.png"
       },
       {
           "id": "1065",
-          "name": "CERVEZA COST-BAC 330 BANDEJA                                ",
-          "quantity": "BANDEJA             ",
+          "name": "CERVEZA COST-BAC 330 BANDEJA",
+          "quantity": "BANDEJA",
           "category": "BEER",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
           "image": "../images/default.png"
@@ -3065,251 +3065,251 @@
       },
       {
           "id": "5001",
-          "name": "RED BULL FOUR PACK                                          ",
-          "quantity": "PACA X 4            ",
+          "name": "RED BULL FOUR PACK",
+          "quantity": "PACA X 4",
           "price": " $ 14,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Bebida energizante Red Bull Energy Drink Four Pack",
           "image": "../images/redBullFourPack.png"
       },
       {
           "id": "5002",
-          "name": "AGUA BRISA MINI                                             ",
-          "quantity": "BANDEJA             ",
+          "name": "AGUA BRISA MINI",
+          "quantity": "BANDEJA",
           "price": " $ 12,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Bandeja agua Brisa mini",
           "image": "../images/aguaBrisaMiniBandeja.png"
       },
       {
           "id": "5003",
-          "name": "AGUA CRISTALINA                                             ",
-          "quantity": "BANDEJA             ",
+          "name": "AGUA CRISTALINA",
+          "quantity": "BANDEJA",
           "price": " $ 11,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Bandeja agua Cristalina",
           "image": "../images/aguaCristalinaBandeja.png"
       },
       {
           "id": "5004",
-          "name": "COCA COLA 1.5 LT                                            ",
-          "quantity": "PACA                ",
+          "name": "COCA COLA 1.5 LT",
+          "quantity": "PACA",
           "price": " $ 35,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Bebida gaseosa Cocacola paca 1.5 L",
           "image": "../images/cocaCola1.5Paca.png"
       },
       {
           "id": "5005",
-          "name": "COCACOLA 3 LT PACA                                          ",
-          "quantity": "PACA                ",
+          "name": "COCACOLA 3 LT PACA",
+          "quantity": "PACA",
           "price": " $ 29,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Bebida gaseosa Cocacola paca 3 L",
           "image": "../images/cocaCola3.png"
       },
       {
           "id": "5007",
-          "name": "COCA COLA FLEXI                                             ",
-          "quantity": "PACA                ",
+          "name": "COCA COLA FLEXI",
+          "quantity": "PACA",
           "price": " $ 16,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Bebida gaseosa Cocacola flexi paca",
           "image": "../images/cocaColaFlexiPaca.png"
       },
       {
           "id": "5008",
-          "name": "COCA COLA MINI                                              ",
-          "quantity": "PACA                ",
+          "name": "COCA COLA MINI",
+          "quantity": "PACA",
           "price": " $ 11,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Bebida gaseosa Cocacola mini paca",
           "image": "../images/cocaColaMiniPaca.png"
       },
       {
           "id": "5009",
-          "name": "DEL VALLE 1.5                                               ",
-          "quantity": "PACA                ",
+          "name": "DEL VALLE 1.5",
+          "quantity": "PACA",
           "price": " $ 22,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Jugo Del Valle paca 1.5 L",
           "image": "../images/delValle1.5Paca.png"
       },
       {
           "id": "5011",
-          "name": "GATORADE SURTIDO                                            ",
-          "quantity": "PACA                ",
+          "name": "GATORADE SURTIDO",
+          "quantity": "PACA",
           "price": " $ 26,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Gatorade surtido paca",
+          "image": "../images/gatoradeSurtido.png"
       },
       {
           "id": "5012",
-          "name": "GATORADE MAND                                               ",
-          "quantity": "PACA                ",
+          "name": "GATORADE MAND",
+          "quantity": "PACA",
           "price": " $ 26,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Gatorade mandarina paca",
+          "image": "../images/gatoradeMandarina.png"
       },
       {
           "id": "5013",
-          "name": "GATORADE MARAC                                              ",
-          "quantity": "PACA                ",
+          "name": "GATORADE MARAC",
+          "quantity": "PACA",
           "price": " $ 26,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Gatorade maracuyá paca",
+          "image": "../images/gatoradeMaracuya.png"
       },
       {
           "id": "5014",
-          "name": "GATORADE TROP                                               ",
-          "quantity": "PACA                ",
+          "name": "GATORADE TROP",
+          "quantity": "PACA",
           "price": " $ 26,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Gatorade tropical paca",
+          "image": "../images/gatoradeTropicalpaca.png"
       },
       {
           "id": "5015",
-          "name": "HIT CAJA                                                    ",
-          "quantity": "CAJAS               ",
+          "name": "HIT CAJA",
+          "quantity": "CAJAS",
           "price": " $ 17,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jugos hit caja",
+          "image": "../images/hitcaja.png"
       },
       {
           "id": "5016",
-          "name": "HIT LT                                                      ",
-          "quantity": "CAJA X 12           ",
+          "name": "HIT LT",
+          "quantity": "CAJA X 12",
           "price": " $ 27,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Hit litro caja x 12",
+          "image": "../images/hitLitro.png"
       },
       {
           "id": "5017",
-          "name": "HIT PET 500                                                 ",
-          "quantity": "BANDEJA             ",
+          "name": "HIT PET 500",
+          "quantity": "BANDEJA",
           "price": " $ 19,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jugos Hit bandeja pet 500",
+          "image": "../images/hitPet500.png"
       },
       {
           "id": "5018",
-          "name": "LECHE ALPINA DESLAC X 6                                     ",
-          "quantity": "PACA                ",
+          "name": "LECHE ALPINA DESLAC X 6",
+          "quantity": "PACA",
           "price": " $ 16,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Leche Alpina deslactosada paca x 6 unidades",
+          "image": "../images/lecheAlpinaDeslactosadaPor6.png"
       },
       {
           "id": "5019",
-          "name": "LECHE ALPINA ENTERA X 6                                     ",
-          "quantity": "PACA                ",
+          "name": "LECHE ALPINA ENTERA X 6",
+          "quantity": "PACA",
           "price": " $ 15,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Leche Alpina deslactosada paca x 6 unidades",
+          "image": "../images/lecheAlpinaEnteraPor6.png"
       },
       {
           "id": "5020",
-          "name": "LECHE COLANTA1.1                                            ",
-          "quantity": "CAJAS               ",
+          "name": "LECHE COLANTA1.1",
+          "quantity": "CAJAS",
           "price": " $ 27,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Leche Colanta 1.1",
+          "image": "../images/lecheEntera1.1L.png"
       },
       {
           "id": "5021",
-          "name": "LECHE PARMALAT ENTERA SIX                                   ",
-          "quantity": "SIXPACK             ",
+          "name": "LECHE PARMALAT ENTERA SIX",
+          "quantity": "SIXPACK",
           "price": " $ 11,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Leche Parmalat entera x 6 unidades",
+          "image": "../images/parmalatPor6.png"
       },
       {
           "id": "5022",
-          "name": "LECHE PARMALAT ENTERA CAJA                                  ",
-          "quantity": "PACA                ",
+          "name": "LECHE PARMALAT ENTERA CAJA",
+          "quantity": "PACA",
           "price": " $ 34,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "leche Parmalat entera caja paca.",
+          "image": "../images/lecheParmalatEnteraCaja.png"
       },
       {
           "id": "5023",
-          "name": "MONSTER                                                     ",
-          "quantity": "BANDEJA             ",
+          "name": "MONSTER",
+          "quantity": "BANDEJA",
           "price": " $ 85,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebiga energizante Monster bandeja",
+          "image": "../images/monsterbandeja.png"
       },
       {
           "id": "5024",
-          "name": "MONSTER AZUL                                                ",
-          "quantity": "UNIDADES            ",
+          "name": "MONSTER AZUL",
+          "quantity": "UNIDADES",
           "price": " $ 4,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebiga energizante Monster azul unidad",
+          "image": "../images/monsterAzul.png"
       },
       {
           "id": "5025",
-          "name": "MONSTER BLANCO                                              ",
-          "quantity": "UNIDADES            ",
+          "name": "MONSTER BLANCO",
+          "quantity": "UNIDADES",
           "price": " $ 4,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebiga energizante Monster blanco unidad",
+          "image": "../images/monsterBlanco.png"
       },
       {
           "id": "5026",
-          "name": "MONSTER VERDE                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "MONSTER VERDE",
+          "quantity": "UNIDADES",
           "price": " $ 4,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebiga energizante Monster verde unidad",
+          "image": "../images/monsterVerde.jpg"
       },
       {
           "id": "5027",
-          "name": "PONY 1.5                                                    ",
-          "quantity": "BANDEJA             ",
+          "name": "PONY 1.5",
+          "quantity": "BANDEJA",
           "price": " $ 17,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Pony Malta bandeja 1.5 L bandeja",
+          "image": "../images/pany1.5bandeja.png"
       },
       {
           "id": "5028",
-          "name": "PONY 330                                                    ",
-          "quantity": "BANDEJA             ",
+          "name": "PONY 330",
+          "quantity": "BANDEJA",
           "price": " $ 25,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Pony malta bandeja 330 bandeja",
+          "image": "../images/ponymalta330Bandeja.png"
       },
       {
           "id": "5029",
-          "name": "PONY MALTA MINI                                             ",
-          "quantity": "BANDEJA             ",
+          "name": "PONY MALTA MINI",
+          "quantity": "BANDEJA",
           "price": " $ 10,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Pony malta mini bandeja",
+          "image": "../images/ponyMini.png"
       },
       {
           "id": "5030",
-          "name": "POSTOBON 3 LITROS                                           ",
-          "quantity": "BANDEJA             ",
+          "name": "POSTOBON 3 LITROS",
+          "quantity": "BANDEJA",
           "price": " $ 26,500 ",
           "category": "BEVERAGE",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -3317,17 +3317,17 @@
       },
       {
           "id": "5031",
-          "name": "RED BULL                                                    ",
-          "quantity": "BANDEJA             ",
+          "name": "RED BULL",
+          "quantity": "BANDEJA",
           "price": " $ 83,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida energizante Red Bull bandeja",
+          "image": "../images/redbullbandeja.png"
       },
       {
           "id": "5032",
-          "name": "SABORES 1.7                                                 ",
-          "quantity": "BANDEJA             ",
+          "name": "SABORES 1.7",
+          "quantity": "BANDEJA",
           "price": " $ 27,500 ",
           "category": "BEVERAGE",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -3335,8 +3335,8 @@
       },
       {
           "id": "5033",
-          "name": "SABORES FLEXI                                               ",
-          "quantity": "BANDEJA             ",
+          "name": "SABORES FLEXI",
+          "quantity": "BANDEJA",
           "price": " $ 10,000 ",
           "category": "BEVERAGE",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -3344,159 +3344,159 @@
       },
       {
           "id": "5034",
-          "name": "SPEED MAX LATA                                              ",
-          "quantity": "BANDEJA             ",
+          "name": "SPEED MAX LATA",
+          "quantity": "BANDEJA",
           "price": " $ 21,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida energizante Speed Max lata bandeja" ,
+          "image": "../images/speedMaxBandeja.png"
       },
       {
           "id": "5035",
-          "name": "SPEED BT                                                    ",
-          "quantity": "BANDEJA             ",
+          "name": "SPEED BT",
+          "quantity": "BANDEJA",
           "price": " $ 9,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida energizante Speed Max botella bandeja ",
+          "image": "../images/speedMaxBotellaBandeja.png"
       },
       {
           "id": "5036",
-          "name": "COCA COLA 3 LT DUO                                          ",
-          "quantity": "UNIDAD              ",
+          "name": "COCA COLA 3 LT DUO",
+          "quantity": "UNIDAD",
           "price": " $ 9,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Cocacola 3 L duo",
+          "image": "../images/cocaCola3.png"
       },
       {
           "id": "5037",
-          "name": "SQUASH                                                      ",
-          "quantity": "PACA                ",
+          "name": "SQUASH",
+          "quantity": "PACA",
           "price": " $ 12,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Squash bandeja",
+          "image": "../images/squashbandeja.png"
       },
       {
           "id": "5038",
-          "name": "COCA COLA ZERO 1.5 LT                                       ",
-          "quantity": "PACA                ",
+          "name": "COCA COLA ZERO 1.5 LT",
+          "quantity": "PACA",
           "price": " $ 34,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Coca Cola Zero 1.5 L paca",
+          "image": "../images/cocacolaPaca1.5L.png"
       },
       {
           "id": "5039",
-          "name": "SPEDD MAX  269ML                                            ",
-          "quantity": "CAJA X 24           ",
+          "name": "SPEDD MAX  269ML",
+          "quantity": "CAJA X 24",
           "price": " $ 18,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida energizante Speed Max lata Caja 269 ml" ,
+          "image": "../images/speedMaxBandeja.png"
       },
       {
           "id": "5040",
-          "name": "POSTOBON 2.5 LT                                             ",
-          "quantity": "PACA                ",
+          "name": "POSTOBON 2.5 LT",
+          "quantity": "PACA",
           "price": " $ 21,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Postobón paca 2.5 L",
+          "image": "../images/postobonGaseosa2.5LPaca.png"
       },
       {
           "id": "5041",
-          "name": "RED BULL UND                                                ",
-          "quantity": "UNIDAD              ",
+          "name": "RED BULL UND",
+          "quantity": "UNIDAD",
           "price": " $ 4,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida energizante Red Bull por unidad.",
+          "image": "../images/redbullUnidad.png"
       },
       {
           "id": "5042",
-          "name": "AGUA CRISTAL MINI                                           ",
-          "quantity": "PACA                ",
+          "name": "AGUA CRISTAL MINI",
+          "quantity": "PACA",
           "price": " $ 9,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Agua Cristal Mini paca",
+          "image": "../images/aguaBrisaMiniBandeja.png"
       },
       {
           "id": "5043",
-          "name": "AGUA CRISTAL 600 ML                                         ",
-          "quantity": "CAJA X 24           ",
+          "name": "AGUA CRISTAL 600 ML",
+          "quantity": "CAJA X 24",
           "price": " $ 19,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Agua cristal caja 600 ml",
+          "image": "../images/crista600mlCaja.png"
       },
       {
           "id": "5044",
-          "name": "POSTOBON VIDRIO                                             ",
-          "quantity": "CAJA X 24           ",
+          "name": "POSTOBON VIDRIO",
+          "quantity": "CAJA X 24",
           "price": " $ 35,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa postobón caja x 24 unidades",
+          "image": "../images/postobonvidriocaja.png"
       },
       {
           "id": "5045",
-          "name": "COCA COLA FLEXI ZERO                                        ",
-          "quantity": "PACA                ",
+          "name": "COCA COLA FLEXI ZERO ",
+          "quantity": "PACA ",
           "price": " $ 16,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Cocacola flexi zero caja",
+          "image": "../images/cocacolaFlexiZero.png"
       },
       {
           "id": "5046",
-          "name": "COCA COLA MINI ZERO                                         ",
-          "quantity": "PACA                ",
+          "name": "COCA COLA MINI ZERO",
+          "quantity": "PACA",
           "price": " $ 11,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Cocacola mini zero paca",
+          "image": "../images/cocacolaminizero.png"
       },
       {
           "id": "5047",
-          "name": "COCA COLA LATA                                              ",
-          "quantity": "BANDEJA             ",
+          "name": "COCA COLA LATA",
+          "quantity": "BANDEJA",
           "price": " $ 20,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Cocacola en lata bandeja",
+          "image": "../images/cocacolaLataBnadeja.png"
       },
       {
           "id": "5048",
-          "name": "AGUA SALVA 600 ML                                           ",
-          "quantity": "PACA                ",
+          "name": "AGUA SALVA 600 ML",
+          "quantity": "PACA",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Agua salva x 600 ml paca",
+          "image": "../images/aguasalvapaca.png"
       },
       {
           "id": "5049",
-          "name": "AGUA CLARA 600 MLÑ                                          ",
-          "quantity": "PACA                ",
+          "name": "AGUA CLARA 600 ML ",
+          "quantity": "PACA",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Agua clara x 600 ml paca",
+          "image": "../images/aguaClaraPaca.png"
       },
       {
           "id": "5051",
-          "name": "POSTOBON 400 ML                                             ",
-          "quantity": "PACA                ",
+          "name": "POSTOBON 400 ML",
+          "quantity": "PACA",
           "price": " $ 17,000 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Postobon 400 ml paca",
+          "image": "../images/postobon400mlPaca.png"
       },
       {
           "id": "6001",
-          "name": "LUCKY ROJO PQ                                               ",
-          "quantity": "CARTON              ",
+          "name": "LUCKY ROJO PQ",
+          "quantity": "CARTON",
           "price": " $ 70,000 ",
           "category": "CIGARETTE",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
@@ -3504,161 +3504,161 @@
       },
       {
           "id": "6002",
-          "name": "LUCKY ROJO PQ X 1/2 CARTON                                  ",
-          "quantity": "CARTON              ",
+          "name": "LUCKY ROJO PQ X 1/2 CARTON",
+          "quantity": "CARTON",
           "price": " $ 35,000 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos Lucky Rojo, paquete 1/2 cartón",
+          "image": "../images/luckyRojoMedioCarton.png"
       },
       {
           "id": "6003",
-          "name": "LUCKY MEDIO                                                 ",
-          "quantity": "CARTON              ",
+          "name": "LUCKY MEDIO",
+          "quantity": "CARTON",
           "price": " $ 77,500 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos Lucky, 1/2 cartón",
+          "image": "../images/luckyRojoMedioCarton.png"
       },
       {
           "id": "6004",
-          "name": "LUCKY MEDIO X 1/2 CARTON                                    ",
-          "quantity": "CARTON              ",
+          "name": "LUCKY MEDIO X 1/2 CARTON",
+          "quantity": "CARTON",
           "price": " $ 38,500 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos Lucky, 1/2 cartón",
+          "image": "../images/luckyRojoMedioCarton.png"
       },
       {
-          "id": "6004-1              ",
-          "name": "LUCKY MEDIO X CAJETILLA                                     ",
-          "quantity": "UNIDAD              ",
+          "id": "6004-1",
+          "name": "LUCKY MEDIO X CAJETILLA",
+          "quantity": "UNIDAD",
           "price": " $ 4,800 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos Lucky, 1/2 x cajetilla",
+          "image": "../images/luckyRojoMedioCarton.png"
       },
       {
           "id": "6005",
-          "name": "LUCKY PQ                                                    ",
-          "quantity": "CARTON              ",
+          "name": "LUCKY PQ",
+          "quantity": "CARTON",
           "price": " $ 76,500 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos Lucky, paquete cartón",
+          "image": "../images/luckyRojoMedioCarton.png"
       },
       {
           "id": "6006",
-          "name": "LUCKY PQ  X 1/2 CARTON                                      ",
-          "quantity": "CARTON              ",
+          "name": "LUCKY PQ  X 1/2 CARTON",
+          "quantity": "CARTON",
           "price": " $ 38,000 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos Lucky, paquete 1/2 cartón",
+          "image": "../images/luckyRojoMedioCarton.png"
       },
       {
           "id": "6007",
-          "name": "ROTHMAN BLANCO MEDIO                                        ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN BLANCO MEDIO",
+          "quantity": "CARTON",
           "price": " $ 51,000 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan blanco medio cartón",
+          "image": "../images/rothmanMedioCarton.png"
       },
       {
           "id": "6008",
-          "name": "ROTHMAN BLANCO MEDIO X1/2 CARTON                            ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN BLANCO MEDIO X1/2 CARTON",
+          "quantity": "CARTON",
           "price": " $ 34,500 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan blanco 1/2 cartón",
+          "image": "../images/rothmanMedioCarton.png"
       },
       {
-          "id": "6008-1              ",
-          "name": "ROTHMAN BLANCO MEDIO X CAJETILLA                            ",
-          "quantity": "UNIDAD              ",
+          "id": "6008-1",
+          "name": "ROTHMAN BLANCO MEDIO X CAJETILLA",
+          "quantity": "UNIDAD",
           "price": " $ 3,500 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan blanco medio por cajetilla",
+          "image": "../images/rothmanMedioCarton.png"
       },
       {
           "id": "6009",
-          "name": "ROTHMAN BLANCO PQ                                           ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN BLANCO PQ",
+          "quantity": "CARTON",
           "price": " $ 43,000 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan blanco medio paquete cartón",
+          "image": "../images/rothmanMedioCarton.png"
       },
       {
-          "id": "6009-1              ",
-          "name": "ROTHMAN BLANCO PQ X CAJETILLA                               ",
-          "quantity": "UNIDAD              ",
+          "id": "6009-1",
+          "name": "ROTHMAN BLANCO PQ X CAJETILLA",
+          "quantity": "UNIDAD",
           "price": " $ 7,000 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan blanco medio paquete x cajetilla",
+          "image": "../images/rothmanMedioCarton.png"
       },
       {
           "id": "6010",
-          "name": "ROTHMAN BLANCO PQ X 1/2 CARTON                              ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN BLANCO PQ X 1/2 CARTON",
+          "quantity": "CARTON",
           "price": " $ 21,500 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan blanco medio paquete cartón",
+          "image": "../images/rothmanMedioCarton.png"
       },
       {
           "id": "6011",
-          "name": "ROTHMAN GRIS MEDIO                                          ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN GRIS MEDIO",
+          "quantity": "CARTON",
           "price": " $ 66,000 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan  gris medio",
+          "image": "../images/rothmangRISmEDIO.png"
       },
       {
           "id": "6012",
-          "name": "ROTHMAN GRIS MEDIO X1/2 CARTON                              ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN GRIS MEDIO X1/2 CARTON",
+          "quantity": "CARTON",
           "price": " $ 33,000 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan  gris x 1/2 cartón",
+          "image": "../images/rothmangRISmEDIO.png"
       },
       {
-          "id": "6012-1              ",
-          "name": "ROTHMAN GRIS MEDIO X CAJETILLA                              ",
-          "quantity": "UNIDAD              ",
+          "id": "6012-1",
+          "name": "ROTHMAN GRIS MEDIO X CAJETILLA",
+          "quantity": "UNIDAD",
           "price": " $ 4,000 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan  gris medio x cajetilla",
+          "image": "../images/rothmangRISmEDIO.png"
       },
       {
           "id": "6013",
-          "name": "ROTHMAN GRIS PQ                                             ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN GRIS PQ",
+          "quantity": "CARTON",
           "price": " $ 65,500 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan  gris paquete",
+          "image": "../images/rothmangRISmEDIO.png"
       },
       {
           "id": "6014",
-          "name": "ROTHMAN GRIS PQ X 1/2 CARTON                                ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN GRIS PQ X 1/2 CARTON",
+          "quantity": "CARTON",
           "price": " $ 32,800 ",
           "category": "CIGARETTE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Cigarrillos RothMan  gris 1/2 cartón",
+          "image": "../images/rothmangRISmEDIO.png"
       },
       {
           "id": "6015",
-          "name": "ROTHMAN MEDIO                                               ",
-          "quantity": "CARTON              ",
+          "name": "ROTHMAN MEDIO",
+          "quantity": "CARTON",
           "price": " $ 66,500 ",
           "category": "CIGARETTE",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",

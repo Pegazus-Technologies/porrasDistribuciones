@@ -1,12 +1,4 @@
 /* Scss Document */
-@font-face {
-  font-family: "PoppinsLight";
-  src: url("../css/fonts/Poppins-Light.ttf");
-}
-
-html body {
-  font-family: "PoppinsLight";
-}
 
 #slider {
   margin-top: 40px;
@@ -1169,10 +1161,6 @@ a:hover {
 
 .js .animate-box {
   opacity: 0;
-}
-
-#fh5co-title-box {
-  height: 65vh;
 }
 
 #fh5co-title-box img.bkimg {

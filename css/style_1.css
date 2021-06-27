@@ -1,16 +1,58 @@
 /* Scss Document */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
 @font-face {
-  font-family: "PoppinsLight";
-  src: url("../css/fonts/Poppins-Light.ttf");
+  font-family: "Roboto-Light";
+  src: url("../css/fonts/Roboto-Light.ttf");
 }
 
 html body {
-  font-family: "PoppinsLight";
+  font-family: "Roboto-Light";
 }
 
 #slider {
   margin-top: 40px;
   margin-bottom: 20px;
+}
+
+.promo-container {
+  margin-top: 30px;
+}
+
+.promo-container .promo {
+  width: 250px;
+  height: 70%;
+  background: #fff;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.promo-container .promo .image img {
+  height: 290px;
+  width: 270px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.promo-container .promo .content {
+  padding: 0 20px;
+}
+
+.promo-container .promo .content {
+  font-weight: 600;
+  font-size: 22px;
+  color: #333;
+  text-transform: capitalize;
+}
+
+.promo-container .promo:hover {
+  text-decoration: underline;
+}
+
+.container-button a {
+  display: inline-block;
+  text-align: center;
+  width: 220px;
+  height: 40px;
 }
 
 a,
@@ -62,7 +104,7 @@ a:hover {
 }
 
 .fh5co_logo_width {
-  width: 130px;
+  width: 105px;
 }
 
 .fh5co_mediya_right {
@@ -211,7 +253,7 @@ a:hover {
 
 .subtitulo {
   font-size: 15px;
-  color: #997719 !important;
+  color: #FDC403 !important;
   font-weight: 800;
   text-align: justify;
 }
@@ -293,7 +335,7 @@ a:hover {
 }
 
 .fh5co_heading {
-  font-size: 25px;
+  font-size: 600;
   color: #010202;
   font-weight: 700;
 }
@@ -496,7 +538,7 @@ a:hover {
 }
 
 .fh5co_news_img {
-  height: 200px;
+  height: 250px;
   border-radius: 5px;
   overflow: hidden;
   position: relative;
@@ -509,7 +551,7 @@ a:hover {
 }
 
 .fh5co_news_img > img {
-  height: 260px;
+  height: 350px;
   min-width: 100%;
 }
 
@@ -637,7 +679,7 @@ a:hover {
 .fh5co_consectetur {
   font-size: 16px;
   color: #070403;
-  font-weight: 700;
+  font-weight: 500 !important;
 }
 
 .fh5co_gaming_topikk {
@@ -728,7 +770,7 @@ a:hover {
 }
 
 .footer_logo {
-  width: 140px;
+  width: 105px;
 }
 
 .footer_main_title {
@@ -1113,7 +1155,7 @@ a:hover {
   opacity: 0;
 }
 
-#fh5co-title-box {
+.img_nosotros_container {
   height: 65vh;
 }
 
