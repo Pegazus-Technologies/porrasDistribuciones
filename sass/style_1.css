@@ -9,6 +9,23 @@ html body {
   font-family: "Roboto-Light";
 }
 
+.reloj {
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+}
+
+.clock {
+  position: relative;
+  color: #997719;
+  font-weight: bold;
+  top: 50%;
+  left: 60%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  padding: 5px 40px;
+}
+
 #slider {
   margin-top: 40px;
   margin-bottom: 20px;
@@ -122,16 +139,6 @@ html body {
   width: 300px;
   height: 80%;
   background: #fff;
-  padding-bottom: 10px;
-}
-
-.sucursal-container .sucursal .image-suc img {
-  height: 350px;
-  width: 300px;
-  -o-object-fit: cover;
-     object-fit: cover;
-  margin-left: 1em;
-  margin-right: 2em;
 }
 
 .sucursal-container .sucursal .content-suc {
@@ -214,7 +221,7 @@ a:hover {
 }
 
 .fh5co_logo_width {
-  width: 105px;
+  width: 140px;
 }
 
 .fh5co_mediya_right {

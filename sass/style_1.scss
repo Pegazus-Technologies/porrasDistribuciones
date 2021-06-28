@@ -46,6 +46,24 @@ $yellow: #f5bc04;
   transition: all $transition ease;
 }
 
+// RELOJ
+.reloj{
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+}
+
+.clock{
+  position: relative;
+  color: #997719;
+  font-weight: bold;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  padding: 5px 40px;
+}
+// FIN RELOJ
+
 #slider {
   margin-top: 40px;
   margin-bottom: 20px;
@@ -232,7 +250,7 @@ a:hover {
   left: 9px;
 }
 .fh5co_logo_width {
-  width: 105px;
+  width: 140px;
 }
 .fh5co_mediya_right {
   text-align: right;
