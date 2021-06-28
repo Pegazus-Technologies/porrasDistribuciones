@@ -12,8 +12,8 @@ $(function(){
 
     ('#modal').modal({
         backdrop: 'static',
-        keyboard: true,
+        keyboard: false,
         focus: false,
-        show: false
+        show: true
     });
 });
