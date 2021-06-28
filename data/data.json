@@ -1182,62 +1182,62 @@
       },
       {
           "id": "2067",
-          "name": "DUO SELLO ROJO UND                                          ",
-          "quantity": "UNIDAD              ",
+          "name": "DUO SELLO ROJO UND",
+          "quantity": "UNIDAD",
           "price": " $ 88,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Sello rojo duo unidad",
+          "image": "../images/selloRojoDuo.png"
       },
       {
           "id": "2068",
-          "name": "DUO SELLO ROJO CAJA                                         ",
-          "quantity": "CAJA X 6            ",
+          "name": "DUO SELLO ROJO CAJA",
+          "quantity": "CAJA X 6",
           "price": " $ 528,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Sello rojo caja * 6 unidades",
+          "image": "../images/selloRojoDuo.png"
       },
       {
           "id": "2069",
-          "name": "FOUR LOKO UND                                               ",
-          "quantity": "UNIDAD              ",
+          "name": "FOUR LOKO UND",
+          "quantity": "UNIDAD",
           "price": " $ 10,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida con alcohol Four  Loko unidad",
+          "image": "../images/fourLokoUnidad.png"
       },
       {
           "id": "2070",
-          "name": "FOUR LOKO BANDEJA                                           ",
-          "quantity": "CAJA                ",
+          "name": "FOUR LOKO BANDEJA",
+          "quantity": "CAJA",
           "price": " $ 240,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida con alcohol Four Loko bandeja",
+          "image": "../images/fourLokoBandeja.png"
       },
       {
           "id": "2071",
-          "name": "GLENFIDDICH 12A BT UND                                      ",
-          "quantity": "UNIDAD              ",
+          "name": "GLENFIDDICH 12A BT UND",
+          "quantity": "UNIDAD",
           "price": " $ 100,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky gledfiddich 12 años botella",
+          "image": "../images/gledfiddichBotella.png"
       },
       {
           "id": "2072",
-          "name": "GLENFIDDICH 12A BT CAJA                                     ",
-          "quantity": "CAJA X 12           ",
+          "name": "GLENFIDDICH 12A BT CAJA",
+          "quantity": "CAJA X 12",
           "price": " $ 1,200,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky gledfiddich 12 años botella, caja x 12 unidades",
+          "image": "../images/gledfiddichBotella.png"
       },
       {
           "id": "2073",
-          "name": "GLENFIDDICH 18A BT UND                                      ",
-          "quantity": "UNIDAD              ",
+          "name": "GLENFIDDICH 18A BT UND",
+          "quantity": "UNIDAD",
           "price": " $ 215,000 ",
           "category": "LIQUOR",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
