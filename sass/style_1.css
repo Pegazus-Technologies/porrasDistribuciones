@@ -1,4 +1,13 @@
 /* Scss Document */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../css/fonts/Roboto-Light.ttf");
+}
+
+html body {
+  font-family: "Roboto-Light";
+}
 
 #slider {
   margin-top: 40px;
@@ -45,7 +54,7 @@
 }
 
 .marca .marc img {
-  width: 250px;
+  width: 150px;
   height: 100px;
 }
 
@@ -687,7 +696,7 @@ a:hover {
 .fh5co_consectetur {
   font-size: 16px;
   color: #070403;
-  font-weight: 700;
+  font-weight: 500 !important;
 }
 
 .fh5co_gaming_topikk {
@@ -1161,6 +1170,10 @@ a:hover {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.img_nosotros_container {
+  height: 65vh;
 }
 
 #fh5co-title-box img.bkimg {
