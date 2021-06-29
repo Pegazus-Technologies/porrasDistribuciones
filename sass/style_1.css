@@ -13,17 +13,22 @@ html body {
   margin: 0px;
   padding: 0px;
   font-size: 20px;
+  font-weight: bold;
+  padding: 3px;
+  color: white;
+  background-color: #b18409c0;
 }
 
 .clock {
   position: relative;
-  color: #997719;
-  font-weight: bold;
   top: 50%;
   left: 60%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  padding: 5px 40px;
+  padding: 0px 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 #slider {
