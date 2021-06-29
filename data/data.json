@@ -1848,25 +1848,25 @@
       },
       {
           "id": "2141",
-          "name": "RON M/LLIN 3 AÑOS 1/2 UNIDAD",
+          "name": "RON MEDELLÍN  3 AÑOS 1/2 UNIDAD",
           "quantity": "UNIDAD",
           "price": " $ 20,300",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron medellín 3 años 1/2 botella unidad",
+          "image": "../images/medellinMediaBotella.png"
       },
       {
           "id": "2142",
-          "name": "RON M/LLIN 3 AÑOS 1/2 CAJA",
+          "name": "RON MEDELLÍN 3 AÑOS 1/2 CAJA",
           "quantity": "CAJA X 30",
           "price": " $ 609,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron medellín 3 años 1/2 botella caja x 30 unidades",
+          "image": "../images/medellinMediaBotella.png"
       },
       {
           "id": "2143",
-          "name": "RON M/LLIN 3 AÑOS BT UND",
+          "name": "RON MEDELLÍN 3 AÑOS BT UNIDAD",
           "quantity": "UNIDAD",
           "price": " $ 36,000 ",
           "category": "LIQUOR",
@@ -1875,7 +1875,7 @@
       },
       {
           "id": "2144",
-          "name": "RON M/LLIN 3 AÑOS BOTELLA CAJA",
+          "name": "RON MEDELLÍN  3 AÑOS BOTELLA CAJA",
           "quantity": "CAJA X 20",
           "price": " $ 720,000 ",
           "category": "LIQUOR",
