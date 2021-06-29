@@ -9,6 +9,28 @@ html body {
   font-family: "Roboto-Light";
 }
 
+.reloj {
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 3px;
+  color: white;
+  background-color: #b18409c0;
+}
+
+.clock {
+  position: relative;
+  top: 50%;
+  left: 60%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  padding: 0px 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 #slider {
   margin-top: 40px;
   margin-bottom: 20px;
@@ -54,7 +76,7 @@ html body {
 }
 
 .marca .marc img {
-  width: 250px;
+  width: 150px;
   height: 100px;
 }
 
@@ -204,7 +226,7 @@ a:hover {
 }
 
 .fh5co_logo_width {
-  width: 105px;
+  width: 140px;
 }
 
 .fh5co_mediya_right {
