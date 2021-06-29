@@ -2888,24 +2888,24 @@
           "name": "RON M/LLIN 8 AÑOS BOTELLA UND",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron Medellin Extra Añejo 8 Años 750 ml",
+          "image": "../images/Ron_Medellin_8_anos_750ml-Licores_Medellin-.jpg"
       },
       {
           "id": "2254",
           "name": "VODKA ABSOLUT LT CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Vodka Absolut - 1 Lt Caja Con 12 Piezas",
+          "image": "../images/vodka-absolut-45-lt-com-caixa.jpg"
       },
       {
           "id": "2255",
           "name": "VODKA ABSOLUT LT UNDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Presentación:1000 ml, Color: Cristal, País: Suecia, Grado Alcohol:40%",
+          "image": "../images/Vodka-Absolut-Original-Botella-1000-ml-1.jpg"
       },
       {
           "id": "2256",
@@ -2920,8 +2920,8 @@
           "name": "AGUARD CRISTAL XS 1/2 UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Aguardiente Cristal Xs Sin Azúcar 1/2 Botella x 375 ml",
+          "image": "../images/CristakXS1Medio.jpg"
       },
       {
           "id": "2258",
@@ -2936,8 +2936,8 @@
           "name": "AGUARD CRISTAL XS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Aguardiente CRISTAL XS suave x375 ml.",
+          "image": "../images/Aguardiente-Cristal-xs-x750ml-1000x798-600x479.jpg"
       },
       {
           "id": "2260",
@@ -2952,8 +2952,8 @@
           "name": "ANTIO AZUL GARRAFA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Elaborado con alcoholes extra puros, esencias naturales de anís, azúcar refinada de alta pureza, y un agua de la mejor calidad.",
+          "image": "../images/GarrafaAtAzul.jpg"
       },
       {
           "id": "3001",
