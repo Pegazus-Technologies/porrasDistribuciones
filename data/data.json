@@ -250,7 +250,7 @@
           "price": " $ 9,200 ",
           "category": "BEER",
           "description": "Cerveza costeñita sixpack",
-          "image": "../images/costeñitasixpack.png"
+          "image": "../images/costenitasixpack.png"
       },
       {
           "id": "1029",
@@ -259,7 +259,7 @@
           "price": " $ 36,500 ",
           "category": "BEER",
           "description": "Cerveza costeñita bandeja",
-          "image": "../images/costeñitaBandeja.png"
+          "image": "../images/costenitaBandeja.png"
       },
       {
           "id": "1030",
@@ -584,7 +584,7 @@
           "quantity": "SIXPACK",
           "category": "BEER",
           "description": "Cerveza costeña bacana 330 sixpack",
-          "image": "../images/costeñitasixpack.png"
+          "image": "../images/costenitasixpack.png"
       },
       {
           "id": "2001",
@@ -2591,7 +2591,7 @@
           "price": " $ 32,000 ",
           "category": "BEERS",
           "description": "Cerveza costeña gris bandeja",
-          "image": "../images/costeñaGrisBandeja.png"
+          "image": "../images/costenaGrisBandeja.png"
       },
       {
           "id": "2218",
@@ -2599,7 +2599,7 @@
           "quantity": "SIXPACK",
           "category": "BEERS",
           "description": "Cerveza Costeña gris sixpack",
-          "image": "../images/costeñaGriosSix.png"
+          "image": "../images/costenaGriosSix.png"
       },
       {
           "id": "2219",
@@ -4255,7 +4255,7 @@
           "price": " $ 21,000 ",
           "category": "CLEANING",
           "description": "¿Qué te parece tener una cosa menos de qué preocuparte? Glade® Automático ofrece la confianza de que tu baño tenga una frescura que no desaparecerá. La fragancia liberada en el tiempo de forma automática crea un ambiente que tiene más frescura y menos preocupación. Cuando necesites una descarga controlada de fragancia, solo usa el botón de descarga para que la frescura perdure, pero los olores no.",
-          "image": "../images/gladeAutomático.png"
+          "image": "../images/gladeAutomatico.png"
       },
       {
           "id": "8041",
@@ -4264,7 +4264,7 @@
           "price": " $ 13,000 ",
           "category": "CLEANING",
           "description": "Glade repuesto automático",
-          "image": "../images/gladeAutomático.png"
+          "image": "../images/gladeAutomatico.png"
       },
       {
           "id": "8042",
