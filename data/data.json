@@ -2455,8 +2455,8 @@
           "quantity": "UNIDAD",
           "price": " $ 18,800 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Smirnoff lulo 1/2 botella unidad",
+          "image": "../images/smirnoffLuloMedia.png"
       },
       {
           "id": "2203",
@@ -2464,8 +2464,8 @@
           "quantity": "UNIDAD",
           "price": " $ 54,900 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Sello Rojo Litro unidad",
+          "image": "../images/selloRojoLitro.png"
       },
       {
           "id": "2204",
@@ -2473,8 +2473,8 @@
           "quantity": "CAJA X 12",
           "price": " $ 658,800 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Sello Rojo Litro caja x 12 unidades",
+          "image": "../images/selloRojoLitro.png"
       },
       {
           "id": "2205",
@@ -2482,8 +2482,8 @@
           "quantity": "CAJA X 12",
           "price": " $ 524,400 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron Viejo de Caldas litro caja x 12 unidades.",
+          "image": "../images/ronViejodeCaldasLitro.png"
       },
       {
           "id": "2206",
@@ -2491,8 +2491,8 @@
           "quantity": "UNIDAD",
           "price": " $ 43,700 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron Viejo de Caldas litro caja x 12 unidades.",
+          "image": "../images/ronViejodeCaldasLitro.png"
       },
       {
           "id": "2207",
@@ -2500,8 +2500,8 @@
           "quantity": "CAJA X 6",
           "price": " $ 570,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jagermeister litro caja x 6 unidades",
+          "image": "../images/jagermeisterLitro.png"
       },
       {
           "id": "2208",
@@ -2509,8 +2509,8 @@
           "quantity": "UNIDAD",
           "price": " $ 95,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jagermeister litro unidad",
+          "image": "../images/jagermeisterLitro.png"
       },
       {
           "id": "2209",
@@ -2518,8 +2518,8 @@
           "quantity": "CAJA X 6",
           "price": " $ 450,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jagermeister botella caja x 6 unidades",
+          "image": "../images/jagermeisterLitro.png"
       },
       {
           "id": "2210",
@@ -2527,17 +2527,17 @@
           "quantity": "UNIDAD",
           "price": " $ 75,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jagermeister botella unidad",
+          "image": "../images/jagermeisterLitro.png"
       },
       {
           "id": "2211",
           "name": "VINO MOSCATO PASSITO LT CAJA",
-          "quantity": "CAJA X 12           ",
+          "quantity": "CAJA X 12",
           "price": " $ 150,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Vino Moscato Passito litro caja x 12 unidades",
+          "image": "../images/moscatoPassitoLitro.png"
       },
       {
           "id": "2212",
@@ -2545,8 +2545,8 @@
           "quantity": "UNIDAD",
           "price": " $ 12,500 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Vino Moscato Passito litro unidad",
+          "image": "../images/moscatoPassitoLitro.png"
       },
       {
           "id": "2213",
@@ -2554,8 +2554,8 @@
           "quantity": "CAJA X 12",
           "price": " $ 452,400",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Brandy Domecq Botella caja x 12 unidades",
+          "image": "../images/brandiDomecBotella.png"
       },
       {
           "id": "2214",
@@ -2563,8 +2563,8 @@
           "quantity": "UNIDAD",
           "price": " $ 37,700 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Brandy Domecq Botella caja x 12 unidades",
+          "image": "../images/brandiDomecBotella.png"
       },
       {
           "id": "2215",
@@ -2572,8 +2572,8 @@
           "quantity": "CAJA X 24 ",
           "price": " $ 420,000",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky John Thomas 1/2 botella caja x 24 unidades",
+          "image": "../images/JohnThomasMedia.png"
       },
       {
           "id": "2216",
@@ -2581,34 +2581,34 @@
           "quantity": "UNIDAD",
           "price": " $ 17,500",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky John Thomas 1/2 botella unidad",
+          "image": "../images/JohnThomasMedia.png"
       },
       {
           "id": "2217",
-          "name": "CERVEZA COSTE-GRIS BANDEJA",
+          "name": "CERVEZA COSTEÑA GRIS BANDEJA",
           "quantity": "BANDEJA",
           "price": " $ 32,000 ",
-          "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "category": "BEERS",
+          "description": "Cerveza costeña gris bandeja",
+          "image": "../images/costeñaGrisBandeja.png"
       },
       {
           "id": "2218",
-          "name": "CERVEZA COSTE-GRIS SIX",
+          "name": "CERVEZA COSTEÑA GRIS SIXPACK",
           "quantity": "SIXPACK",
-          "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "category": "BEERS",
+          "description": "Cerveza Costeña gris sixpack",
+          "image": "../images/costeñaGriosSix.png"
       },
       {
           "id": "2219",
-          "name": "RON CALDAS ROBLE BC BT UND",
+          "name": "RON CALDAS ROBLE BlANCO BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "price": " $ 27,500 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron viejo de Caldas blanco botella unidad",
+          "image": "../images/ronViejoCaldasRoble.png"
       },
       {
           "id": "2220",
@@ -2616,26 +2616,26 @@
           "quantity": "CAJA X 12",
           "price": " $ 330,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron viejo de Caldas blanco botella caja x 12 unidades",
+          "image": "../images/ronViejoCaldasRoble.png"
       },
       {
           "id": "2221",
-          "name": "RON CALDAS ESENCIAL BT UND",
+          "name": "RON CALDAS ESENCIAL BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "price": " $ 27,500 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron Viejo de Caldas Esencial unidad",
+          "image": "../images/ronViejoDeCaldasEsencial.png"
       },
       {
           "id": "2222",
           "name": "RON CALDAS ESENCIAL BOTELLA CAJA",
-          "quantity": "CAJA X 12           ",
+          "quantity": "CAJA X 12",
           "price": " $ 330,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ron Viejo de Caldas Esencial caja x 12 unidades",
+          "image": "../images/ronViejoDeCaldasEsencial.png"
       },
       {
           "id": "2223",
@@ -2643,8 +2643,8 @@
           "quantity": "UNIDAD",
           "price": " $ 22,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Sello Negro unidad",
+          "image": "../images/sellonegroMedia.png"
       },
       {
           "id": "2224",
@@ -2652,8 +2652,8 @@
           "quantity": "CAJA X 24",
           "price": " $ 528,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Sello Negro x 24 unidades" ,
+          "image": "../images/sellonegroMedia.png"
       },
       {
           "id": "2225",
