@@ -68,6 +68,26 @@ $yellow: #f5bc04;
 }
 // FIN RELOJ
 
+// RELOj FINAL
+.cont-reloj{
+  position: relative;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  padding: 0px 40px;
+  display: flex;
+}
+.reloj-uno{
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+  padding: 3px;
+  color: rgb(255, 255, 255);
+  background-color: #997719;
+  // font-size: 20px;
+}
+// FIN RELOJ FINAL
+
 #slider {
   margin-top: 40px;
   margin-bottom: 20px;
