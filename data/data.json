@@ -2375,7 +2375,7 @@
           "price": " $ 112,000 ",
           "category": "LIQUOR",
           "description": "Caja de 24 latas de vodka Smirnoff Ice manzana",
-          "image": "../images/unnamed.jpg"
+          "image": "../images/LataIceManz.jpg"
       },
       {
           "id": "2194-1",
@@ -2384,7 +2384,7 @@
           "price": " $ 4,700 ",
           "category": "LIQUOR",
           "description": "Smirnoff Ice Manzana Lata 350ml",
-          "image": "../images/unnamed.jpg"
+          "image": "../images/LataIceManz.jpg"
       },
       {
           "id": "2195",
