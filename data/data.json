@@ -2661,8 +2661,8 @@
           "quantity": "CAJA X 12",
           "price": " $ 552,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ginebra Gordon botella caja x 12 unidades",
+          "image": "../images/ginebragordonBotella.png"
       },
       {
           "id": "2226",
@@ -2670,8 +2670,8 @@
           "quantity": "UNIDAD",
           "price": " $ 46,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ginebra Gordon botella unidad",
+          "image": "../images/ginebragordonBotella.png"
       },
       {
           "id": "2227",
@@ -2679,113 +2679,113 @@
           "quantity": "CAJA X 12",
           "price": " $ 1,080,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ginebra tanqueray botella caja x 12 unidades",
+          "image": "../images/ginebraTanqueraiBotella.png"
       },
       {
           "id": "2228",
           "name": "GINEBRA TANQUERAY BOTELLA UNIDAD",
-          "quantity": "UNIDAD              ",
+          "quantity": "UNIDAD",
           "price": " $ 90,000 ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Ginebra tanqueray botella unidad",
+          "image": "../images/ginebraTanqueraiBotella.png"
       },
       {
           "id": "2229",
           "name": "SELLO DORADO BOTELLA CAJA",
           "quantity": "CAJA X 6",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Sello Dorado botella caja x 6 unidades",
+          "image": "../images/selloDoradoBotella.png"
       },
       {
           "id": "2230",
           "name": "SELLO DORADO BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Sello Dorado botella unidad",
+          "image": "../images/selloDoradoBotella.png"
       },
       {
           "id": "2231",
           "name": "JAGGERMEISTER 1/2 CAJA",
           "quantity": "CAJA X 6",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jaggermeister 1/2 botella caja x 6 unidades",
+          "image": "../images/JaggermeisterMedia.png"
       },
       {
           "id": "2232",
           "name": "JAGGERMEISTER 1/2 UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Jaggermeister 1/2 botella unidad",
+          "image": "../images/JaggermeisterMedia.png"
       },
       {
           "id": "2233",
           "name": "JIMADOR BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "LTequila Jimador botella caja x 12 unidades",
+          "image": "../images/tequilaJimadorBotella.jpg"
       },
       {
           "id": "2234",
           "name": "JIMADOR BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "LTequila Jimador botella caja",
+          "image": "../images/tequilaJimadorBotella.jpg"
       },
       {
           "id": "2235",
           "name": "CAZADORES BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Tequila casadores botella caja x 12 unidades",
+          "image": "../images/tequilCasadoresBotella.png"
       },
       {
           "id": "2236",
-          "name": "CAZADORES BOTELLA UND",
+          "name": "CAZADORES BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Tequila casadores botella unidad",
+          "image": "../images/tequilCasadoresBotella.png"
       },
       {
           "id": "2237",
           "name": "VINO PRESIDENCIAL BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Vino presidencial botella caja x 12 unidades",
+          "image": "../images/vinoPresidencial.png"
       },
       {
           "id": "2238",
           "name": "VINO PRESIDENCIAL BOTELLA UNIDAD",
-          "quantity": "UNIDAD              ",
+          "quantity": "UNIDAD ",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Vino presidencial botella unidad",
+          "image": "../images/vinoPresidencial.png"
       },
       {
           "id": "2239",
           "name": "VINO MANISCHEWITZ BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Vino ManischewitzBotella botella caja x 12 unidades",
+          "image": "../images/VinoManischewitzBotella.png"
       },
       {
           "id": "2240",
           "name": "VINO MANISCHEWITZ BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Vino ManischewitzBotella botella unidad",
+          "image": "../images/VinoManischewitzBotella.png"
       },
       {
           "id": "2241",
@@ -2812,14 +2812,6 @@
           "image": "../images/PhotoRoom_20200908_214328.jpg"
       },
       {
-          "id": "2244",
-          "name": "OLD PARR 18 AÑOS BOTELLA CAJA",
-          "quantity": "CAJA X 12",
-          "category": "LIQUOR",
-          "description": "Whisky Old Parr 18 Años Caja X 12 Und.",
-          "image": "../images/oldpar-18-750.jpg"
-      },
-      {
           "id": "2245",
           "name": "OLD PARR 18 AÑOS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
@@ -2832,60 +2824,60 @@
           "name": "RON ZACAPA BOTELLA CAJA",
           "quantity": "CAJA X 6",
           "category": "LIQUOR",
-          "description": "Caja x 6 Und De Ron Zacapa.",
-          "image": "../images/2520840.png"
+          "description": "Ron zapaca botella caja x 6 unidades",
+          "image": "../images/ronzapacabaBotella.png"
       },
       {
           "id": "2247",
           "name": "RON ZACAPA BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lleva a casa fácil y rápido Ron Zacapa 23 Centenario x 750 Ml.",
-          "image": "../images/2520840.png"
+          "description": "Ron zapaca botella unidad",
+          "image": "../images/ronzapacabaBotella.png"
       },
       {
           "id": "2248",
           "name": "RON ZACAPA XO BOTELLA CAJA",
           "quantity": "CAJA X 6",
           "category": "LIQUOR",
-          "description": "Caja Ron Zacapa X 6 Und.",
-          "image": "../images/Ron_zacapa_xo_700m-Licores_Medellin-1.jpg"
+          "description": "Ron Zapaca xo botella caja x 6 unidades",
+          "image": "../images/ronZapacaxoBotella.png"
       },
       {
           "id": "2249",
           "name": "RON ZACAPA XO BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Presentación:750ml, Color: Acaramelado, País: Guatemala, Grado Alcohol:40%.",
-          "image": "../images/Ron_zacapa_xo_700m-Licores_Medellin-1.jpg"
+          "description": "Ron Zapaca xo botella unidad",
+          "image": "../images/ronZapacaxoBotella.png"
       },
       {
           "id": "2250",
-          "name": "RON M/LLIN 5 AÑOS BOTELLA CAJA",
+          "name": "RON MEDELLÍN 5 AÑOS BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": " Caja Ron Medellin 5 Años X 12 Und.",
-          "image": "../images/7-015-Ron-Medellín-5-anos-Media-Botella-375-ml-100.jpg"
+          "description": "Ron Medellín 5 años botella caja x 12 unidades",
+          "image": "../images/ronMedellin5anos.png"
       },
       {
           "id": "2251",
-          "name": "RON M/LLIN 5 AÑOS BOTELLA UNIDAD",
+          "name": "RON MEDELLÍN 5 AÑOS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Presentación:750ml, Color: Caramelo con Leche, País: Colombia, Grado Alcohol:35%.",
-          "image": "../images/7-015-Ron-Medellín-5-anos-Media-Botella-375-ml-100.jpg"
+          "description": "Ron Medellín 5 años botella unidad",
+          "image": "../images/ronMedellin5anos.png"
       },
       {
           "id": "2252",
-          "name": "RON M/LLIN 8 AÑOS BOTELLA CAJA",
+          "name": "RON MEDELLÍN 8 AÑOS BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Ron Medellin Extra Añejo 8 Años Caja X 12 Und.",
-          "image": "../images/Ron_Medellin_8_anos_750ml-Licores_Medellin-.jpg"
+          "description": "Ron Medellin Extra Añejo 8 Años 750 ml caja x 12 unidades",
+          "image": "../images/ronmedellin8anos.png"
       },
       {
           "id": "2253",
-          "name": "RON M/LLIN 8 AÑOS BOTELLA UND",
+          "name": "RON MEDELLÍN 8 AÑOS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
           "description": "Ron Medellin Extra Añejo 8 Años 750 ml",
@@ -2912,7 +2904,7 @@
           "name": "AGUARD CRISTAL XS 1/2CAJA",
           "quantity": "CAJA X 24",
           "category": "LIQUOR",
-          "description": "Aguardiente Cristal XS Caja X 24 Und",
+          "description": "Aguardiente cristal xs 1/2 botella caja x 24 unidades",
           "image": "../images/CristakXS1Medio.jpg"
       },
       {
@@ -2925,7 +2917,7 @@
       },
       {
           "id": "2258",
-          "name": "AGUARD CRISTAL XS BOTELLA CAJA",
+          "name": "AGUARDIENTE CRISTAL XS BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
           "description": "Aguardiente Cristal XS Caja X 12 Und.",
@@ -2933,7 +2925,7 @@
       },
       {
           "id": "2259",
-          "name": "AGUARD CRISTAL XS BOTELLA UNIDAD",
+          "name": "AGUARDIENTE CRISTAL XS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
           "description": "Aguardiente CRristal XS suave x375 ml.",
@@ -2941,15 +2933,15 @@
       },
       {
           "id": "2260",
-          "name": "ANTIO AZUL GARRAFA CAJA",
+          "name": "ANTIOQUEÑO AZUL GARRAFA CAJA",
           "quantity": "CAJA X ",
           "category": "LIQUOR",
-          "description": "Garrafa Antoqueño Azul Caja.",
+          "description": "Elaborado con alcoholes extra puros, esencias naturales de anís, azúcar refinada de alta pureza, y un agua de la mejor calidad.",
           "image": "../images/GarrafaAtAzul.jpg"
       },
       {
           "id": "2261",
-          "name": "ANTIO AZUL GARRAFA UNIDAD",
+          "name": "ANTIOQUEÑO AZUL GARRAFA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
           "description": "Elaborado con alcoholes extra puros, esencias naturales de anís, azúcar refinada de alta pureza, y un agua de la mejor calidad.",
@@ -4051,7 +4043,7 @@
       },
       {
           "id": "8017",
-          "name": "DET. ARIEL 1.2 LIQ                                          ",
+          "name": "DETERGENTE. ARIEL 1.2 LIQUIDO",
           "quantity": "UNIDADES",
           "price": " $ 9,500 ",
           "category": "CLEANING",
@@ -4060,8 +4052,8 @@
       },
       {
           "id": "8018",
-          "name": "DET. ARIEL 2K                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "DETERGENTE ARIEL 2K",
+          "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
           "description": "Detergente en polvo Ariel x 2 Kg, remueve manchas difíciles y de sudor, poder de limpieza, espuma suave, sin fosfato, para ropa blanca y de color.",
@@ -4069,8 +4061,8 @@
       },
       {
           "id": "8019",
-          "name": "DET. ARIEL 2L                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "DETERGENTE. ARIEL 2L",
+          "quantity": "UNIDADES",
           "price": " $ 18,000 ",
           "category": "CLEANING",
           "description": "Detergente Ariel liquido x 1.2L",
@@ -4078,8 +4070,8 @@
       },
       {
           "id": "8020",
-          "name": "DET. ARIEL 5K                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "DETERGENTE. ARIEL 5K",
+          "quantity": "UNIDADES",
           "price": " $ 21,000 ",
           "category": "CLEANING",
           "description": "Detergente en polvo Ariel x 5 Kg, remueve manchas difíciles y de sudor, poder de limpieza, espuma suave, sin fosfato, para ropa blanca y de color.",
@@ -4087,7 +4079,7 @@
       },
       {
           "id": "8021",
-          "name": "DET. ARIEL DOWNY 4K",
+          "name": "DETERGENTE. ARIEL DOWNY 4K",
           "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
@@ -4096,7 +4088,7 @@
       },
       {
           "id": "8022",
-          "name": "DET. ARIEL VERD.4K",
+          "name": "DETERGENTE ARIEL VERD.4K",
           "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
@@ -4105,7 +4097,7 @@
       },
       {
           "id": "8023",
-          "name": "DET. ARIEL 4L",
+          "name": "DETERGENTE ARIEL 4L",
           "quantity": "UNIDADES",
           "price": " $ 32,000 ",
           "category": "CLEANING",
@@ -4114,8 +4106,8 @@
       },
       {
           "id": "8024",
-          "name": "DET. COCO LIQ 1.8                                           ",
-          "quantity": "UNIDADES            ",
+          "name": "DETERGENTE COCO LIQUIDO 1.8",
+          "quantity": "UNIDADES",
           "price": " $ 14,000 ",
           "category": "CLEANING",
           "description": "Detergente líquido Coco Varela x 1.8 L",
@@ -4123,8 +4115,8 @@
       },
       {
           "id": "8025",
-          "name": "DET. COCO LIQ 5L                                            ",
-          "quantity": "UNIDADES            ",
+          "name": "DET. COCO LIQUIDO 5L",
+          "quantity": "UNIDADES",
           "price": " $ 32,000 ",
           "category": "CLEANING",
           "description": "Detergente líquido Coco Varela x 5 L",
@@ -4132,8 +4124,8 @@
       },
       {
           "id": "8026",
-          "name": "DET. DERSA 4L                                               ",
-          "quantity": "UNIDADES            ",
+          "name": "DETERGENTE DERSA 4L",
+          "quantity": "UNIDADES",
           "price": " $ 21,000 ",
           "category": "CLEANING",
           "description": "Detergente líquido elaborado con agua, tensoactivos aniónicos, tensoactivos no iónicos, ayudantes de lavado, perfume y abrillantador óptico, Duracion de hasta 50 lavadas, Alta eficiencia, Para todo tipo de ropa,",
@@ -4141,7 +4133,7 @@
       },
       {
           "id": "8027",
-          "name": "DET. DERSA 5K",
+          "name": "DETERGENTE DERSA 5K",
           "quantity": "UNIDADES",
           "price": " $ 20,000 ",
           "category": "CLEANING",
@@ -4150,7 +4142,7 @@
       },
       {
           "id": "8028",
-          "name": "DET. DERSA 6K +REY",
+          "name": "DETERGENTE DERSA 6K +REY",
           "quantity": "UNIDADES",
           "price": " $ 23,000 ",
           "category": "CLEANING",
@@ -4159,7 +4151,7 @@
       },
       {
           "id": "8029",
-          "name": "DET. FAB 1.8 L",
+          "name": "DETERGENTE FAB 1.8 L",
           "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
@@ -4168,7 +4160,7 @@
       },
       {
           "id": "8030",
-          "name": "DET. FAB 4K",
+          "name": "DETERGENTE FAB 4K",
           "quantity": "UNIDADES",
           "price": " $ 17,000 ",
           "category": "CLEANING",
@@ -4177,7 +4169,7 @@
       },
       {
           "id": "8031",
-          "name": "DET. FAB 6K",
+          "name": "DETERGENTE FAB 6K",
           "quantity": "UNIDADES",
           "price": " $ 24,000 ",
           "category": "CLEANING",
@@ -4186,7 +4178,7 @@
       },
       {
           "id": "8032",
-          "name": "DET. LAVOMATIC 1.8                                          ",
+          "name": "DETERGENTE LAVOMATIC 1.8                                          ",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -4195,7 +4187,7 @@
       },
       {
           "id": "8033",
-          "name": "DET. OH LALA",
+          "name": "DETERGENTE OH LALA",
           "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
@@ -4204,7 +4196,7 @@
       },
       {
           "id": "8034",
-          "name": "DET. RINDEX 4K                                              ",
+          "name": "DETERGENTE RINDEX 4K                                              ",
           "quantity": "UNIDADES            ",
           "price": " $ 15,000 ",
           "category": "CLEANING",
@@ -4213,7 +4205,7 @@
       },
       {
           "id": "8035",
-          "name": "DET. VEL ROSITA 1.8                                         ",
+          "name": "DETERGENTE VEL ROSITA 1.8                                         ",
           "quantity": "UNIDADES            ",
           "price": " $ 14,000 ",
           "category": "CLEANING",
