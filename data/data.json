@@ -3304,8 +3304,8 @@
           "quantity": "BANDEJA",
           "price": " $ 26,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Postobón 3 litros bandeja",
+          "image": "../images/postobonTresLitrosBandeja.png"
       },
       {
           "id": "5031",
