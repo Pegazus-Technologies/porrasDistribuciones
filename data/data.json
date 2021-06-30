@@ -2792,40 +2792,32 @@
           "name": "BAILEYS TRIPACK",
           "quantity": "PACHA X 3",
           "category": "LIQUOR",
-          "description": "Baileys tripack",
-          "image": "../images/baileysTripack.png"
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "image": "../images/BaileysX3.jpg"
       },
       {
           "id": "2242",
           "name": "BLACK & WHITE 200 ML CAJA",
           "quantity": "CAJA X 48",
           "category": "LIQUOR",
-          "description": "Whisky Black & White botella caja x 48 unidades" ,
-          "image": "../images/blackWhiteBotella.png"
+          "description": "Whisky Black & White 200 ml Caja X 48 Und ",
+          "image": "../images/PhotoRoom_20200908_214328.jpg"
       },
       {
           "id": "2243",
           "name": "BLACK & WHITE 200 ML UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Whisky Black & White botella unidad",
-          "image": "../images/blackWhiteBotella.png"
-      },
-      {
-          "id": "2244",
-          "name": "OLD PARR 18 AÑOS BOTELLA CAJA",
-          "quantity": "CAJA X 12",
-          "category": "LIQUOR",
-          "description": "Old parr 18 años botella caja x 12 unidades",
-          "image": "../images/oldPar18Botella.png"
+          "description": "Whisky Black  & White 200ml",
+          "image": "../images/PhotoRoom_20200908_214328.jpg"
       },
       {
           "id": "2245",
           "name": "OLD PARR 18 AÑOS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Old parr 18 años botella unidad",
-          "image": "../images/oldPar18Botella.png"
+          "description": "Presentación: 750 ml, Origen: Escocia, Grados de alcohol: 40°.",
+          "image": "../images/oldpar-18-750.jpg"
       },
       {
           "id": "2246",
@@ -2928,7 +2920,7 @@
           "name": "AGUARDIENTE CRISTAL XS BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Aguardiente CRISTAL XS suave x375 ml caja x 12 unidades",
+          "description": "Aguardiente Cristal XS Caja X 12 Und.",
           "image": "../images/Aguardiente-Cristal-xs-x750ml-1000x798-600x479.jpg"
       },
       {
@@ -2936,7 +2928,7 @@
           "name": "AGUARDIENTE CRISTAL XS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Aguardiente CRISTAL XS suave x375 ml.",
+          "description": "Aguardiente CRristal XS suave x375 ml.",
           "image": "../images/Aguardiente-Cristal-xs-x750ml-1000x798-600x479.jpg"
       },
       {
