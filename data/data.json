@@ -2793,39 +2793,39 @@
           "quantity": "PACHA X 3",
           "category": "LIQUOR",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "image": "../images/BaileysX3.jpg"
       },
       {
           "id": "2242",
           "name": "BLACK & WHITE 200 ML CAJA",
           "quantity": "CAJA X 48",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Black & White 200 ml Caja X 48 Und ",
+          "image": "../images/PhotoRoom_20200908_214328.jpg"
       },
       {
           "id": "2243",
           "name": "BLACK & WHITE 200 ML UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Black  & White 200ml",
+          "image": "../images/PhotoRoom_20200908_214328.jpg"
       },
       {
           "id": "2244",
           "name": "OLD PARR 18 AÑOS BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Whisky Old Parr 18 Años Caja X 12 Und.",
+          "image": "../images/oldpar-18-750.jpg"
       },
       {
           "id": "2245",
           "name": "OLD PARR 18 AÑOS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Presentación: 750 ml, Origen: Escocia, Grados de alcohol: 40°.",
+          "image": "../images/oldpar-18-750.jpg"
       },
       {
           "id": "2246",
@@ -2928,7 +2928,7 @@
           "name": "AGUARD CRISTAL XS BOTELLA CAJA",
           "quantity": "CAJA X 12",
           "category": "LIQUOR",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
+          "description": "Aguardiente Cristal XS Caja X 12 Und.",
           "image": "../images/Aguardiente-Cristal-xs-x750ml-1000x798-600x479.jpg"
       },
       {
@@ -2936,7 +2936,7 @@
           "name": "AGUARD CRISTAL XS BOTELLA UNIDAD",
           "quantity": "UNIDAD",
           "category": "LIQUOR",
-          "description": "Aguardiente CRISTAL XS suave x375 ml.",
+          "description": "Aguardiente CRristal XS suave x375 ml.",
           "image": "../images/Aguardiente-Cristal-xs-x750ml-1000x798-600x479.jpg"
       },
       {
