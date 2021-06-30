@@ -3025,8 +3025,8 @@
           "quantity": "UNIDADES",
           "price": " $ 3,000 ",
           "category": "FOOD",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Durazno unidad",
+          "image": "../images/durazno-unidad.jpg"
       },
       {
           "id": "4002",
@@ -3034,8 +3034,8 @@
           "quantity": "CAJA",
           "price": " $ 29,000 ",
           "category": "FOOD",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Durazno caja",
+          "image": "../images/durazno-unidad.jpg"
       },
       {
           "id": "4003",
@@ -3304,8 +3304,8 @@
           "quantity": "BANDEJA",
           "price": " $ 26,500 ",
           "category": "BEVERAGE",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Bebida gaseosa Postobón 3 litros bandeja",
+          "image": "../images/postobonTresLitrosBandeja.png"
       },
       {
           "id": "5031",
@@ -4263,8 +4263,8 @@
           "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Glade repuesto automático",
+          "image": "../images/gladeAutomático.png"
       },
       {
           "id": "8042",
@@ -4281,17 +4281,17 @@
           "quantity": "UNIDADES            ",
           "price": " $ 10,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Glade x 2 unidades",
+          "image": "../images/gladePor2.png"
       },
       {
           "id": "8044",
-          "name": "GLADE*3                                                     ",
-          "quantity": "UNIDADES            ",
+          "name": "GLADE*3",
+          "quantity": "UNIDADES",
           "price": " $ 15,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Glade x 3 unidades",
+          "image": "../images/gladePorTres.png"
       },
       {
           "id": "8045",
@@ -4376,12 +4376,12 @@
       },
       {
           "id": "8054",
-          "name": "RAID360+APARATO ELECT.                                      ",
-          "quantity": "UNIDADES            ",
+          "name": "RAID360 + APARATO ELECTRICO",
+          "quantity": "UNIDADES",
           "price": " $ 18,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Raid 360  + aparato eléctrico",
+          "image": "../images/raidElectrico.png"
       },
       {
           "id": "8055",
@@ -4779,7 +4779,7 @@
       },
       {
           "id": "9025",
-          "name": "DESOD. ARDEN FORMEN SPRAY",
+          "name": "DESODORANTE ARDEN FORMEN SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 7,000 ",
           "category": "CLEANING",
@@ -4788,7 +4788,7 @@
       },
       {
           "id": "9026",
-          "name": "DESOD. AXE SPRAY",
+          "name": "DESODORANTE AXE SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 9,500 ",
           "category": "CLEANING",
@@ -4797,7 +4797,7 @@
       },
       {
           "id": "9027",
-          "name": "DESOD. BALANCE BARRA",
+          "name": "DESODORANTE. BALANCE BARRA",
           "quantity": "UNIDADES",
           "price": " $ 6,000 ",
           "category": "CLEANING",
@@ -4806,7 +4806,7 @@
       },
       {
           "id": "9028",
-          "name": "DESOD. BALANCE SPRAY",
+          "name": "DESODORANTE BALANCE SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
@@ -4815,7 +4815,7 @@
       },
       {
           "id": "9029",
-          "name": "DESOD. DOVE BARRA DERMOACL",
+          "name": "DESODORANTE DOVE BARRA DERMOACL",
           "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
@@ -4824,7 +4824,7 @@
       },
       {
           "id": "9030",
-          "name": "DESOD. DOVE DERMO SPRAY",
+          "name": "DESODORANTE. DOVE DERMO SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 10,000 ",
           "category": "CLEANING",
@@ -4833,7 +4833,7 @@
       },
       {
           "id": "9031",
-          "name": "DESOD. DOVE MEN",
+          "name": "DESODORANTE. DOVE MEN",
           "quantity": "UNIDADES",
           "price": " $ 8,000 ",
           "category": "CLEANING",
@@ -4842,7 +4842,7 @@
       },
       {
           "id": "9032",
-          "name": "DESOD. DOVE MEN INVIS",
+          "name": "DESODORANTE DOVE MEN INVIS",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -4851,7 +4851,7 @@
       },
       {
           "id": "9033",
-          "name": "DESOD. GILLETTE GEL",
+          "name": "DESODORANTE GILLETTE GEL",
           "quantity": "UNIDADES",
           "price": " $ 12,000 ",
           "category": "CLEANING",
@@ -4860,7 +4860,7 @@
       },
       {
           "id": "9034",
-          "name": "DESOD. GILLETTE ROLL-ON",
+          "name": "DESODORANTE GILLETTE ROLL-ON",
           "quantity": "UNIDADES",
           "price": " $ 7,000 ",
           "category": "CLEANING",
@@ -4869,7 +4869,7 @@
       },
       {
           "id": "9035",
-          "name": "DESOD. LADY S.S SPRAY",
+          "name": "DESODORANTE LADY S.S SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -4878,7 +4878,7 @@
       },
       {
           "id": "9036",
-          "name": "DESOD. OLD SPICE SPRAY",
+          "name": "DESODORANTE OLD SPICE SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -4887,7 +4887,7 @@
       },
       {
           "id": "9037",
-          "name": "DESOD. REXBAMBOO SPRAY DAMA",
+          "name": "DESODORANTE REXBAMBOO SPRAY DAMA",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -4896,7 +4896,7 @@
       },
       {
           "id": "9038",
-          "name": "DESOD. REXONA BARRA",
+          "name": "DESODORANTE REXONA BARRA",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -4905,7 +4905,7 @@
       },
       {
           "id": "9039",
-          "name": "DESOD. REXONA CLIN",
+          "name": "DESODORANTE REXONA CLIN",
           "quantity": "UNIDADES",
           "price": " $ 11,000 ",
           "category": "CLEANING",
@@ -4914,7 +4914,7 @@
       },
       {
           "id": "9040",
-          "name": "DESOD. REXONA CLIN.MEN",
+          "name": "DESODORANTE REXONA CLIN.MEN",
           "quantity": "UNIDADES",
           "price": " $ 13,000 ",
           "category": "CLEANING",
@@ -4923,7 +4923,7 @@
       },
       {
           "id": "9041",
-          "name": "DESOD. REXONA CLIN.SPRAY",
+          "name": "DESODORANTE REXONA CLIN.SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 10,500 ",
           "category": "CLEANING",
@@ -4932,7 +4932,7 @@
       },
       {
           "id": "9042",
-          "name": "DESOD. REXONA V8 SPRAY",
+          "name": "DESODORANTE REXONA V8 SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -4968,7 +4968,7 @@
       },
       {
           "id": "9046",
-          "name": "DESOD. SPEED S. SPRAY",
+          "name": "DESODORANTE SPEED S. SPRAY",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -4977,7 +4977,7 @@
       },
       {
           "id": "9047",
-          "name": "DESOD. SPEED S. ROLLON",
+          "name": "DESODORANTE SPEED STICK ROLLON",
           "quantity": "UNIDADES",
           "price": " $ 7,500 ",
           "category": "CLEANING",
@@ -5202,48 +5202,48 @@
       },
       {
           "id": "9069",
-          "name": "LUBRI.AZUL 946 ML",
+          "name": "LUBRIDERM AZUL 946 ML",
           "quantity": "UNIDADES",
           "price": " $ 26,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Lubriderm azul",
+          "image": "../images/LUBRIDERMAZUL.png"
       },
       {
           "id": "9070",
-          "name": "LUBRI.DORADA 946 ML",
+          "name": "LUBRIDERM DORADA 946 ML",
           "quantity": "UNIDADES",
           "price": " $ 30,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Lubriderm dorada",
+          "image": "../images/LUBRIDERMdORADA.png"
       },
       {
           "id": "9071",
-          "name": "LUBRI.GRIS MEN 400ML",
+          "name": "LUBRIDERM GRIS MEN 400ML",
           "quantity": "UNIDADES",
           "price": " $ 20,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Lubridem men 400 ml",
+          "image": "../images/lubriMen400ml.png"
       },
       {
           "id": "9072",
-          "name": "LUBRI.MORADA 946 ML",
+          "name": "LUBRIDERM MORADA 946 ML",
           "quantity": "UNIDADES",
           "price": " $ 30,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Lubriderm morada",
+          "image": "../images/lubridermMorada.png"
       },
       {
           "id": "9073",
-          "name": "LUBRI.VERDE 400ML",
+          "name": "LUBRIDERM VERDE 400ML",
           "quantity": "UNIDADES",
           "price": " $ 19,000 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Lubriderm verde 400 ml",
+          "image": "../images/lubriverde400.png"
       },
       {
           "id": "9074",
@@ -5553,7 +5553,7 @@
       },
       {
           "id": "9108",
-          "name": "DESOD. REXONA V8 ROLL-ON",
+          "name": "DESODORANTE REXONA V8 ROLL-ON",
           "quantity": "UNIDAD",
           "price": " $ 7,000 ",
           "category": "CLEANING",
@@ -5562,7 +5562,7 @@
       },
       {
           "id": "9109",
-          "name": "DES. MEXSANA PIES",
+          "name": "DESODORANTE MEXSANA PIES",
           "quantity": "UNIDAD",
           "price": " $ 10,000 ",
           "category": "CLEANING",
@@ -5571,7 +5571,7 @@
       },
       {
           "id": "9110",
-          "name": "GEL.AFEITAR GILLETTE",
+          "name": "GEL DE AFEITAR GILLETTE",
           "quantity": "UNIDAD",
           "price": " $ 10,000 ",
           "category": "CLEANING",
@@ -5589,7 +5589,7 @@
       },
       {
           "id": "9112",
-          "name": "MAQUI. AFEITAR SHICK X3",
+          "name": "MAQUINA DE AFEITAR SHICK X3",
           "quantity": "UNIDAD",
           "price": " $ 2,500 ",
           "category": "CLEANING",
@@ -5643,7 +5643,7 @@
       },
       {
           "id": "9118",
-          "name": "DET. BARRA COCO X3",
+          "name": "DETERGENTE BARRA COCO X3",
           "quantity": "UNIDADES",
           "price": " $ 7,000 ",
           "category": "CLEANING",
@@ -5652,7 +5652,7 @@
       },
       {
           "id": "9119",
-          "name": "DET. BARRA PURO",
+          "name": "DETERGENTE BARRA PURO",
           "quantity": "UNIDAD",
           "price": " $ 1,000 ",
           "category": "CLEANING",
@@ -5661,7 +5661,7 @@
       },
       {
           "id": "9120",
-          "name": "DET. BARRA VEL ROSITA X3",
+          "name": "DETERGENTE BARRA VEL ROSITA X3",
           "quantity": "UNIDADES",
           "price": " $ 5,000 ",
           "category": "CLEANING",
@@ -5670,12 +5670,12 @@
       },
       {
           "id": "9121",
-          "name": "DESOD. REXONA PRACTI TUBO                                   ",
-          "quantity": "UNIDAD              ",
+          "name": "DESODORANTE REXONA PRACTI TUBO",
+          "quantity": "UNIDAD",
           "price": " $ 2,800 ",
           "category": "CLEANING",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus semper laoreet. Nunc vulputate odio turpis, pulvinar scelerisque ex rhoncus id. Donec est tellus, interdum nec dignissim eget, consectetur quis ante. Proin magna quam, dignissim vitae neque non, bibendum dignissim ex. Donec felis tortor, accumsan volutpat nunc non, viverra eleifend sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec dolor lectus. Aenean dignissim nunc in pellentesque ultricies.",
-          "image": "../images/default.png"
+          "description": "Desodorante rexona practi tubo",
+          "image": "../images/rexonaPRACTITUBO.png"
       },
       {
           "id": "9122",
@@ -5706,7 +5706,7 @@
       },
       {
           "id": "9125",
-          "name": "DESOD. BALANCE SACHET",
+          "name": "DESODORANTE. BALANCE SACHET",
           "quantity": "UNIDADES",
           "price": " $ 9,000 ",
           "category": "CLEANING",
@@ -5760,7 +5760,7 @@
       },
       {
           "id": "9131",
-          "name": "CREM. J&J CORPORAL 400",
+          "name": "CREMA J&J CORPORAL 400",
           "quantity": "UNIDAD",
           "price": " $ 17,500 ",
           "category": "CLEANING",
@@ -5769,7 +5769,7 @@
       },
       {
           "id": "9132",
-          "name": "COLG T.ACC.125ML X 6",
+          "name": "COLGATE TRIPLE ACCIÓN 125ML X 6",
           "quantity": "CAJA X 6",
           "price": " $ 24,000 ",
           "category": "CLEANING",
