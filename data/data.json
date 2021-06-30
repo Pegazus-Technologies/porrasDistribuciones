@@ -232,7 +232,7 @@
           "price": " $ 8,400 ",
           "category": "BEER",
           "description": "Cerveza costeñita six pack",
-          "image": "../images/costeñitasixpack.png"
+          "image": "../images/Cerveza-Costena-Bacana-botella-x-6-und-x-320ml-CU.jpg"
       },
       {
           "id": "1027",
@@ -241,7 +241,7 @@
           "price": " $ 33,500 ",
           "category": "BEER",
           "description": "Cerveza costeñita botella caja",
-          "image": "../images/default.png"
+          "image": "../images/Cerveza-Costena-Bacana-botella-x-6-und-x-320ml-CU.jpg"
       },
       {
           "id": "1028",
@@ -313,7 +313,7 @@
           "price": " $ 30,000 ",
           "category": "BEER",
           "description": "Cerveza Kaufman Bandeja",
-          "image": "../images/default.png"
+          "image": "../images/0002274.jpg"
       },
       {
           "id": "1036",
@@ -456,8 +456,8 @@
           "quantity": "BANDEJA",
           "price": " $ 39,000 ",
           "category": "BEER",
-          "description": "Cerveza Pokerita bandeja 269",
-          "image": "../images/default.png"
+          "description": "Cerveza Poker bandeja",
+          "image": "../images/CervezaPokerBandeja.png"
       },
       {
           "id": "1052",
@@ -465,8 +465,8 @@
           "quantity": "SIXPACK",
           "price": " $ 9,800 ",
           "category": "BEER",
-          "description": "Cerveza Pokerita 269 sixpack",
-          "image": "../images/default.png"
+          "description": "Cerveza Poker sixpack",
+          "image": "../images/pokerSickPackLata.png"
       },
       {
           "id": "1053",
@@ -492,7 +492,7 @@
           "quantity": "BANDEJA",
           "category": "BEER",
           "description": "Ceveza Becks lata bandeja",
-          "image": "../images/default.png"
+          "image": "../images/51UqNH72tQL._AC_SX466_.jpg"
       },
       {
           "id": "1056",
@@ -576,7 +576,7 @@
           "quantity": "BANDEJA",
           "category": "BEER",
           "description": "Cerveza costeña bacana 330 bandeja",
-          "image": "../images/default.png"
+          "image": "../images/costeñitaBandeja.png"
       },
       {
           "id": "1066",
@@ -584,7 +584,7 @@
           "quantity": "SIXPACK",
           "category": "BEER",
           "description": "Cerveza costeña bacana 330 sixpack",
-          "image": "../images/default.png"
+          "image": "../images/costeñitasixpack.png"
       },
       {
           "id": "2001",
