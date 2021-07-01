@@ -157,40 +157,6 @@ html body {
   text-decoration: underline;
 }
 
-.sucursal-container {
-  margin-top: 30px;
-}
-
-.sucursal-container .sucursal {
-  width: 300px;
-  height: 80%;
-  background: #fff;
-}
-
-.sucursal-container .sucursal .content-suc {
-  padding: 20px;
-}
-
-.sucursal-container .sucursal .content-suc .title {
-  font-weight: 600px;
-  font-size: 22px;
-  text-transform: capitalize;
-  text-align: center;
-}
-
-.sucursal-container .sucursal:hover {
-  text-decoration: underline;
-}
-
-.sucursal-container .sucursal .content-suc .container-button a {
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  text-decoration: none;
-  padding: 10px;
-  margin-right: 2em;
-}
-
 .container-button a {
   display: inline-block;
   text-align: center;
