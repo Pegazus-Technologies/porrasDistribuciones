@@ -131,57 +131,57 @@ buildingSlide(actualHref, null, aseoUrl, aseoMessage);
     CONTACT FORMS validation 
 ==============================================================================================*/
 
-const formAlert = document.getElementById('formAlert');
-const names = document.getElementById('name');
-const email = document.getElementById('email');
-const subject = document.getElementById('subject');
-const message = document.getElementById('message');
+// const formAlert = document.getElementById('formAlert');
+// const names = document.getElementById('name');
+// const email = document.getElementById('email');
+// const subject = document.getElementById('subject');
+// const message = document.getElementById('message');
 
-const forms = document.getElementById('fh5co_contact_form');
-if(forms){
-  forms.addEventListener('submit', handleSubmit);
-}
+// const forms = document.getElementById('fh5co_contact_form');
+// if(forms){
+//   forms.addEventListener('submit', handleSubmit);
+// }
 
 
-async function handleSubmit(e){
-  e.preventDefault();
-  if(names.value.trim().length > 0 && email.value.trim().length > 0 && subject.value.trim().length > 0 && message.value.trim().length > 0){
-    formAlert.innerHTML = `
-    <div class="rounded-0 mt-3 mb-0 d-flex justify-content-between align-items-center  alert-info alert id='sendingAlert' text-left alert-dismissible fade show" role="alert" id="sendingAlert">
-    Enviando mensaje ........... <h5><i class="fa fa-paper-plane-o" aria-hidden="true"></i></h5>
-    </div>
-    `
-    const form = new FormData(this);
-    const response = await fetch(this.action, {
-      method: this.method,
-      body: form,
-      headers: {
-        'Accept': 'aplication/json'
-      }
-    });
-    if(response.ok){
-      document.getElementById('sendingAlert').style.display='none';
-       this.reset();
-       formAlert.innerHTML = `
-       <div class="rounded-0 mt-3 mb-0 alert alert-info text-left alert-dismissible fade show" role="alert">
-        <strong>!Su mensaje ha sido enviado!</strong> Lo contactaremos en breve.
-       </div>
-       `
-    }else if(!response.ok){
-      formAlert.innerHTML = `
-       <div class="mt-3 mb-0 alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
-        <strong>!No se puede enviar el mensaje, prueBe contactarnos por WhatsApp!</strong>
-       </div>
-    `
-    }
-  }else{
-    formAlert.innerHTML = `
-       <div class="mt-3 mb-0 alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
-        <strong>!todos los campos son obligatorios!</strong>
-       </div>
-    `
-  }
-}
+// async function handleSubmit(e){
+//   e.preventDefault();
+//   if(names.value.trim().length > 0 && email.value.trim().length > 0 && subject.value.trim().length > 0 && message.value.trim().length > 0){
+//     formAlert.innerHTML = `
+//     <div class="rounded-0 mt-3 mb-0 d-flex justify-content-between align-items-center  alert-info alert id='sendingAlert' text-left alert-dismissible fade show" role="alert" id="sendingAlert">
+//     Enviando mensaje ........... <h5><i class="fa fa-paper-plane-o" aria-hidden="true"></i></h5>
+//     </div>
+//     `
+//     const form = new FormData(this);
+//     const response = await fetch(this.action, {
+//       method: this.method,
+//       body: form,
+//       headers: {
+//         'Accept': 'aplication/json'
+//       }
+//     });
+//     if(response.ok){
+//       document.getElementById('sendingAlert').style.display='none';
+//        this.reset();
+//        formAlert.innerHTML = `
+//        <div class="rounded-0 mt-3 mb-0 alert alert-info text-left alert-dismissible fade show" role="alert">
+//         <strong>!Su mensaje ha sido enviado!</strong> Lo contactaremos en breve.
+//        </div>
+//        `
+//     }else if(!response.ok){
+//       formAlert.innerHTML = `
+//        <div class="mt-3 mb-0 alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
+//         <strong>!No se puede enviar el mensaje, prueBe contactarnos por WhatsApp!</strong>
+//        </div>
+//     `
+//     }
+//   }else{
+//     formAlert.innerHTML = `
+//        <div class="mt-3 mb-0 alert alert-danger rounded-0 text-left alert-dismissible fade show" role="alert">
+//         <strong>!todos los campos son obligatorios!</strong>
+//        </div>
+//     `
+//   }
+// }
 
 
 /*============================================================================================
@@ -644,8 +644,8 @@ const renderProducts = (products) => {
             <p class="text-justify">${product.description}</p>
           </div>
           <div class="modal-footer d-flex justify-content-between">
-          <a href="https://api.whatsapp.com/send?phone=573214308206" style="background: #50c14e" class="text-white btn pr-5 pl-5 w-100" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
-            <a type="button" href='https://checkout.wompi.co/l/VPOS_KxOlu5' target='_blank' class="btn btn-primary text-white">Comprar ahora <span class="ml-3"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span></a>
+            <a href="https://api.whatsapp.com/send?phone=573214308206" style="background: #50c14e" class="text-white btn ml-5 mr-5 w-100 " target="_blank">Contáctanos&nbsp;<i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+            
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
           </div>
         </div>

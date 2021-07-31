@@ -1,5 +1,5 @@
 <?php
-    $destinatario = 'wilmerpachon@gmail.com';
+    $destinatario = 'soacha@distribucionesporras.com.co';
     $nombre = $_POST['names'] ;
     $correo = $_POST['email'] ;
     $asunto = $_POST['subject'] ;
@@ -10,5 +10,5 @@
 
     mail($destinatario, $asunto, $mensajeCompleto, $header);
     echo "<script>alert('correo enviado exitosamente')</script>";
-    echo "<script> setTimeout(\"location.href='Contact_us.html'\",1000)</script>";
+    echo "<script> setTimeout(\"location.href='Soacha.html'\",1000)</script>";
 ?>

@@ -154,17 +154,26 @@
                   <a class="nav-link" href="single.html">Single <span class="sr-only">(current)</span></a>
                 </li> -->
                 <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle active" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
+                  <a class="nav-link dropdown-toggle" id="nav-4" href="#" id="dropdownMenuButton2" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">Sucursales <span class="sr-only">(current)</span></a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink_1">
-                      <a class="dropdown-item" href="../../sucursales/bogota/Soacha.html">Soacha</a>
-                      <a class="dropdown-item" href="../../sucursales/bogota/Bosa.html">Bosa</a>
-                      <a class="dropdown-item" href="../../sucursales/bogota/La 36.html">La 36</a>
-                      <a class="dropdown-item" href="../../sucursales/bogota/la12.html">La 12(centro)</a>
-                      <a class="dropdown-item" href="../../sucursales/bogota/Aseo.html">Aseo</a>
-                      <a class="dropdown-item active" href="../../sucursales/bucaramanga/FloridaBlanca.html">Florida blanca</a>
-                      <a class="dropdown-item" href="../../sucursales/bucaramanga/Giron.html">Girón</a>
-                      <a class="dropdown-item" href="../../sucursales/bucaramanga/Laisla.html">La isla</a>
+                      <ul id="nav-area">
+                        <li><a class="dropdown-item dropdown-toggle">Bogotá</a>
+                          <ul>
+                            <a class="dropdown-item" href="../../sucursales/bogota/Soacha.html">Soacha</a>
+                            <a class="dropdown-item" href="../../sucursales/bogota/Bosa.html">Bosa</a>
+                            <a class="dropdown-item" href="../../sucursales/bogota/La 36.html">La 36</a>
+                            <a class="dropdown-item" href="../../sucursales/bogota/la12.html">La 12(centro)</a>
+                            <a class="dropdown-item" href="../../sucursales/bogota/Aseo.html">Aseo</a>
+                          </ul>
+                        </li>
+                        <li><a class="dropdown-item dropdown-toggle">Bucaramanga</a>
+                          <ul>
+                            <a class="dropdown-item active" href="../../sucursales/bucaramanga/FloridaBlanca.html">Florida blanca</a>
+                            <a class="dropdown-item" href="../../sucursales/bucaramanga/Giron.html">Girón</a>
+                          </ul>
+                        </li>
+                      </ul>
                     </div>
                 </li>
                 <!-- <li class="nav-item dropdown">
@@ -210,6 +219,7 @@
           <!-- <li class="breadcrumb-item"><a href="../../productos_mas_vendidos.html">Productos Más Vendidos</a></li>
           <li class="breadcrumb-item"><a href="../../Nosotros.html">Nosotros</a></li> -->
           <li class="breadcrumb-item"><a href="../../sucursales/bogota/Soacha.html">Sucursales</a></li>
+          <li class="breadcrumb-item"><a href="../../sucursales/bucaramanga/FloridaBlanca.html">Bucaramanga</a></li>
           <!-- <li class="breadcrumb-item"><a href="../../sucursales/bogota/Bosa.html">Bosa</a></li>
           <li class="breadcrumb-item"><a href="../../sucursales/bogota/La 36.html">La 36</a></li>
           <li class="breadcrumb-item"><a href="../../sucursales/bogota/la12.html">La 12</a></li>
@@ -237,7 +247,7 @@
               <h3 class="fh5co_heading fh5co_heading_border_bottom py-2 mb-4">Contáctanos</h3>
 
               <p class="fh5co_consectetur text-justify"> 
-                Puedes contáctarnos llamando a siguiente numero <i class="fa fa-phone" aria-hidden="true"></i>  <strong><a href="tel:+573182730037">(031) 318-273-0037</a>
+                Puedes contáctarnos llamando a siguiente numero <i class="fa fa-phone" aria-hidden="true"></i>  <strong><a href="tel:+573182730037">3182730037</a>
                 </strong>  y llevamos tu pedido <i class="fa fa-archive" aria-hidden="true"></i> hasta tu hogar o negocio.
               </p>
     
@@ -263,7 +273,7 @@
               <div class="row sticky-top">
                 <div class="col-12 fh5co_heading fh5co_heading_border_bottom py-1 mb-4">Contáctanos</div>
                 <div class="col-12 ">
-                  <form class="row" id="fh5co_contact_form" action="https://formspree.io/f/mbjqoedg" method="POST">
+                  <form class="row" id="fh5co_contact_form" action="florida.php" method="POST">
                     <div class="col-12 py-2">
                       <input autocomplete="off" id="name" name="names" type="text" class="form-control fh5co_contact_text_box" placeholder="Nombres y apellidos" />
                     </div>
@@ -278,7 +288,7 @@
                     </div>
                     <div class="col-12 pt-2 text-center">
                       <button id="send" type="submit" class="btn contact_btn w-100">Enviar mensaje</button>
-                      <div id="formAlert"></div>
+                      
                     </div>
                   </form>
                 </div>
@@ -419,7 +429,7 @@
     </div>
 
     <!-- Whats App -->
-    <a class="whatsappButton" href="https://wa.me/573214308206?text=%20Hola, Quisiera saber el precio de....." target="_blank" id="whatsappButton">
+    <a class="whatsappButton" href="https://wa.me/573182730037?text=%20Hola, Quisiera saber el precio de....." target="_blank" id="whatsappButton">
       <span class="whatsapp">
         <i class="fa fa-whatsapp" aria-hidden="true"></i>
     </span>
