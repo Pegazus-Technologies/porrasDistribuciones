@@ -3043,12 +3043,12 @@
       },
       {
           "id": "3008",
-          "name": "PASTA LA NIEVE 250GR",
-          "quantity": "ARROBA",
+          "name": "",
+          "quantity": "",
           "price": "  ",
-          "category": "FOOD",
-          "description": "Mezcla de semolato de trigo fortificado y agua, adicionada con una mezcla de micronutrientes compuesta por vitamina A, acido folico, Hierro y zinc",
-          "image": "../images/pastasLaNieve500.png"
+          "category": "",
+          "description": "",
+          "image": "../images/"
       },
       {
           "id": "3009",
