@@ -189,7 +189,7 @@ buildingSlide(actualHref, null, aseoUrl, aseoMessage);
 ==============================================================================================*/
 
 if(actualHref){
-    fetch('../../data/data.json')
+    fetch('../data/data.json')
     .then((res)=>{
         return res.json();
     }).then((productsData)=>{
@@ -643,10 +643,9 @@ const renderProducts = (products) => {
             <h5 class="mb-3 font-weight-bold">Descripción</h5>
             <p class="text-justify">${product.description}</p>
           </div>
-          <div class="modal-footer d-flex justify-content-between">
-            <a href="https://api.whatsapp.com/send?phone=573108306999" style="background: #50c14e" class="text-white btn ml-5 mr-5 w-100 " target="_blank">Contáctanos&nbsp;<i class="fa fa-whatsapp" aria-hidden="true"></i></a>
-            
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+          <div class="modal-footer">
+              <a href="https://api.whatsapp.com/send?phone=573108306999" style="background: #50c14e" class="text-white btn ml-5 mr-5 w-100 " target="_blank">Contáctanos&nbsp;<i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+              <button class="btn btn-danger" data-dismiss='modal'>Cancelar</button>
           </div>
         </div>
     `
