@@ -1,6 +1,6 @@
 <?php
     $destinatario = 'contacto@distribucionesporras.com.co';
-    $nombre = $_POST['names'] ;
+    $nombre = $_POST['name'] ;
     $correo = $_POST['email'] ;
     $asunto = $_POST['subject'] ;
     $mensaje = $_POST['message'] ;
